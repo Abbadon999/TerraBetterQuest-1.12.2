@@ -1,0 +1,26 @@
+{
+	title: "{tbq.quests.primitive.grains.title}",
+	x: 12.000000000000007d,
+	y: -7.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.grains.subtitle}",
+	dependencies: [
+		"3e5270be",
+		"3fc09a74"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d32f0738",
+		type: "item",
+		title: "{tbq.quests.primitive.grains.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "categoryGrain"
+				}
+			}
+		}]
+	}]
+}

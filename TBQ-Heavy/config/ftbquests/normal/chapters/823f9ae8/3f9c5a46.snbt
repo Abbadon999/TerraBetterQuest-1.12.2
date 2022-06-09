@@ -1,0 +1,51 @@
+{
+	title: "{tbq.quests.primitive.berrybushes.title}",
+	x: 10.5d,
+	y: -7.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.berrybushes.subtitle}",
+	dependencies: [
+		"564097f0"
+	],
+	tasks: [{
+		uid: "def17254",
+		type: "item",
+		title: "{tbq.quests.primitive.berrybushes.attachment}",
+		items: [{
+			item: "firmalife:pineapple_bush"
+		},
+		{
+			item: "tfc:berry_bush/blackberry"
+		},
+		{
+			item: "tfc:berry_bush/blueberry"
+		},
+		{
+			item: "tfc:berry_bush/bunch_berry"
+		},
+		{
+			item: "tfc:berry_bush/cloud_berry"
+		},
+		{
+			item: "tfc:berry_bush/cranberry"
+		},
+		{
+			item: "tfc:berry_bush/elderberry"
+		},
+		{
+			item: "tfc:berry_bush/gooseberry"
+		},
+		{
+			item: "tfc:berry_bush/raspberry"
+		},
+		{
+			item: "tfc:berry_bush/snow_berry"
+		},
+		{
+			item: "tfc:berry_bush/strawberry"
+		},
+		{
+			item: "tfc:berry_bush/wintergreen_berry"
+		}]
+	}]
+}

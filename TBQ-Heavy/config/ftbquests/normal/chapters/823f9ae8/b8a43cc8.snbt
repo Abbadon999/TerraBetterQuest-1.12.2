@@ -1,0 +1,53 @@
+{
+	title: "{tbq.quests.primitive.nickelpile.title}",
+	x: -31.0d,
+	y: 1.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.nickelpile.subtitle}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"b320933e"
+	],
+	tasks: [{
+		uid: "fbf322bf",
+		type: "item",
+		items: [{
+			id: "tfc:ore/garnierite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/garnierite",
+			Damage: 1s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/garnierite",
+			Damage: 2s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/small/garnierite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

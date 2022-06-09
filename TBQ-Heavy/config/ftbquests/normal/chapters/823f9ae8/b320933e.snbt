@@ -1,0 +1,14 @@
+{
+	title: "{tbq.quests.primitive.start.title}",
+	icon: "tfc:gem/amethyst 1 4",
+	x: 0.0d,
+	y: 0.0d,
+	description: "{tbq.quests.primitive.start.subtitle}",
+	size: 2.0d,
+	tasks: [{
+		uid: "3e5270be",
+		type: "checkmark",
+		title: "{tbq.quests.primitive.start.tasks.clickMe}",
+		icon: "minecraft:grass"
+	}]
+}

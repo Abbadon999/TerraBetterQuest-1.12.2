@@ -1,0 +1,29 @@
+{
+	title: "{tbq.quests.primitive.driedfruits.attachment}",
+	x: 9.500000000000002d,
+	y: 8.6d,
+	shape: "diamond",
+	dependencies: [
+		"263fdccc"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d1004d3d",
+		type: "item",
+		title: "{tbq.quests.primitive.driedfruits.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any fruitDry"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "fruitDry"
+				}
+			}
+		}]
+	}]
+}

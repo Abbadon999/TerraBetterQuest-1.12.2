@@ -1,0 +1,147 @@
+{
+    "renders": [
+        {
+			"image": {
+				"parent": "builtin/image",
+				"image": "mainmenu:textures/background.png",
+                "frame": "slideshow_frame(transition_duration, frame_count)",
+				"position_type": "CENTER",
+				"offset_pos": "CENTER",
+                "colour": "0xFF_FF_FF_FF",
+				"position": {
+					"x": "0",
+					"y": "0",
+					"width": "screen_width",
+					"height": "screen_height"
+				},
+				"texture": {
+					"x": "0",
+					"y": "0",
+					"width": "1",
+					"height": "1"
+				}
+			}
+		},
+        {
+			"image": {
+				"parent": "builtin/panorama",
+				"image": "mainmenu:textures/panorama/panorama_x.png"
+			}
+		},
+		{
+			"image": {
+				"parent": "builtin/image",
+				"image": "mainmenu:textures/terrabetterquest_modpack.png",
+				"position_type": "TOP_CENTER",
+				"offset_pos": "TOP_CENTER",
+				"position":{
+					"x": "0",
+					"y": "0",
+					"width": "screen_height / 1.4",
+					"height": "screen_height / 1.4"
+				},
+				"texture": {
+					"x": "0",
+					"y": "0",
+					"width": "1",
+					"height": "1"
+				}
+			}
+        },
+		{
+			"image": {
+				"parent": "builtin/image",
+				"image": "mainmenu:textures/loading.gif",
+				"position_type": "CENTER",
+				"offset_pos": "CENTER",
+				"type": "DYNAMIC",
+				"position":{
+					"x": "0",
+					"y": "20 + (screen_height / 16)",
+					"width": "screen_height / 8",
+					"height": "screen_height / 8"
+				},
+				"texture": {
+					"x": "0",
+					"y": "0",
+					"width": "1",
+					"height": "1"
+				}
+			}
+        },
+		{
+            "image": {
+                "parent": "builtin/image",
+                "image": "mainmenu:textures/panel_bottom.png",
+                "position_type": "BOTTOM_CENTER",
+                "offset_pos": "BOTTOM_CENTER",
+                "colour": "0xFF_FF_FF_FF",
+                "position": {"x": "0", "y": "0", "width": "screen_width", "height": "31"}
+            }
+        },
+		{
+            "image": {
+                "parent": "sample/bottom_bar",
+                "position_type": "BOTTOM_LEFT",
+                "offset_pos": "BOTTOM_LEFT",
+                "colour": "0xFF_00_00_00",
+                "position": {"width": "screen_width", "height": "2", "y": "-29"}
+            }
+        },
+		{
+            "image": {
+                "parent": "sample/bottom_bar",
+                "position_type": "BOTTOM_LEFT",
+                "offset_pos": "BOTTOM_LEFT",
+                "colour": "0xFF_FF_BF_8F",
+                "position": {"height": "2","y": "-29"}
+            }
+        },
+		{
+            "image": {
+                "parent": "builtin/text",
+                "text": "(floor(percentage * 100)) + '%'",
+                "scale": 2,
+                "position_type": "BOTTOM_RIGHT",
+                "offset_pos": "BOTTOM_RIGHT",
+                "position": { "x": -10, "y": -5 }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "text": "status",
+                "scale": 0.6,
+                "position_type": "BOTTOM_LEFT",
+                "offset_pos": "BOTTOM_LEFT",
+                "position": { "x": 5, "y": -7 }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/text",
+                "text": "sub_status",
+                "scale": 0.6,
+                "position_type": "BOTTOM_LEFT",
+                "offset_pos": "BOTTOM_LEFT",
+                "position": { "x": 5, "y": -2 }
+            }
+        },
+		{
+            "image": {
+                "parent": "builtin/text",
+                "text": "has_tips() ? tip(floor(time / 8)) : ''",
+                "scale": 1.0,
+                "position_type": "BOTTOM_CENTER",
+                "offset_pos": "BOTTOM_CENTER",
+                "position": { "x": 0, "y": -10 }
+            }
+        }
+    ],
+    "variables": {
+    },
+    "factories": [
+    ],
+    "actions": [
+    ]
+}

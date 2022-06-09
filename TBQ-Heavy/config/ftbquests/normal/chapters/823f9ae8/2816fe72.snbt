@@ -1,0 +1,19 @@
+{
+	title: "{tbq.quests.primitive.leather.title}",
+	x: 13.0d,
+	y: 10.5d,
+	shape: "square",
+	description: "{tbq.quests.primitive.leather.subtitle}",
+	dependencies: [
+		"bf82a628",
+		"7e2bb7a0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d79c858a",
+		type: "item",
+		items: [{
+			item: "minecraft:leather"
+		}]
+	}]
+}

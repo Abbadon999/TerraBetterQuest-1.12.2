@@ -1,0 +1,24 @@
+{
+	x: 15.0d,
+	y: 10.5d,
+	shape: "pentagon",
+	dependencies: [
+		"2816fe72"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fa1a2954",
+		type: "item",
+		items: [{
+			id: "tfc:quiver",
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 8
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

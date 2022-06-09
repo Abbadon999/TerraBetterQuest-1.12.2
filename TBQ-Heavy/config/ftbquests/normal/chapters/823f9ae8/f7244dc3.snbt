@@ -1,0 +1,30 @@
+{
+	x: -31.0d,
+	y: 0.0d,
+	description: "{tbq.quests.primitive.blacksteelingot.subtitle}",
+	dependencies: [
+		"b8a43cc8",
+		"da7d16a1",
+		"da02bce6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "db21d9f1",
+		type: "item",
+		title: "{tbq.quests.primitive.blacksteelingot.title}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotBlackSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotBlackSteel"
+				}
+			}
+		}]
+	}]
+}

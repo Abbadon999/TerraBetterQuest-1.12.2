@@ -1,0 +1,27 @@
+{
+	title: "{tbq.quests.primitive.planks.title}",
+	icon: "tfc:wood/lumber/maple",
+	x: 10.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.planks.subtitle}",
+	dependencies: [
+		"1ccd9dd8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c906c6d9",
+		type: "item",
+		title: "{tbq.quests.primitive.planks.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "lumber"
+				}
+			}
+		}],
+		count: 8L
+	}]
+}

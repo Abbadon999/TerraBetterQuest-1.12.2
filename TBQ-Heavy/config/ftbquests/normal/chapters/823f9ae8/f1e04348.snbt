@@ -1,0 +1,28 @@
+{
+	title: "{tbq.quests.primitive.bluesteelingot.title}",
+	x: -34.0d,
+	y: -1.0d,
+	dependencies: [
+		"f7244dc3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "86d445e0",
+		type: "item",
+		title: "{tbq.quests.primitive.bluesteelingot.title}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotBlueSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotBlueSteel"
+				}
+			}
+		}]
+	}]
+}

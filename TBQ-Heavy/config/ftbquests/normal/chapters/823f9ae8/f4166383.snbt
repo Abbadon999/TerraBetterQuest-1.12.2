@@ -1,0 +1,18 @@
+{
+	x: 4.200000000000001d,
+	y: 4.800000000000001d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.HorsePress.subtitle}",
+	dependencies: [
+		"ffb7544a"
+	],
+	hide: true,
+	size: 0.8d,
+	tasks: [{
+		uid: "c77f6349",
+		type: "item",
+		items: [{
+			item: "horsepower:press"
+		}]
+	}]
+}

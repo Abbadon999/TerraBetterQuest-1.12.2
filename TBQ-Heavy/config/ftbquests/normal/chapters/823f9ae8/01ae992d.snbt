@@ -1,0 +1,32 @@
+{
+	title: "{tbq.quests.primitive.bed.title}",
+	icon: "minecraft:bed",
+	x: 15.0d,
+	y: 14.5d,
+	shape: "pentagon",
+	description: "{tbq.quests.primitive.bed.subtitle}",
+	dependencies: [
+		"dfec1fd8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7cd97ddc",
+		type: "item",
+		title: "{tbq.quests.primitive.bed.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bed"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	x: -28.0d,
+	y: 0.0d,
+	shape: "octagon",
+	description: "{tbq.quests.primitive.steelingot.subtitle}",
+	dependencies: [
+		"b0bada7a",
+		"d6b816dd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "348c9b15",
+		type: "item",
+		title: "{tbq.quests.primitive.steelingot.title}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotSteel"
+				}
+			}
+		}]
+	}]
+}

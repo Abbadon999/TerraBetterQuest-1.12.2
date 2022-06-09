@@ -1,0 +1,744 @@
+{
+	title: "{tbq.quests.primitive.doublebullion.title}",
+	x: -24.5d,
+	y: -6.0d,
+	shape: "diamond",
+	hide: true,
+	size: 1.6d,
+	tasks: [{
+		uid: "030a04a8",
+		type: "item",
+		title: "{tbq.quests.primitive.doublebullion.attachment}",
+		items: [{
+			id: "tfc:metal/double_ingot/bismuth",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/bismuth_bronze",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/black_bronze",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/brass",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/bronze",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/copper",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/gold",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/lead",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/nickel",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/rose_gold",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/silver",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/tin",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/zinc",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/sterling_silver",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/wrought_iron",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/pig_iron",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/steel",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/platinum",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/black_steel",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/blue_steel",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/red_steel",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/lithium",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/constantan",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/nickel_silver",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/red_alloy",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/thorium",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/uranium",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/ardite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/cobalt",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/antimony",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/magnesium",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/magnesium_diboride",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/manganese",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/hsla_steel",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/tungsten_steel",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/zirconium",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/zircaloy",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/beryllium",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/aluminium_brass",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/beryllium_copper",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/boron",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/ferroboron",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_ingot/tough_alloy",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		}]
+	}]
+}

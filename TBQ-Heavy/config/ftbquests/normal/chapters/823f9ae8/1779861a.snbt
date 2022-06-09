@@ -1,0 +1,130 @@
+{
+	title: "{tbq.quests.primitive.ironpile.title}",
+	x: -19.5d,
+	y: -1.5d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.ironpile.subtitle}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"b320933e"
+	],
+	tasks: [{
+		uid: "613f9740",
+		type: "item",
+		title: "Железо",
+		items: [{
+			id: "tfc:ore/hematite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/hematite",
+			Damage: 1s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/hematite",
+			Damage: 2s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/small/hematite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/magnetite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/magnetite",
+			Damage: 1s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/magnetite",
+			Damage: 2s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/small/magnetite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/limonite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/limonite",
+			Damage: 1s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/limonite",
+			Damage: 2s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/small/limonite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

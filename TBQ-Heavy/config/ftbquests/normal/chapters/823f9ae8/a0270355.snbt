@@ -1,0 +1,18 @@
+{
+	x: 10.0d,
+	y: 12.5d,
+	shape: "hexagon",
+	dependencies: [
+		"2816fe72",
+		"6df7dbf0"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "07aedcbc",
+		type: "item",
+		items: [{
+			item: "waterflasks:leather_side"
+		}]
+	}]
+}

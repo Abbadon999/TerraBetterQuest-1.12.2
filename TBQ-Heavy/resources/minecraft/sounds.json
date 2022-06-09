@@ -1,0 +1,543 @@
+{ 
+	"music.game": { 
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/game/alpha",
+				"stream": true
+			},
+			{
+				"name": "music/game/ballad_of_the_cats",
+				"stream": true
+			},
+			{
+				"name": "music/game/chris",
+				"stream": true
+			},
+			{
+				"name": "music/game/concrete_halls",
+				"stream": true
+			},
+			{
+				"name": "music/game/dead_voxel",
+				"stream": true
+			},
+			{
+				"name": "music/game/dog",
+				"stream": true
+			},
+			{
+				"name": "music/game/door",
+				"stream": true
+			},
+			{
+				"name": "music/game/droopy_likes_ricochet",
+				"stream": true
+			},
+			{
+				"name": "music/game/droopy_likes_your_face",
+				"stream": true
+			},
+			{
+				"name": "music/game/eleven",
+				"stream": true
+			},
+			{
+				"name": "music/game/equinoxe",
+				"stream": true
+			},
+			{
+				"name": "music/game/excuse",
+				"stream": true
+			},
+			{
+				"name": "music/game/flake",
+				"stream": true
+			},
+			{
+				"name": "music/game/intro",
+				"stream": true
+			},
+			{
+				"name": "music/game/ki",
+				"stream": true
+			},
+			{
+				"name": "music/game/kyoto",
+				"stream": true
+			},
+			{
+				"name": "music/game/mall",
+				"stream": true
+			},
+			{
+				"name": "music/game/strad",
+				"stream": true
+			},
+			{
+				"name": "music/game/warmth",
+				"stream": true
+			},
+			{
+				"name": "music/game/01_the_setting_sun",
+				"stream": true
+			},
+			{
+				"name": "music/game/02_night_to_day",
+				"stream": true
+			},
+			{
+				"name": "music/game/03_mirror",
+				"stream": true
+			},
+			{
+				"name": "music/game/04_groove",
+				"stream": true
+			},
+			{
+				"name": "music/game/06_sunny_village",
+				"stream": true
+			},
+			{
+				"name": "music/game/07_through_the_grass_at_night",
+				"stream": true
+			},
+			{
+				"name": "music/game/08_adventuring",
+				"stream": true
+			},
+			{
+				"name": "music/game/09_to_dawn_from_a_very_rainy_night",
+				"stream": true
+			},
+			{
+				"name": "music/game/10_building",
+				"stream": true
+			},
+			{
+				"name": "music/game/11_creating",
+				"stream": true
+			},
+			{
+				"name": "music/game/12_peaceful_village",
+				"stream": true
+			},
+			{
+				"name": "music/game/13_nostalgic",
+				"stream": true
+			},
+			{
+				"name": "music/game/14_midnight",
+				"stream": true
+			},
+			{
+				"name": "music/game/15_heartbeat",
+				"stream": true
+			},
+			{
+				"name": "music/game/16_resonance_archive_the_seraphs",
+				"stream": true
+			},
+			{
+				"name": "music/game/17_winter",
+				"stream": true
+			},
+			{
+				"name": "music/game/18_daylight",
+				"stream": true
+			},
+			{
+				"name": "music/game/19_quirky_tavern",
+				"stream": true
+			},
+			{
+				"name": "music/game/20_cultured_tavern",
+				"stream": true
+			},
+			{
+				"name": "music/game/21_hallowcroft",
+				"stream": true
+			},
+			{
+				"name": "music/game/22_fall_o_croft",
+				"stream": true
+			},
+			{
+				"name": "music/game/m0",
+				"stream": true
+			},
+			{
+				"name": "music/game/m1",
+				"stream": true
+			},
+			{
+				"name": "music/game/m2",
+				"stream": true
+			},
+			{
+				"name": "music/game/m3",
+				"stream": true
+			},
+			{
+				"name": "music/game/m4",
+				"stream": true
+			}
+		]
+	},
+	"music.game.creative": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "music/game/alpha",
+				"stream": true
+			},
+			{
+				"name": "music/game/ballad_of_the_cats",
+				"stream": true
+			},
+			{
+				"name": "music/game/chris",
+				"stream": true
+			},
+			{
+				"name": "music/game/concrete_halls",
+				"stream": true
+			},
+			{
+				"name": "music/game/dead_voxel",
+				"stream": true
+			},
+			{
+				"name": "music/game/dog",
+				"stream": true
+			},
+			{
+				"name": "music/game/door",
+				"stream": true
+			},
+			{
+				"name": "music/game/droopy_likes_ricochet",
+				"stream": true
+			},
+			{
+				"name": "music/game/droopy_likes_your_face",
+				"stream": true
+			},
+			{
+				"name": "music/game/eleven",
+				"stream": true
+			},
+			{
+				"name": "music/game/equinoxe",
+				"stream": true
+			},
+			{
+				"name": "music/game/excuse",
+				"stream": true
+			},
+			{
+				"name": "music/game/flake",
+				"stream": true
+			},
+			{
+				"name": "music/game/intro",
+				"stream": true
+			},
+			{
+				"name": "music/game/ki",
+				"stream": true
+			},
+			{
+				"name": "music/game/kyoto",
+				"stream": true
+			},
+			{
+				"name": "music/game/mall",
+				"stream": true
+			},
+			{
+				"name": "music/game/strad",
+				"stream": true
+			},
+			{
+				"name": "music/game/warmth",
+				"stream": true
+			},
+			{
+				"name": "music/game/calm1",
+				"stream": true
+			},
+			{
+				"name": "music/game/calm2",
+				"stream": true
+			},
+			{
+				"name": "music/game/calm3",
+				"stream": true
+			},
+			{
+				"name": "music/game/hal1",
+				"stream": true
+			},
+			{
+				"name": "music/game/hal2",
+				"stream": true
+			},
+			{
+				"name": "music/game/hal3",
+				"stream": true
+			},
+			{
+				"name": "music/game/hal4",
+				"stream": true
+			},
+			{
+				"name": "music/game/01_the_setting_sun",
+				"stream": true
+			},
+			{
+				"name": "music/game/02_night_to_day",
+				"stream": true
+			},
+			{
+				"name": "music/game/03_mirror",
+				"stream": true
+			},
+			{
+				"name": "music/game/04_groove",
+				"stream": true
+			},
+			{
+				"name": "music/game/06_sunny_village",
+				"stream": true
+			},
+			{
+				"name": "music/game/07_through_the_grass_at_night",
+				"stream": true
+			},
+			{
+				"name": "music/game/08_adventuring",
+				"stream": true
+			},
+			{
+				"name": "music/game/09_to_dawn_from_a_very_rainy_night",
+				"stream": true
+			},
+			{
+				"name": "music/game/10_building",
+				"stream": true
+			},
+			{
+				"name": "music/game/11_creating",
+				"stream": true
+			},
+			{
+				"name": "music/game/12_peaceful_village",
+				"stream": true
+			},
+			{
+				"name": "music/game/13_nostalgic",
+				"stream": true
+			},
+			{
+				"name": "music/game/14_midnight",
+				"stream": true
+			},
+			{
+				"name": "music/game/15_heartbeat",
+				"stream": true
+			},
+			{
+				"name": "music/game/16_resonance_archive_the_seraphs",
+				"stream": true
+			},
+			{
+				"name": "music/game/17_winter",
+				"stream": true
+			},
+			{
+				"name": "music/game/18_daylight",
+				"stream": true
+			},
+			{
+				"name": "music/game/19_quirky_tavern",
+				"stream": true
+			},
+			{
+				"name": "music/game/20_cultured_tavern",
+				"stream": true
+			},
+			{
+				"name": "music/game/21_hallowcroft",
+				"stream": true
+			},
+			{
+				"name": "music/game/22_fall_o_croft",
+				"stream": true
+			},
+			{
+				"name": "music/game/nuance1",
+				"stream": true
+			},
+			{
+				"name": "music/game/nuance2",
+				"stream": true
+			},
+			{
+				"name": "music/game/piano1",
+				"stream": true
+			},
+			{
+				"name": "music/game/piano2",
+				"stream": true
+			},
+			{
+				"name": "music/game/piano3",
+				"stream": true
+			},
+			{
+				"name": "music/game/m0",
+				"stream": true
+			},
+			{
+				"name": "music/game/m1",
+				"stream": true
+			},
+			{
+				"name": "music/game/m2",
+				"stream": true
+			},
+			{
+				"name": "music/game/m3",
+				"stream": true
+			},
+			{
+				"name": "music/game/m4",
+				"stream": true
+			}
+		]
+	},
+	"music.menu": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "music/game/alpha",
+				"stream": true
+			},
+			{
+				"name": "music/game/ballad_of_the_cats",
+				"stream": true
+			},
+			{
+				"name": "music/game/chris",
+				"stream": true
+			},
+			{
+				"name": "music/game/concrete_halls",
+				"stream": true
+			},
+			{
+				"name": "music/game/dead_voxel",
+				"stream": true
+			},
+			{
+				"name": "music/game/dog",
+				"stream": true
+			},
+			{
+				"name": "music/game/door",
+				"stream": true
+			},
+			{
+				"name": "music/game/droopy_likes_ricochet",
+				"stream": true
+			},
+			{
+				"name": "music/game/droopy_likes_your_face",
+				"stream": true
+			},
+			{
+				"name": "music/game/eleven",
+				"stream": true
+			},
+			{
+				"name": "music/game/equinoxe",
+				"stream": true
+			},
+			{
+				"name": "music/game/excuse",
+				"stream": true
+			},
+			{
+				"name": "music/game/flake",
+				"stream": true
+			},
+			{
+				"name": "music/game/intro",
+				"stream": true
+			},
+			{
+				"name": "music/game/ki",
+				"stream": true
+			},
+			{
+				"name": "music/game/kyoto",
+				"stream": true
+			},
+			{
+				"name": "music/game/mall",
+				"stream": true
+			},
+			{
+				"name": "music/game/strad",
+				"stream": true
+			},
+			{
+				"name": "music/game/warmth",
+				"stream": true
+			},
+			{
+				"name": "music/menu/menu1",
+				"stream": true
+			},
+			{
+				"name": "music/menu/menu2",
+				"stream": true
+			},
+			{
+				"name": "music/menu/menu3",
+				"stream": true
+			},
+			{
+				"name": "music/menu/menu4",
+				"stream": true
+			},
+			{
+				"name": "music/game/05_vintage_story",
+				"stream": true
+			},
+			{
+				"name": "music/game/m0",
+				"stream": true
+			},
+			{
+				"name": "music/game/m1",
+				"stream": true
+			},
+			{
+				"name": "music/game/m2",
+				"stream": true
+			},
+			{
+				"name": "music/game/m3",
+				"stream": true
+			},
+			{
+				"name": "music/game/m4",
+				"stream": true
+			}
+		]
+	}
+}

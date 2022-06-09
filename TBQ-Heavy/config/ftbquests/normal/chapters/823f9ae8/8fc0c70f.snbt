@@ -1,0 +1,44 @@
+{
+	title: "{tbq.quests.primitive.pebbles.title}",
+	icon: "tfc:rock/chert",
+	x: 7.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.pebbles.subtitle}",
+	dependencies: [
+		"b320933e"
+	],
+	tasks: [{
+		uid: "5dd94e80",
+		type: "item",
+		items: [{
+			id: "minecraft:stick",
+			ForgeCaps: {
+				"tfc:item_size": {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	},
+	{
+		uid: "99b8df81",
+		type: "item",
+		title: "{tbq.quests.primitive.pebbles.subtitle.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any rock"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rock"
+				}
+			}
+		}],
+		count: 2L
+	}]
+}

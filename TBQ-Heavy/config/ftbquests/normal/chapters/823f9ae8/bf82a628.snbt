@@ -1,0 +1,28 @@
+{
+	title: "{tbq.quests.primitive.barrel.title}",
+	icon: "tfc:wood/barrel/oak",
+	x: 10.0d,
+	y: 4.0d,
+	shape: "square",
+	description: "{tbq.quests.primitive.barrel.subtitle}",
+	dependencies: [
+		"c8377a61"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fe54c5f5",
+		type: "item",
+		title: "{tbq.quests.primitive.barrel.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "barrel"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

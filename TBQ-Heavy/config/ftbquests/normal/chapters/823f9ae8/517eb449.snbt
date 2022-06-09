@@ -1,0 +1,52 @@
+{
+	title: "{tbq.quests.primitive.silver.title}",
+	x: -11.5d,
+	y: 1.0d,
+	shape: "diamond",
+	hide_dependency_lines: true,
+	dependencies: [
+		"b320933e"
+	],
+	tasks: [{
+		uid: "3fa5ac63",
+		type: "item",
+		items: [{
+			id: "tfc:ore/native_silver",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/native_silver",
+			Damage: 1s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/native_silver",
+			Damage: 2s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/small/native_silver",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

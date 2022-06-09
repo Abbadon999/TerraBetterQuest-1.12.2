@@ -1,0 +1,43 @@
+{
+	title: "{tbq.quests.primitive.cheese.title}",
+	x: 4.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.cheese.subtitle}",
+	dependencies: [
+		"ffb7544a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b59703fa",
+		type: "item",
+		title: "{tbq.quests.primitive.cheese.attachment}",
+		items: [{
+			item: "firmalife:cheddar_wheel"
+		},
+		{
+			item: "firmalife:chevre_wheel"
+		},
+		{
+			item: "firmalife:rajya_metok_wheel"
+		},
+		{
+			item: "firmalife:gouda_wheel"
+		},
+		{
+			item: "firmalife:feta_wheel"
+		},
+		{
+			item: "firmalife:shosha_wheel"
+		},
+		{
+			id: "tfc:food/cheese",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

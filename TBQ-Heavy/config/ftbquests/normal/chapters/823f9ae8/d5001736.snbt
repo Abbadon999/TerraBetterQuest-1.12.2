@@ -1,0 +1,34 @@
+{
+	title: "{tbq.quests.primitive.greenhouseblocks.title}",
+	x: -19.5d,
+	y: 1.5d,
+	description: "{tbq.quests.primitive.greenhouseblocks.subtitle}",
+	dependencies: [
+		"85e10b5d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "362351ef",
+		type: "item",
+		items: [{
+			item: "firmalife:greenhouse_door"
+		}],
+		count: 2L
+	},
+	{
+		uid: "e1f4f43a",
+		type: "item",
+		items: [{
+			item: "firmalife:greenhouse_wall"
+		}],
+		count: 20L
+	},
+	{
+		uid: "30d728f2",
+		type: "item",
+		items: [{
+			item: "firmalife:greenhouse_roof"
+		}],
+		count: 20L
+	}]
+}

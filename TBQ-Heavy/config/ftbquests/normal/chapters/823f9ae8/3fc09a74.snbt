@@ -1,0 +1,29 @@
+{
+	title: "{tbq.quests.primitive.seeds.title}",
+	x: 11.5d,
+	y: -6.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.seeds.subtitle}",
+	dependencies: [
+		"564097f0"
+	],
+	tasks: [{
+		uid: "94d13fbc",
+		type: "item",
+		title: "{tbq.quests.primitive.seeds.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any listAllseed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "listAllseed"
+				}
+			}
+		}]
+	}]
+}

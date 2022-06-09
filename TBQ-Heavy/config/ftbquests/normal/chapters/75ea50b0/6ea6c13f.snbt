@@ -1,0 +1,38 @@
+{
+	disable_toast: true,
+	x: 2.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "a8746993",
+		type: "item",
+		items: [{
+			id: "tfc:metal/ingot/magnesium",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				},
+				"tfc:item_forge": {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		}]
+	}]
+}

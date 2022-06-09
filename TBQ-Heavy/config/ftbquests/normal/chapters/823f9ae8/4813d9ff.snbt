@@ -1,0 +1,33 @@
+{
+	title: "{tbq.quests.primitive.woodchest.title}",
+	icon: "minecraft:chest",
+	x: 8.5d,
+	y: 2.0d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.woodchest.subtitle}",
+	dependencies: [
+		"c8377a61"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5abd577a",
+		type: "item",
+		title: "{tbq.quests.primitive.woodchest.task.chest.title}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any chestWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "chestWood"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

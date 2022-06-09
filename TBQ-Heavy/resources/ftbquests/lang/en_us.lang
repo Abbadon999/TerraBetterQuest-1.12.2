@@ -1,0 +1,326 @@
+##################################################################################################################################
+########################################################## TERRABETTERQUEST ######################################################
+##################################################################################################################################
+##################################################################################################################################
+
+tbq.quests.primitive.era.title=&cEra 1 &4-&4 &2Primitive
+
+tbq.quests.primitive.copperanvil.title=Anvil No.1 "Peacefulness"
+tbq.quests.primitive.copperanvil.subtitle=&cDid you sweat a long time to get it?
+
+tbq.quests.primitive.bronzeanvil.title=Anvil No.2 "Revival"
+tbq.quests.primitive.bronzeanvil.subtitle=&cThere must be bronze.
+
+tbq.quests.primitive.ironanvil.title=Anvil No.3 "Becoming"
+tbq.quests.primitive.ironanvil.subtitle=&cWhy is there no self-closing iron maiden? Or spikes?
+
+tbq.quests.primitive.steelanvil.title=Anvil No.4 "Iron nut"
+tbq.quests.primitive.steelanvil.subtitle=&cI wonder if anvils fall in TFC?
+
+tbq.quests.primitive.blacksteelanvil.title=Anvil No.5 "Iron nut: The Goudron Edition"
+
+tbq.quests.primitive.redbluesteelanvil.title=Anvil No. 6 "Legion"
+tbq.quests.primitive.redbluesteelanvil.subtitle=&cSeriously, why the hell are there so many of them?
+
+tbq.quests.primitive.start.title=Start
+tbq.quests.primitive.start.subtitle=&cThank you for choosing our modpack, good luck!
+tbq.quests.primitive.start.tasks.clickMe=&aPoke here!
+
+tbq.quests.primitive.fruitsAndBerries.title=Fruits, berries
+tbq.quests.primitive.fruitsAndBerries.subtitle=&cWhere's my lemon vodka? Developers, get busy!
+tbq.quests.primitive.fruitsAndBerries.subtitle.attachment=ФFruits, berries
+
+tbq.quests.primitive.pebbles.title=Stones on the ground
+tbq.quests.primitive.pebbles.subtitle=&cFind sticks and stones lying on the ground.
+tbq.quests.primitive.pebbles.subtitle.attachment=Stones
+
+tbq.quests.primitive.copper.title=Copper stories
+tbq.quests.primitive.copper.subtitle=&cThis is copper and you need to dig it up, how? Look for copper nuggets on the surface, and then... take it all! The main thing is not to forget to put a mark on the map, what if there is a lot of goodness, but underground?
+tbq.quests.primitive.copper.attachment=Copper
+
+tbq.quests.primitive.coppergeopick.subtitle=&cProspector's Pickaxe, for finding your first block ores.
+
+tbq.quests.primitive.copperingot.title=Copper ingots
+tbq.quests.primitive.copperingot.subtitle=&cCreate a lot of copper ingots, you will need them in stock, as well as bronze.
+
+tbq.quests.primitive.bronzeingot.title=Bronze ingots
+tbq.quests.primitive.bronzeingot.subtitle=&cYou will definitely need a lot of these ingots.
+
+tbq.quests.primitive.bismuthbronzeingot.title=Bismuth bronze ingot
+tbq.quests.primitive.bismuthbronzeingot.subtitle=&cAlways a discount.
+
+tbq.quests.primitive.blackbronzeingot.title=Black bronze ingot
+tbq.quests.primitive.blackbronzeingot.subtitle=&cBetter than the other two bronzes, but what are they for?
+
+tbq.quests.primitive.steelingot.title=Steel ingot
+tbq.quests.primitive.steelingot.subtitle=&cWow, it sparkles.
+
+tbq.quests.primitive.ironingot.title=Wrought iron ingot
+tbq.quests.primitive.ironingot.subtitle=&cAnd how long did it take you? In vanilla it's about 10 minutes, and here it's.. uh.. 40 hours?
+
+tbq.quests.primitive.bismuthpile.title=Bismuth
+tbq.quests.primitive.bismuthpile.subtitle=&cBismuth is used to create bismuth ingot or bismuth bronze ingot, useful enough.
+
+tbq.quests.primitive.zincpile.title=Zinc
+tbq.quests.primitive.zincpile.subtitle=&cZinc is useful and useless at the same time. Make a bucket or something.
+
+tbq.quests.primitive.tin.title=Tales of Tin
+tbq.quests.primitive.tin.subtitle=&cAnd this is tin and you need to dig it up, how? Look for nuggets of tin on the surface. I've written this somewhere before.
+
+tbq.quests.primitive.goldpile.title=Gold
+tbq.quests.primitive.goldpile.subtitle=&cGold is expensive.
+
+tbq.quests.primitive.silver.title=Silver
+
+tbq.quests.primitive.ironpile.title=Wrought Iron
+tbq.quests.primitive.ironpile.subtitle=&cYou can never have too much iron.
+
+tbq.quests.primitive.nickelpile.title=Nickel
+tbq.quests.primitive.nickelpile.subtitle=&cI sympathize with the search and wish you luck!
+
+tbq.quests.primitive.copperpickaxe.title=The first copper pickaxe
+tbq.quests.primitive.copperpickaxe.subtitle=&cYour first pickaxe. I think it is the best copper investment.
+
+tbq.quests.primitive.bismuthbronzepickaxe.title=Bismuth bronze pickaxe
+tbq.quests.primitive.bismuthbronzepickaxe.subtitle=&cThis pick is clearly better than the copper one, but also worse than the bronze one.
+
+tbq.quests.primitive.bronzepickaxe.title=Bronze pickaxe
+tbq.quests.primitive.bronzepickaxe.subtitle=&cThe pickaxe is average, better than the bismuth-bronze, but worse than the black-bronze.
+
+tbq.quests.primitive.blackbronzepickaxe.title=Black bronze pickaxe
+tbq.quests.primitive.blackbronzepickaxe.subtitle=&cThe best pickaxe of the bronze.
+
+tbq.quests.primitive.saw.title=Saw
+tbq.quests.primitive.saw.subtitle=&cMake a saw to cut trees even faster, or use it more efficiently, for example for sawing logs into lumber.
+tbq.quests.primitive.saw.attachment=I want to play a game!
+
+tbq.quests.primitive.supports.title=Support Beam!
+tbq.quests.primitive.supports.subtitle=&cYou don't want to be buried alive, do you?
+tbq.quests.primitive.supports.attachment=Support Beam
+
+tbq.quests.primitive.planks.title=Lumber
+tbq.quests.primitive.planks.subtitle=&cUsing the saw we get this nonsense.
+tbq.quests.primitive.planks.attachment=Lumber
+
+tbq.quests.primitive.wheel.subtitle=&cThe invention of the wheel is the greatest achievement in mechanics in centuries of human history.
+
+tbq.quests.primitive.woodchest.title=Chests
+tbq.quests.primitive.woodchest.subtitle=&cSome moron came up with several crafts for the chests, draw conclusions which recipe is more profitable.
+tbq.quests.primitive.woodchest.task.chest.title=Any chest
+
+tbq.quests.primitive.barrel.title=You're rolling the barrel?
+tbq.quests.primitive.barrel.subtitle=&cThe monkey poured the water, the water in the barrel remained.
+tbq.quests.primitive.barrel.attachment=Barrels
+
+tbq.quests.primitive.walkstick.subtitle=&cWith this stick, you can walk much faster through the bushes.
+tbq.quests.primitive..tasks.walkstick.title=We're all not young anymore.
+
+tbq.quests.primitive.juteropes.title=I'll be a rag!
+tbq.quests.primitive.juteropes.subtitle=&cJute with a crisis of self-perception.
+
+tbq.quests.primitive.jute.title=Jute
+tbq.quests.primitive.jute.subtitle=&cWhy aren't the rope made of cannabis? I want funny bonfires!
+tbq.quests.primitive.jute.attachment=Not cannabis
+
+tbq.quests.primitive.povodok.title=Lead
+tbq.quests.primitive.povodok.subtitle=ツ
+
+tbq.quests.primitive.cheese.title=Cheese
+tbq.quests.primitive.cheese.subtitle=&cNow you don't have to go to the moon either. Everybody knows there's cheese on the moon, right? No... ah.
+tbq.quests.primitive.cheese.attachment=Cheeses
+
+tbq.quests.primitive.grains.title=First harvest!
+tbq.quests.primitive.grains.subtitle=&cHarvest a grain plant.
+tbq.quests.primitive.grains.attachment=Agrocultures
+
+tbq.quests.primitive.HorsePress.subtitle=&cYou can get more items with this press than you can by hand. An important requirement is a horse that still needs to be tamed.
+
+tbq.quests.primitive.Grindstone.subtitle=&cNow when you crush ores, you can get a huge yield of resources.
+
+tbq.quests.primitive.leafmat.title=Leaf Mat
+tbq.quests.primitive.leafmat.subtitle=&cCraft this, then put it on the surface, voila, now you can dry or steaming anything.
+
+tbq.quests.primitive.driedfruits.attachment=Dried Fruits
+
+tbq.quests.primitive.primitiveTools.title=Your first tools
+tbq.quests.primitive.primitiveTools.subtitle=&cTake a stone in your hand, preferably more than two, and press the right mouse button, you will get a menu where you can carve the stone into the tool you want.
+
+tbq.quests.primitive.bear.title=Bear in the wish
+tbq.quests.primitive.bear.subtitle=&cKill the bear.
+
+tbq.quests.primitive.muchNeededStraw.title=Straw
+tbq.quests.primitive.muchNeededStraw.subtitle=&cTake a knife in your hand and mow the grass in the area.
+
+tbq.quests.primitive.greenpeace.title=Greenpeace is already on its way for you..
+tbq.quests.primitive.greenpeace.subtitle=&cChop logs, my children! We're going to need a lot of them.
+tbq.quests.primitive.greenpeace.tasks.logs.title=&cLogs
+
+tbq.quests.primitive.fuelNumber1.title=Fuel No.1
+tbq.quests.primitive.fuelNumber1.subtitle=&cSince TFC is too realistic mod, you can not heat the stove with charcoal, which is logical, so we do wood charcoal.
+
+tbq.quests.primitive.fireplace.title=Firepit
+tbq.quests.primitive.fireplace.subtitle=&cYou need to make a firepit to keep yourself warm, and also cook food, by the way, you can also make light the torches on the firepit.
+tbq.quests.primitive.fireplace.tasks.wood.title=Logs
+
+tbq.quests.primitive.meat.title=MEEEEAT!
+tbq.quests.primitive.meat.subtitle=&cIt's vegan. I'm not lying, give the herbivore a taste to confirm.
+tbq.quests.primitive.meat.tasks.meat.title=&cMeat
+tbq.quests.primitive.meat.attachment=Cook any meat on the fire.
+
+tbq.quests.primitive.siliciasand.title=Sand
+tbq.quests.primitive.siliciasand.subtitle=&cThe very same...
+
+tbq.quests.primitive.glasspanel.title=Without windows, as without doors.
+tbq.quests.primitive.glasspanel.subtitle=&cNow let's go build a greenhouses!
+
+tbq.quests.primitive.blueClay.title=Mood color is clay
+tbq.quests.primitive.blueClay.subtitle=&cObtain clay, for this, use your luck or knowledge of herbalism, because there are interesting bushes growing over the deposits of clay.
+
+tbq.quests.primitive.allTheMolds.title=Some molds you'll need
+tbq.quests.primitive.allTheMolds.subtitle=&cThere are many molds, you don't have to do them all at once, but I'm sure you'll do each one with the development.
+
+tbq.quests.primitive.jug.title=Cave cup
+tbq.quests.primitive.jug.subtitle=&cNow by clicking on a drinkable liquid, such as fresh water, holding the jug in your hand, you can pour water into the jug and when you need it then drink it.
+
+tbq.quests.primitive.vessel.title=A little more than just a cup
+tbq.quests.primitive.vessel.subtitle=&cThis is a vessel in which you will burn and melt metals, as well as store various food, so it is a very useful object, I suggest you fired it. The built-in force field prevents any liquids other than molten metals, as well as all sorts of goodies, in the form of food, from getting in.
+
+tbq.quests.primitive.theHammer.title=Rock Hammer
+tbq.quests.primitive.theHammer.subtitle=&cIt looks aesthetically pleasing, look how gray it is, but seriously, you need it to create a stone anvil.
+
+tbq.quests.primitive.farmer3000.title=Farmer - 3000
+tbq.quests.primitive.farmer3000.subtitle=&cMake a rock hoe to plant your first plants. The mechanics are the same, first you have to plow the ground next to the water, then plant the plants.
+
+tbq.quests.primitive.seeds.title=Seeds bag
+tbq.quests.primitive.seeds.subtitle=&cAs you explore your world, you will find more and more food. Berry bushes, fruit trees, and crops. Mature crops will yield bags of seeds as well as food. The seeds can then be planted on farmland and they will slowly grow depending on many factors. The food product that the mature crops shed will eventually decompose. The grain can be used to feed animals or further processed to make bread, for example. Take any bag of seeds to complete this task.
+tbq.quests.primitive.seeds.attachment=Seeds
+
+tbq.quests.primitive.fruittrees.title=Monkey climbed a tree to get a banana
+tbq.quests.primitive.fruittrees.subtitle=&cIn the world of TFC, fruit will probably make up half of your diet, especially in the early stages of the game. Fruit trees are one of the two sources of fruit in TFC. Unlike normal trees, you get seedlings by breaking the side cross branches with an axe or saw - they will grow back. Breaking any other branch will kill the tree. In TFC, when you place a seedling of a fruit tree, the seedling is placed, not the trunk of the fruit tree. Over time, the seedling will form the trunk of the fruit tree and become a fruit tree. At TFC, you can also place fruit tree seedlings in flower pots. Once they grow into the trunk of a fruit tree, you can no longer take them out of the flower pot, and don't forget that you have the option of growing fruit trees in greenhouses, so you can eat fruit all year round.
+tbq.quests.primitive.fruittrees.attachment=Fruit trees
+
+tbq.quests.primitive.berrybushes.title=Berry bushes
+tbq.quests.primitive.berrybushes.subtitle=&cBerry bushes can be found all over the world. There is no tool or trick to pick them, but to grow the fruit of the bush, berry bushes must be planted on grass. Any berry bush will do the job.
+tbq.quests.primitive.berrybushes.attachment=Berry bushes
+
+tbq.quests.primitive.animalhusbandry.title=Cattle breeding
+tbq.quests.primitive.animalhusbandry.subtitle=&cWild animals don't trust you and won't let you do much... So you will need to establish a relationship if you want to get that precious wool/milk/transport.
+tbq.quests.primitive.animalhusbandry.attachment=Feed
+
+tbq.quests.primitive.rockanvil.title=Your first anvil, really a stone one
+tbq.quests.primitive.rockanvil.subtitle=&cTake a rock hammer(or any other) in your hands and hit it (Right-Click) on the stone specified in the quest.
+tbq.quests.primitive.rockanvil.attachment=Anvil - Stone
+
+tbq.quests.primitive.rawHide.title=Raw hide
+tbq.quests.primitive.rawHide.subtitle=&cGet any raw hide, hope no sheep get hurt.
+
+tbq.quests.primitive.flux.title=Flux
+tbq.quests.primitive.flux.subtitle=&cFind chalk, dolomite, limestone or marble.
+
+tbq.quests.primitive.grinder.title=Handmill
+tbq.quests.primitive.grinder.subtitle=&cCreate a handmill.
+
+tbq.quests.primitive.preparedHide.title=Prepared skin
+tbq.quests.primitive.preparedHide.subtitle=&cSoak, trim, soak it again, and finally get that skin!
+tbq.quests.primitive.preparedHide.attachment=Skin ツ
+
+tbq.quests.primitive.loom.subtitle=&cNow you can make cloths.
+tbq.quests.primitive.loom.attachment=Weaving Loom
+
+tbq.quests.primitive.pineappleleather.subtitle=&cAnother interesting type of plant leather.
+
+tbq.quests.primitive.burlap.title=I AM A RAG
+tbq.quests.primitive.burlap.subtitle=&cThe most useful item in the game. Don't let the crafting menu fool you and put all the jute into it.
+
+tbq.quests.primitive.leather.title=Leather
+tbq.quests.primitive.leather.subtitle=&cCraft the leather.
+
+tbq.quests.primitive.meshokmochi.title=Ball. For Quidditch.
+tbq.quests.primitive.meshokmochi.subtitle=&cWho drops the bladders? Good question.
+
+tbq.quests.primitive.softbucket.title=Soft bucket
+tbq.quests.primitive.softbucket.subtitle=&cFor drinking.
+
+tbq.quests.primitive.spindle.subtitle=&cПри помощи сиё механизма Вы произведете свой первый кусок ткани.
+
+tbq.quests.primitive.strings.title=Любые нитки
+tbq.quests.primitive.strings.subtitle=&cГде же их блин найти?
+
+tbq.quests.primitive.woolcloth.title=I'm a Dear Rag
+tbq.quests.primitive.woolcloth.subtitle=&cFrom stinky sheep, or from a spider's ass. Honestly, I would choose jute.
+tbq.quests.primitive.woolcloth.attachment=Cloths
+
+tbq.quests.primitive.bed.title=Royal Bed
+tbq.quests.primitive.bed.subtitle=&cSteve only knows how to sleep on the surface of the aforementioned stinky sheep and spider asses.
+tbq.quests.primitive.bed.attachment=Beds
+
+tbq.quests.primitive.harderbucket.title=Cave thermos
+tbq.quests.primitive.harderbucket.subtitle=&cTo drink more.
+
+tbq.quests.primitive.bellows.subtitle=&cBellows that are used to increase the temperature in the blast furnace to 9999999 degrees Celsius.
+
+tbq.quests.primitive.bronzesheets.title=Bronze Sheets
+tbq.quests.primitive.bronzesheets.subtitle=Bronze sheets or bronze-containing
+
+tbq.quests.primitive.bloomery.subtitle=&cA hatch with Thanos power. Used when building a primitive blast furnace.
+
+tbq.quests.primitive.graphitepile.title=Graphite powder
+tbq.quests.primitive.graphitepile.subtitle=&cImportant part of the things you need for fire clay, in short, dig a LOT.
+
+tbq.quests.primitive.kaolinitepile.title=Kaolinite powder
+tbq.quests.primitive.kaolinitepile.subtitle=&cJust as important as graphite.
+
+tbq.quests.primitive.fireproofclay.subtitle=&cFire clay, which will be needed to make blocks of refractory bricks for the blast furnace.
+
+tbq.quests.primitive.tfccrusible.title=The Iron Witch's Cauldron
+
+tbq.quests.primitive.ironcladding.title=24x Wrought iron alloy wrought for blast furnace
+
+tbq.quests.primitive.doublebullion.title=Double ingot - What else do you need to be happy?
+tbq.quests.primitive.doublebullion.attachment=Double ingot
+
+tbq.quests.primitive.doublesheet.title=Double sheet - The head of everything
+tbq.quests.primitive.doublesheet.attachment=Double sheet
+
+tbq.quests.primitive.tuyere.title=Tuyere
+tbq.quests.primitive.tuyere.subtitle=&cThere's lots and lots of your metal flowing through it.
+
+tbq.quests.primitive.tfcblastfurnace.title=Blast Furnace!
+tbq.quests.primitive.tfcblastfurnace.subtitle=&cGlory be to steel, a new era is coming now.
+
+tbq.quests.primitive.blacksteelingot.title=Black Steel
+tbq.quests.primitive.blacksteelingot.subtitle=&cThe final push
+
+tbq.quests.primitive.redsteelingot.title=&cRed Steel
+
+tbq.quests.primitive.bluesteelingot.title=&9Blue Steel
+
+tbq.quests.primitive.bluesteelbucket.title=&9Blue bucket
+tbq.quests.primitive.bluesteelbucket.subtitle=&9Painted with the tears of everyone who fell into the lava with diamonds in their inventory. Can scoop up lava.
+
+tbq.quests.primitive.redsteelbucket.title=&cRed Bucket
+tbq.quests.primitive.redsteelbucket.subtitle=&cPainted with the blood of drowned men. Can scoop up water.
+
+tbq.quests.primitive.bucket.title=I AM A BUCKET!!!
+tbq.quests.primitive.bucket.subtitle=&cA magical Minecraft bucket. The magic washed the paint away.
+
+tbq.quests.primitive.backpack.subtitle=&cGood portable storage.
+
+tbq.quests.primitive.tannedleather.subtitle=&cWarm leather with good effects I'd say if I were a shoe store clerk. But unfortunately it's just leather for a backpack.
+
+tbq.quests.primitive.greenhouseblocks.title=Blocks for building a greenhouse
+tbq.quests.primitive.greenhouseblocks.subtitle=&cYou will need these blocks + the greenhouse controller, which comes next on the quest, to make a greenhouse and start growing plants even in winter.
+
+tbq.quests.primitive.sugarcane.subtitle=&cGather reeds, you'll need them to build a paper mill!
+
+tbq.quests.primitive.paper.subtitle=&cMake a paper, you'll need it...
+
+##################################################################################################################################
+##################################################################################################################################
+
+tbq.quests.developmenttable.era.title=&cDevelopment Table
+
+##################################################################################################################################
+##################################################################################################################################
+
+tbq.quests.globaldevelopmenttable.era.title=&cGlobal Development Table

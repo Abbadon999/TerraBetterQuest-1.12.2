@@ -1,0 +1,760 @@
+ftbquests=FTB Quests
+
+tile.ftbquests.screen.missing_data=Остутствуют данные!
+tile.ftbquests.screen.name=Экран
+tile.ftbquests.screen.task_index=Индекс выполнения задания
+tile.ftbquests.screen.size=Размер
+tile.ftbquests.screen.skin=Вид
+tile.ftbquests.screen.indestructible=Неразрушимый
+tile.ftbquests.screen.input_only=Только вход
+tile.ftbquests.screen.input_mode_icon=Иконка режима входа
+tile.ftbquests.screen.fullscreen=На весь экран
+tile.ftbquests.screen.hide_icons=Скрыть иконки
+
+tile.ftbquests.progress_detector.name=Датчик прогресса квеста
+tile.ftbquests.progress_detector.object=ID объекта
+tile.ftbquests.progress_detector.level=Выдаваемый уровень
+
+tile.ftbquests.barrier.name=Квестовый барьер
+tile.ftbquests.barrier.object=ID Объекта
+
+tile.ftbquests.detector.task=Task
+tile.ftbquests.detector.notifications=Уведомления
+
+tile.ftbquests.detector.redstone.name=Детектор красной пыли
+tile.ftbquests.detector.redstone.required_redstone=Требует уровня красной пыли
+
+tile.ftbquests.detector.player.name=Детектор игроков
+tile.ftbquests.detector.player.radius=Радиус
+tile.ftbquests.detector.player.offset_y=Смещение Y
+tile.ftbquests.detector.player.height=Высота
+
+tile.ftbquests.progress_screen.name=Экран прогресса
+
+tile.ftbquests.chest.name=Квестовый сундук
+tile.ftbquests.chest.transfer_all=Автоматически траспортировать все предметы
+tile.ftbquests.chest.input=Слот для входа
+tile.ftbquests.chest.input_desc=Положите вещи сюда, чтобы выполнить задание
+tile.ftbquests.chest.output=Слот для выхода
+tile.ftbquests.chest.output_desc=Награды и лишние предметы будут лежать тут
+tile.ftbquests.chest.deprecated=Этот блок устарел! Используйте сборщик наград и экран задач!
+
+tile.ftbquests.loot_crate_storage.name=Ящик для хранения лута
+tile.ftbquests.loot_crate_opener.name=Открывашка для ящика для хранения лута
+tile.ftbquests.loot_crate_opener.rightclick=Хранимые предметы: %d
+tile.ftbquests.reward_collector.name=Сборщик наград
+tile.ftbquests.reward_collector.tooltip=Собирает награды за повторяющиеся квесты
+
+item.ftbquests.book.name=Книга квестов
+item.ftbquests.book.tooltip=Щёлкните ПКМ, чтобы открыть окно квеста
+item.ftbquests.book.disabled=GUI книги квестов отключен!
+item.ftbquests.lootcrate.name=Ящик лута
+item.ftbquests.lootcrate.tooltip_1=Щёлкните ПКМ, чтобы открыть
+item.ftbquests.lootcrate.tooltip_2=Присядьте и щёлкните ПКМ, чтобы открыть все в руке
+item.ftbquests.custom_icon.name=Пользовательская иконка
+item.ftbquests.custom_icon.tooltip=Щёлкните ПКМ, чтобы установить иконку и использовать этот предмет из инвентаря в качестве иконки в квестах
+
+ftbquests.rarity.common=Обычный
+ftbquests.rarity.uncommon=Необычный
+ftbquests.rarity.rare=Редкий
+ftbquests.rarity.epic=Эпический
+ftbquests.rarity.legendary=Легендарный
+
+ftbquests.raymatcher.block_id=ID Блока
+ftbquests.raymatcher.block_entity_id=ID Блока Объекта
+ftbquests.raymatcher.block_entity_class=Класс Блока Объекта
+ftbquests.raymatcher.entity_id=ID Объекта
+ftbquests.raymatcher.entity_class=Класс Объекта
+
+itemGroup.ftbquests=Квесты FTB
+sidebar_button.ftbquests.quests=Квесты
+sidebar_button.ftbquests.quests.no_team=Присоединяйтесь к команде, чтобы начать выполнять квесты!
+key.ftbquests.quests=Открыть квесты
+
+ftbquests.unnamed=Безымянный
+ftbquests.team=Команда
+ftbquests.progress=Прогресс
+ftbquests.title=Название
+ftbquests.title.tooltip=Польз. название
+ftbquests.icon=Иконка
+ftbquests.icon.tooltip=Польз. иконка
+ftbquests.tags=Теги
+ftbquests.tags.tooltip=Используется для тем и в событиях KubeJS
+ftbquests.completion_command=Команда Завершения
+ftbquests.dependencies=Зависимости
+ftbquests.dependency=Зависимость
+
+ftbquests.null=Ничего
+ftbquests.disable_completion_toast=Отключить тост завершения
+ftbquests.file=Модпак
+ftbquests.file.completed=Все главы завершены!
+ftbquests.file.allow_take_quest_blocks=Разрешить использовать блоки квестов?
+ftbquests.file.allow_take_quest_blocks.tooltip=Разрешить брать блоки из ГПИ квестов?
+ftbquests.file.emergency_items=Запасные предметы
+ftbquests.file.emergency_items_cooldown=Таймер запасных предметов
+ftbquests.file.emergency_items_cooldown.tooltip=Время, требуемое для восстановления запасных предметов
+ftbquests.file.defaults=По умолчанию
+ftbquests.file.defaults.reward_team=Награда 'Командное вознаграждение'
+ftbquests.file.defaults.consume_items=Задача 'Использ. предметы'
+ftbquests.file.defaults.autoclaim_rewards=Награда 'Авто.-забрать'
+ftbquests.file.defaults.quest_shape=Форма квеста
+ftbquests.file.defaults.quest_disable_jei=Квест 'Отключить рецепт JEI'
+ftbquests.file.drop_loot_crates=С монстров падает каробка с лутом
+ftbquests.file.loot_crate_no_drop=С монстров падает каробка лута с пустым весом
+ftbquests.file.disable_gui=Отключить ГПИ
+ftbquests.file.full_screen_quest_view=Полноэкранный квест
+ftbquests.file.grid_scale=Масштаб сетки
+
+ftbquests.loot.entitydrops=Награда монстра
+ftbquests.loot.entitytype.passive=Пассивный
+ftbquests.loot.entitytype.monster=Монстр
+ftbquests.loot.entitytype.boss=Босс
+
+ftbquests.chapter=Глава
+ftbquests.chapters=Главы
+ftbquests.chapter.completed=Глава завершена!
+ftbquests.chapter.subtitle=Подзаголовок
+ftbquests.chapter.always_invisible=Всегда невидимый
+ftbquests.chapter.group=Группа
+ftbquests.chapter.default_quest_shape=Форма квеста по умолчанию
+
+ftbquests.chapter.image=Изображение
+ftbquests.chapter.image.x=X
+ftbquests.chapter.image.y=Y
+ftbquests.chapter.image.width=Ширина
+ftbquests.chapter.image.height=Высота
+ftbquests.chapter.image.rotation=Вращение
+ftbquests.chapter.image.image=Изображение
+ftbquests.chapter.image.hover=Текст при наведении
+ftbquests.chapter.image.click=Клик
+ftbquests.chapter.image.dev=Видно только в режиме редактирования
+
+ftbquests.quest=Квест
+ftbquests.quests=Квесты
+ftbquests.quest.completed=Квест завершен!
+ftbquests.quest.subtitle=Подзаголовок
+ftbquests.quest.description=Описание
+ftbquests.quest.x=X
+ftbquests.quest.y=Y
+ftbquests.quest.size=Размер
+ftbquests.quest.hide=Скрыть квест, пока не станут видны зависимости
+ftbquests.quest.shape=Форма
+ftbquests.quest.shape.default=По умолчанию
+ftbquests.quest.shape.circle=Круг
+ftbquests.quest.shape.square=Площадь
+ftbquests.quest.shape.diamond=Алмаз
+ftbquests.quest.shape.rsquare=Скругленная площадь
+ftbquests.quest.shape.pentagon=Пятиугольник
+ftbquests.quest.shape.hexagon=Шестиугольник
+ftbquests.quest.shape.octagon=Восьмиугольник
+ftbquests.quest.shape.heart=Сердце
+ftbquests.quest.shape.gear=Шестерня
+ftbquests.quest.can_repeat=Можно повторить
+ftbquests.quest.optional=По желанию
+ftbquests.quest.tasks_ignore_dependencies=Задачи игнорируют зависимости
+ftbquests.quest.tasks_ignore_dependencies.tooltip=Разрешить запускать задачи без заполнения зависимостей
+ftbquests.quest.dependency_requirement=Требование зависимости
+ftbquests.quest.dependency_requirement.tooltip=Игнорируется, если требуется минимум зависимостей > 0
+ftbquests.quest.dependency_requirement.all_completed=Всё выполнено
+ftbquests.quest.dependency_requirement.one_completed=Один завершён
+ftbquests.quest.dependency_requirement.all_started=Все начаты
+ftbquests.quest.dependency_requirement.one_started=Один начат
+ftbquests.quest.guide_page=Страница руководства
+ftbquests.quest.custom_click=Пользовательский клик
+ftbquests.quest.hide_dependency_lines=Скрыть линии зависимости
+ftbquests.quest.min_required_dependencies=Мин. обязательные зависимости
+ftbquests.quest.min_required_dependencies.tooltip=Если вы установите для этого значения больше 0, он станет квестом ИЛИ, где для разблокировки требуется только определенное количество зависимостей.
+ftbquests.quest.hide_text_until_complete=Скрыть текст, пока квест не будет выполнен
+ftbquests.quest.disable_jei=Отключить рецепт JEI
+ftbquests.quest.min_width=Мин. ширина открытого окна квеста
+ftbquests.quest.or_tasks=ИЛИ Логика задачи
+
+ftbquests.gui.edit_file=Редактировать файл
+ftbquests.gui.save_as_file=Сохранить как файл
+ftbquests.gui.export_spreadsheet=Экспорт электронных таблиц
+ftbquests.gui.saved_as_file=Сохранено как %s
+ftbquests.gui.error=Ошибка!
+ftbquests.gui.add_reward_all=Добавить награду всем
+ftbquests.gui.select_quest_object=Выбрать квестовый объект
+ftbquests.gui.select_task_type=Выбрать тип задачи
+ftbquests.gui.select_reward_type=Выбрать тип вознаграждения
+ftbquests.gui.reset_progress=Сбросить прогресс
+ftbquests.gui.reset_progress_q=Сбросить прогресс для вашей команды?
+ftbquests.gui.complete_instantly=Завершить мгновенно
+ftbquests.gui.complete_instantly_q=Завершить эту задачу мгновенно?
+ftbquests.gui.add_dependencies=Добавить выбранные в качестве зависимостей
+ftbquests.gui.remove_dependencies=Удалить выбранное из зависимостей
+ftbquests.gui.add_dependencies_self=Добавить в качестве зависимости от выбранного
+ftbquests.gui.remove_dependencies_self=Удалить как зависимость от выбранного
+ftbquests.gui.copy_id=Скопировать ID
+ftbquests.gui.no_tasks=Нет задач
+ftbquests.gui.no_rewards=Нет наград
+ftbquests.gui.requires=Требует
+ftbquests.gui.required_by=Требуется
+ftbquests.gui.collect_rewards=Нажмите, чтобы собрать все награды!
+ftbquests.gui.times_completed=Кол-во выполнений
+ftbquests.gui.looping_dependencies=Зацикленные зависимости
+ftbquests.gui.open_in_guide=Нажми сюда, чтобы прочитать больше...
+ftbquests.gui.wiki=Открыть Wiki
+ftbquests.gui.change_progress=Изменить прогресс
+ftbquests.gui.change_progress.reset=Сброс
+ftbquests.gui.change_progress.reset_deps=Сброс (+Зависимости)
+ftbquests.gui.change_progress.complete=Завершить
+ftbquests.gui.change_progress.complete_deps=Завершить (+Зависимости)
+ftbquests.gui.pin=Прикрепить
+ftbquests.gui.unpin=Открепить
+ftbquests.gui.autopin.on=Авто.прикрепление: Включено
+ftbquests.gui.autopin.off=Авто.прикрепление: Отключено
+ftbquests.gui.move_to_chapter=Перейти к другой главе
+ftbquests.gui.move_tooltip=Кратчайший путь: Средняя кнопка мыши
+ftbquests.gui.reload_theme=Перезагрузить тему
+ftbquests.gui.view_dependencies=Просмотр зависимостей
+ftbquests.gui.view_dependants=Просмотр иждивенцев
+ftbquests.gui.no_dependencies=Нет зависимостей
+ftbquests.gui.no_dependants=Нет иждивенцев
+ftbquests.gui.edit_text=Редак. текст
+
+ftbquests.task=Задача
+ftbquests.tasks=Задачи
+ftbquests.task.completed=Задание выполнено!
+ftbquests.task.click_to_submit=Нажмите, чтобы отправить
+ftbquests.task.auto_detected=Предметы будут автоматически обнаружены
+ftbquests.task.click_to_submit_all=Нажмите, чтобы отправить все предметы
+ftbquests.task.max_input=Макс. вход
+
+ftbquests.task.ftbquests.item=Предмет
+ftbquests.task.ftbquests.item.items=Список предметов
+ftbquests.task.ftbquests.item.count=Количество
+ftbquests.task.ftbquests.item.consume_items=Предметы потребления
+ftbquests.task.ftbquests.item.ignore_damage=Игнорировать урон
+ftbquests.task.ftbquests.item.nbt_mode=NBT режим
+ftbquests.task.ftbquests.item.consume_true=Потребляет предмет
+ftbquests.task.ftbquests.item.consume_false=Не потребляет предмет
+ftbquests.task.ftbquests.item.hide_valid_items=Скрыть действительные предметы
+ftbquests.task.ftbquests.item.valid_items=Действительные предметы:
+ftbquests.task.ftbquests.item.view_items=Нажмите, чтобы просмотреть действительные предметы
+ftbquests.task.ftbquests.item.valid_for=Действительные предметы для %s
+ftbquests.task.ftbquests.item.click_recipe=Нажмите, чтобы посмотреть рецепт(ы)
+ftbquests.task.ftbquests.item.convert_tag=Конвертировать в элемент Тег
+ftbquests.task.ftbquests.item.only_from_crafting=Обнаруживает только при создании
+
+ftbquests.task.ftbquests.fluid=Жидкость
+ftbquests.task.ftbquests.fluid.fluid=Жидкость
+ftbquests.task.ftbquests.fluid.fluid_nbt=NBT жидкости
+ftbquests.task.ftbquests.fluid.amount=Количество
+
+ftbquests.task.ftbquests.forge_energy=Энергия Forge
+ftbquests.task.ftbquests.forge_energy.value=FE / RF
+ftbquests.task.ftbquests.forge_energy.text=%d FE
+
+ftbquests.task.ftbquests.custom=Пользовательский
+
+ftbquests.task.ftbquests.xp=Уровни опыта
+ftbquests.task.ftbquests.xp.value=Опыт
+ftbquests.task.ftbquests.xp.points=Очков
+ftbquests.task.ftbquests.xp.points.tooltip=Используйте очки опыта, чтобы закончить вместо уровней. Используйте калькулятор, чтобы узнать, какое значение должно быть
+ftbquests.task.ftbquests.dimension=Посетить измерение
+ftbquests.task.ftbquests.biome=Посетить биом
+
+ftbquests.task.ftbquests.stat=Стат
+ftbquests.task.ftbquests.stat.stat=Название статуса
+ftbquests.task.ftbquests.stat.value=Кол-во
+
+ftbquests.task.ftbquests.kill=Убить существо
+ftbquests.task.ftbquests.kill.entity=Название существа
+ftbquests.task.ftbquests.kill.value=Кол-во
+ftbquests.task.ftbquests.kill.title=Убить: %sx %s
+
+ftbquests.task.ftbquests.location=Место расположения
+ftbquests.task.ftbquests.location.dim=Измерение
+ftbquests.task.ftbquests.location.ignore_dim=Игнорировать измерение
+ftbquests.task.ftbquests.location.x=X
+ftbquests.task.ftbquests.location.y=Y
+ftbquests.task.ftbquests.location.z=Z
+ftbquests.task.ftbquests.location.w=Ш
+ftbquests.task.ftbquests.location.h=В
+ftbquests.task.ftbquests.location.d=Д
+
+ftbquests.task.ftbquests.checkmark=Галочка
+ftbquests.task.ftbquests.advancement=Продвижение
+ftbquests.task.ftbquests.advancement.criterion=Критерий
+
+ftbquests.task.ftbquests.observation=Наблюдение
+ftbquests.task.ftbquests.observation.type=Тип
+ftbquests.task.ftbquests.observation.match=Сочетание
+ftbquests.task.ftbquests.observation.properties=Свойства
+ftbquests.task.ftbquests.observation.timer=Таймер
+
+ftbquests.task.ftbquests.interaction=Взаимодействие
+ftbquests.task.ftbquests.interaction.type=Тип
+ftbquests.task.ftbquests.interaction.match=Сочетание
+ftbquests.task.ftbquests.interaction.properties=Свойства
+
+ftbquests.task.ftbquests.buildcraft_mj=Энергия BuildCraft
+ftbquests.task.ftbquests.buildcraft_mj.value=mJ
+ftbquests.task.ftbquests.buildcraft_mj.text=%d MJ
+
+ftbquests.task.ftbquests.ic2_energy=Энергия IC2
+ftbquests.task.ftbquests.ic2_energy.value=EU
+ftbquests.task.ftbquests.ic2_energy.text=%d EU
+
+ftbquests.task.ftbquests.botania_mana=Мана Botania
+ftbquests.task.ftbquests.botania_mana.value=Мана
+ftbquests.task.ftbquests.botania_mana.show_numbers=Показать номера
+ftbquests.task.ftbquests.botania_mana.text=%d Маны
+
+ftbquests.task.ftbquests.emc=EMC
+
+ftbquests.task.ftbquests.gamestage=Этап игры
+
+ftbquests.task.ftbquests.npc_quest=Квесты CustomNPCs
+ftbquests.task.ftbquests.npc_quest.id=ID Квеста
+ftbquests.task.ftbquests.npc_quest.check_active=Проверить, активен ли квест
+ftbquests.task.ftbquests.npc_dialog=Диалог CustomNPCs
+ftbquests.task.ftbquests.npc_dialog.id=ID Диалога
+ftbquests.task.ftbquests.npc_faction=Фракция CustomNPCs
+ftbquests.task.ftbquests.npc_faction.id=ID Фракции
+ftbquests.task.ftbquests.npc_faction.required_points=Требуемые очки
+ftbquests.task.ftbquests.npc_faction.mode=Режим очков
+
+ftbquests.task.ftbquests.reskillable=Повторное умение
+ftbquests.task.ftbquests.reskillable.skill=Название навыка
+ftbquests.task.ftbquests.reskillable.skill_level=Уровень навыка
+ftbquests.task.ftbquests.reskillable.skillyouneed=Навыки, которые вам нужны
+
+ftbquests.reward=Награда
+ftbquests.rewards=Награды
+ftbquests.reward.team_reward=Награда команде
+ftbquests.reward.emergency=Запасной предмет
+ftbquests.reward.autoclaim=Авто. забрать
+ftbquests.reward.autoclaim.default=По умолчанию
+ftbquests.reward.autoclaim.disabled=Отключен
+ftbquests.reward.autoclaim.enabled=Включен
+ftbquests.reward.autoclaim.no_toast=Включено, без тоста
+ftbquests.reward.autoclaim.invisible=Включено, Невидимый
+ftbquests.reward.claim_all=Получить все награды
+ftbquests.reward.collected=Награда получена!
+ftbquests.reward.random_bonus=Случайный бонус
+
+ftbquests.reward.ftbquests.item=Предмет
+ftbquests.reward.ftbquests.item.count=Кол-во
+ftbquests.reward.ftbquests.item.only_one=Только один
+ftbquests.reward.ftbquests.item.only_one.tooltip=Если инвентарь имеет этот предмет, то не дает его. Игнорирует NBT.
+
+ftbquests.reward.ftbquests.choice=Выбор Награды
+ftbquests.reward.ftbquests.random=Случайная Награда
+ftbquests.reward.ftbquests.loot=Награда в виде лута
+ftbquests.reward.ftbquests.custom=Пользовательская
+
+ftbquests.reward.ftbquests.xp=Опыт
+ftbquests.reward.ftbquests.xp_levels=Уровни опыта
+
+ftbquests.reward.ftbquests.command=Команда
+ftbquests.reward.ftbquests.command.player=Запустить как игрока
+
+ftbquests.reward.ftbquests.advancement=Продвижение
+ftbquests.reward.ftbquests.advancement.criterion=Критерий
+ftbquests.reward.ftbquests.advancement.criterion.tooltip=Необязательно, установите, если вы хотите, чтобы был предоставлен только один критерий
+
+ftbquests.reward.ftbquests.toast=Тост
+ftbquests.reward.ftbquests.toast.description=Описание
+
+ftbquests.reward.ftbquests.gamestage=Этап игры
+ftbquests.reward.ftbquests.gamestage.silent=Бесшумный
+ftbquests.reward.ftbquests.gamestage.remove=Удалить
+
+ftbquests.reward.ftbquests.npc_quest=Квесты CustomNPCs
+ftbquests.reward.ftbquests.npc_quest.id=ID Квеста
+
+ftbquests.reward.ftbquests.npc_faction=Фракции CustomNPCs
+ftbquests.reward.ftbquests.npc_faction.id=ID Фракции
+ftbquests.reward.ftbquests.npc_faction.points=Очков
+ftbquests.reward.ftbquests.npc_faction.add=Добавить
+
+ftbquests.reward.ftbquests.npc_mail=Почта CustomNPCs
+ftbquests.reward.ftbquests.npc_mail.subject=Тема
+ftbquests.reward.ftbquests.npc_mail.sender=Отправитель
+ftbquests.reward.ftbquests.npc_mail.message=Сообщение
+ftbquests.reward.ftbquests.npc_mail.time=Время
+ftbquests.reward.ftbquests.npc_mail.been_read=Было прочитано
+ftbquests.reward.ftbquests.npc_mail.quest_id=ID Квеста CustomNPCs
+ftbquests.reward.ftbquests.npc_mail.quest_title=Название квеста CustomNPCs
+ftbquests.reward.ftbquests.npc_mail.items=Предметы
+ftbquests.reward.ftbquests.npc_mail.time_past=Прошедшее время
+
+ftbquests.reward_table=Таблица вознаграждений
+ftbquests.reward_table.hide_tooltip=Скрыть подсказки
+ftbquests.reward_table.use_title=Использовать название
+ftbquests.reward_table.edit=Изменить таблицу вознаграждений
+ftbquests.reward_tables=Таблицы вознаграждений
+ftbquests.reward_table.nothing=Ничего
+ftbquests.reward_table.and_more=...и на %d больше
+ftbquests.reward_table.empty_weight=Пустой вес
+ftbquests.reward_table.loot_size=Размер лута
+ftbquests.reward_table.weight=Вес
+ftbquests.reward_table.set_weight=Установить вес
+ftbquests.reward_table.enable_loot_crate=Ящик лута
+ftbquests.reward_table.loot_crate.id=ID
+ftbquests.reward_table.loot_crate.item_name=Название предмета
+ftbquests.reward_table.loot_crate.color=Цвет
+ftbquests.reward_table.loot_crate.glow=Свечение
+ftbquests.reward_table.loot_crate.passive_weight=Вес (Пассивный)
+ftbquests.reward_table.loot_crate.monster_weight=Вес (Монстр)
+ftbquests.reward_table.loot_crate.boss_weight=Вес (Босс)
+ftbquests.reward_table.used_in=Используется в %d наградах для квеста
+
+ftbquests.leaderboard_progress=Прогресс квеста FTB
+jei.ftbquests.lootcrates=Ящики лута
+jei.ftbquests.lootcrates.chance=Шанс: %s
+jei.ftbquests.lootcrates.no_chance=Нет шансов на предмет: %s
+jei.ftbquests.lootcrates.dropped_by=Выкинут игроком:
+
+commands.ftbquests.usage=/ftbquests [команда]
+commands.ftbquests.editing_mode.usage=/ftbquests editing_mode [true|false|toggle] [игрок]
+commands.ftbquests.editing_mode.enabled=Режим редактора включен для %s 
+commands.ftbquests.editing_mode.disabled=Режим редактора выключен для %s
+commands.ftbquests.change_progress.usage=/ftbquests change_progress <тип> <команда|*> [ID объекта]
+commands.ftbquests.change_progress.invalid_id=Неверный ID объекта!
+commands.ftbquests.change_progress.text=Прогресс был изменен!
+commands.ftbquests.change_team_rewards.usage=/ftbquests change_team_rewards <*|глава> <true|false>
+commands.ftbquests.change_team_rewards.invalid_id=Неверный ID главы!
+commands.ftbquests.change_team_rewards.text=Изменена настройка вознаграждения команды %d на %s
+commands.ftbquests.change_consumable.usage=/ftbquests change_consumable <*|часть> <true|false>
+commands.ftbquests.change_consumable.text=Изменены настройки расходных предметов %d на %s
+commands.ftbquests.import_rewards_from_chest.usage=/ftbquests import_rewards_from_chest <таблица_вознаграждений> [вес] [замена]
+commands.ftbquests.import_rewards_from_chest.invalid_id=Неверный ID таблицы вознаграждений!
+commands.ftbquests.import_rewards_from_chest.text=Импортировано %d предметов в %s
+commands.ftbquests.weigh_from_emc.usage=/ftbquests weigh_from_emc <таблица_вознаграждений> [отсутствующий_вес_emc]
+commands.ftbquests.weigh_from_emc.invalid_id=Неверный ID таблицы вознаграждений!
+commands.ftbquests.weigh_from_emc.text=Изменен вес награды за предмет на основе EMC в %s
+commands.ftbquests.export_rewards_to_chest.usage=/ftbquests export_rewards_to_chest <таблица_вознаграждений>
+commands.ftbquests.export_rewards_to_chest.text=Экспортировано %s / %s предметов из '%s'
+commands.ftbquests.auto_pin.usage=/ftbquests auto_pin
+commands.ftbquests.generate_chapter_with_all_items_in_game.usage=/ftbquests generate_chapter_with_all_items_in_game
+
+##################################################################################################################################
+########################################################## TERRABETTERQUEST ######################################################
+##################################################################################################################################
+##################################################################################################################################
+
+tbq.quests.primitive.era.title=&cЭра 1 &4-&4 &2Примитив
+
+tbq.quests.primitive.copperanvil.title=Наковальня №1 "Умиротворение"
+tbq.quests.primitive.copperanvil.subtitle=&cВы долго потели, чтобы её получить?
+
+tbq.quests.primitive.bronzeanvil.title=Наковальня №2 "Возрождение"
+tbq.quests.primitive.bronzeanvil.subtitle=&cТут быть бронза?
+
+tbq.quests.primitive.ironanvil.title=Наковальня №3 "Становление"
+tbq.quests.primitive.ironanvil.subtitle=&cПочему самозакрывающейся железной девы нету? Или шипов?
+
+tbq.quests.primitive.steelanvil.title=Наковальня №4 "Стальной Орешек"
+tbq.quests.primitive.steelanvil.subtitle=&cИнтересно, в тфк наковальни падают?
+
+tbq.quests.primitive.blacksteelanvil.title=Наковальня №5 "Стальной Орешек: гудроновое издание"
+
+tbq.quests.primitive.redbluesteelanvil.title=Наковальня №6 "Легион"
+tbq.quests.primitive.redbluesteelanvil.subtitle=&cСерьёзно, какого фига их так много?
+
+tbq.quests.primitive.start.title=Старт
+tbq.quests.primitive.start.subtitle=&cСпасибо, что выбрали нашу сборку модов, удачи!
+tbq.quests.primitive.start.tasks.clickMe=&aТыкай сюды!
+
+tbq.quests.primitive.fruitsAndBerries.title=Фрукты, ягоды
+tbq.quests.primitive.fruitsAndBerries.subtitle=&cГде моя лимонная водка? Разрабы, займитесь!
+tbq.quests.primitive.fruitsAndBerries.subtitle.attachment=Фрукты, ягоды
+
+tbq.quests.primitive.pebbles.title=Камни на земле
+tbq.quests.primitive.pebbles.subtitle=&cНайди, лежащие на земле, палки и камни.
+tbq.quests.primitive.pebbles.subtitle.attachment=Камни
+
+tbq.quests.primitive.copper.title=Истории о Меди
+tbq.quests.primitive.copper.subtitle=&cЭто медь и вам нужно её накопать, как? Ищите на поверхности самородки меди, а после... забирайте себе! Главное не забудьте поставить на карте метку, вдруг тут куча добра, но под землёй?
+tbq.quests.primitive.copper.attachment=Медь
+
+tbq.quests.primitive.coppergeopick.subtitle=&cГеологический молот, для поиска ваших первых блочных руд.
+
+tbq.quests.primitive.copperingot.title=Медные слитки
+tbq.quests.primitive.copperingot.subtitle=&cСоздавайте много медных слитков, их вам понадобится с запасом, как и бронзы.
+
+tbq.quests.primitive.bronzeingot.title=Бронзовые слитки
+tbq.quests.primitive.bronzeingot.subtitle=&cВот этих слитков вам точно понадобится очень много.
+
+tbq.quests.primitive.bismuthbronzeingot.title=Слиток висмутной бронзы
+tbq.quests.primitive.bismuthbronzeingot.subtitle=&cВсегда по скидке.
+
+tbq.quests.primitive.blackbronzeingot.title=Слитки черной бронзы
+tbq.quests.primitive.blackbronzeingot.subtitle=&cЛучше двух остальных бронз, но блин зачем?
+
+tbq.quests.primitive.steelingot.title=Стальной слиток
+tbq.quests.primitive.steelingot.subtitle=&cУхх, ты, он сверкает.
+
+tbq.quests.primitive.ironingot.title=Слиток кованного железа
+tbq.quests.primitive.ironingot.subtitle=&cИ сколько у вас это заняло времени? В ванилле это минут 10, а здесь уже.. хм.. 40 часов?
+
+tbq.quests.primitive.bismuthpile.title=Висмут
+tbq.quests.primitive.bismuthpile.subtitle=&cВисмут используется для создания висмутного слитка или слитка висмутной бронзы, достаточно полезно.
+
+tbq.quests.primitive.zincpile.title=Цинк
+tbq.quests.primitive.zincpile.subtitle=&cЦинк полезен и бесполезен одновременно. Сделайте ведро что-ли.
+
+tbq.quests.primitive.tin.title=Сказания о Олове
+tbq.quests.primitive.tin.subtitle=&cА это олово и вам нужно его накопать, как? Ищите на поверхности самородки с оловом. Где-то такое я уже писал.
+
+tbq.quests.primitive.goldpile.title=Золото
+tbq.quests.primitive.goldpile.subtitle=&cЗолото это дорого.
+
+tbq.quests.primitive.silver.title=Серебро
+
+tbq.quests.primitive.ironpile.title=Железо
+tbq.quests.primitive.ironpile.subtitle=&cЖелеза много не бывает.
+
+tbq.quests.primitive.nickelpile.title=Никель
+tbq.quests.primitive.nickelpile.subtitle=&cСочувствую в поисках и желаю удачи!
+
+tbq.quests.primitive.copperpickaxe.title=Первая медная кирка
+tbq.quests.primitive.copperpickaxe.subtitle=&cВаша первая кирка. Я считаю, что это лучшее вложение меди.
+
+tbq.quests.primitive.bismuthbronzepickaxe.title=Кирка из висмутной бронзы
+tbq.quests.primitive.bismuthbronzepickaxe.subtitle=&cЭта кирка явно лучше медной, но и хуже бронзовой.
+
+tbq.quests.primitive.bronzepickaxe.title=Кирка из бронзы
+tbq.quests.primitive.bronzepickaxe.subtitle=&cКирка середнячек, лучше висмутно-бронзовой, но хуже чёрно-бронзовой.
+
+tbq.quests.primitive.blackbronzepickaxe.title=Кирка из чёрной бронзы.
+tbq.quests.primitive.blackbronzepickaxe.subtitle=&cЛучшая кирка из бронзовых.
+
+tbq.quests.primitive.saw.title=Пила
+tbq.quests.primitive.saw.subtitle=&cСделайте пилу, чтобы рубить деревья ещё быстрее, ну или используйте её более рационально, например для распилки брёвен в пиломатериалы.
+tbq.quests.primitive.saw.attachment=Я хочу сыграть с тобой в игру!
+
+tbq.quests.primitive.supports.title=Опоры!
+tbq.quests.primitive.supports.subtitle=&cВы же не хотите быть погребённым заживо?
+tbq.quests.primitive.supports.attachment=Опоры
+
+tbq.quests.primitive.planks.title=Пиломатериалы
+tbq.quests.primitive.planks.subtitle=&cИспользуя пилу получаем этот проходняк.
+tbq.quests.primitive.planks.attachment=Доски
+
+tbq.quests.primitive.wheel.subtitle=&cИзобретение колеса является величайшим достижением в области механики за всю многовековую историю человечества.
+
+tbq.quests.primitive.woodchest.title=Сундуки
+tbq.quests.primitive.woodchest.subtitle=&cКакой-то дебил придумал несколько крафтов для сундуков, делайте выводы какой рецепт выгоднее.
+tbq.quests.primitive.woodchest.task.chest.title=Любой сундук
+
+tbq.quests.primitive.barrel.title=Бочку катишь?
+tbq.quests.primitive.barrel.subtitle=&cОбезьянка воду налила, вода в бочке осталась.
+tbq.quests.primitive.barrel.attachment=Бочки
+
+tbq.quests.primitive.walkstick.subtitle=&cПри помощи этой палки, Вы можете ходить намного быстрее сквозь кусты.
+tbq.quests.primitive..tasks.walkstick.title=Все мы уже не молодые
+
+tbq.quests.primitive.juteropes.title=Я буду тряпка!
+tbq.quests.primitive.juteropes.subtitle=&cДжут с кризисом самовосприятия.
+
+tbq.quests.primitive.jute.title=Джут
+tbq.quests.primitive.jute.subtitle=&cПочему верёвки не из конопли? Я хочу весёлые пожары!
+tbq.quests.primitive.jute.attachment=Не конопля
+
+tbq.quests.primitive.povodok.title=Поводок
+tbq.quests.primitive.povodok.subtitle=ツ
+
+tbq.quests.primitive.cheese.title=Сыр
+tbq.quests.primitive.cheese.subtitle=&cТеперь и на луну не надо. Все же знают, что на луне есть сыр? Нет.. а
+tbq.quests.primitive.cheese.attachment=Сыры
+
+tbq.quests.primitive.grains.title=Первый урожай!
+tbq.quests.primitive.grains.subtitle=&cСобрать урожай с зернового растения.
+tbq.quests.primitive.grains.attachment=Культуры
+
+tbq.quests.primitive.HorsePress.subtitle=&cПри помощи данного пресса можно получать больше предметов, нежели в ручную. Важное требование - лошадь, которую ещё нужно приручить.
+
+tbq.quests.primitive.Grindstone.subtitle=&cТеперь при дроблении руд, Вы сможете получать огромный выход ресурсов.
+
+tbq.quests.primitive.leafmat.title=Сушилка из листвы
+tbq.quests.primitive.leafmat.subtitle=&cСкрафтите это, после поставьте, вуаля, теперь Вы можете высушивать или выпаривать что-либо.
+
+tbq.quests.primitive.driedfruits.attachment=Cухофрукты
+
+tbq.quests.primitive.primitiveTools.title=Ваши первые инструменты
+tbq.quests.primitive.primitiveTools.subtitle=&cВозьмите камень в руку, лучше больше двух, и нажмите правую кнопку, у вас откроется меню, в котором Вы сможете выточить из камня нужный вам инструмент.
+
+tbq.quests.primitive.bear.title=Медведь в мечтах
+tbq.quests.primitive.bear.subtitle=&cУбейте медведя.
+
+tbq.quests.primitive.muchNeededStraw.title=Сухая трава
+tbq.quests.primitive.muchNeededStraw.subtitle=&cВозьмите нож в руки и скосите траву в округе.
+
+tbq.quests.primitive.greenpeace.title=Гринпис уже за вами выехал..
+tbq.quests.primitive.greenpeace.subtitle=&cРубите брёвна, дети мои! Их нам понадобится очень много.
+tbq.quests.primitive.greenpeace.tasks.logs.title=&cБрёвна
+
+tbq.quests.primitive.fuelNumber1.title=Топливо №1
+tbq.quests.primitive.fuelNumber1.subtitle=&cТак как TFC слишком реалистичный мод, растопить печку не получится при помощи каменного угля, что логично, поэтому делаем древесный.
+
+tbq.quests.primitive.fireplace.title=Костёр
+tbq.quests.primitive.fireplace.subtitle=&cНужно сделать костёр, чтобы согреть себя, а также приготовить еду, кстати, Вы также можете сделать факела на костре.
+tbq.quests.primitive.fireplace.tasks.wood.title=Брёвна
+
+tbq.quests.primitive.meat.title=МЯЯЯЯСО!
+tbq.quests.primitive.meat.subtitle=&cОно веганское. Я не вру, дай попробовать травоеду для подтверждения.
+tbq.quests.primitive.meat.tasks.meat.title=&cМясо
+tbq.quests.primitive.meat.attachment=Приготовить любое мясо на костре.
+
+tbq.quests.primitive.siliciasand.title=Песочек
+tbq.quests.primitive.siliciasand.subtitle=&cТот самый...
+
+tbq.quests.primitive.glasspanel.title=Без окон, как без дверей.
+tbq.quests.primitive.glasspanel.subtitle=&cГо теперь теплицу лепить!
+
+tbq.quests.primitive.blueClay.title=Цвет настроения глинистый
+tbq.quests.primitive.blueClay.subtitle=&cДобудьте глину, для этого воспользуйтесь удачей или знаниями в области травоведения, ведь в местах залегания глины растут интересные кусты.
+
+tbq.quests.primitive.allTheMolds.title=Некоторые формы которые вам понадобятся
+tbq.quests.primitive.allTheMolds.subtitle=&cФорм много, их можно не делать все за раз, но я уверен, что по мере прохождения, каждую из них Вы сделаете.
+
+tbq.quests.primitive.jug.title=Пещерный стакан
+tbq.quests.primitive.jug.subtitle=&cТеперь нажатием по жидкости, которую можно пить, например свежая вода, Вы можете набрать в него воду, и когда вам будет нужно, тогда и выпить.
+
+tbq.quests.primitive.vessel.title=Чуть больше чем просто стакан
+tbq.quests.primitive.vessel.subtitle=&cЭто банка, в которой Вы будете обжигать и расплавлять металлы, а также хранить различную еду, так что это очень полезный предмет, предлагаю вам его обжечь. Встроенное силовое поле не позволяет никаким жидкостям кроме плавленных металлов(а также всякой вкуснятины, в виде еды) проникать внутрь.
+
+tbq.quests.primitive.theHammer.title=Каменный молот
+tbq.quests.primitive.theHammer.subtitle=&cВыглядит эстетично, посмотрите какой он серый, ну а если серьезно, то он вам нужен, чтобы создать каменную наковальню.
+
+tbq.quests.primitive.farmer3000.title=Фермер - 3000
+tbq.quests.primitive.farmer3000.subtitle=&cСделайте каменную мотыгу, чтобы посадить ваши первые растения. Механика всё та же, для начала Вы должны вспахать землю рядом с водой, после посадить растение.
+
+tbq.quests.primitive.seeds.title=Мешочек с семенами
+tbq.quests.primitive.seeds.subtitle=&cПо мере того, как Вы исследуете свой мир, Вы будете находить всё больше и больше еды. Ягодные кустарники, фруктовые деревья и сельскохозяйственные культуры. Зрелые культуры дадут как мешки с семенами, так и продукты питания. Затем семена можно посадить на сельскохозяйственные угодья, и они будут медленно расти в зависимости от множества факторов. Продукт питания, который сбрасывают зрелые культуры, со временем будет разлагаться. Зерно можно использовать для кормления животных или дальнейшей переработки для приготовления например хлеба. Возьмите любой мешочек с семенами, чтобы выполнить это задание.
+tbq.quests.primitive.seeds.attachment=Семена
+
+tbq.quests.primitive.fruittrees.title=Обезьянка полезла на дерево за бананом
+tbq.quests.primitive.fruittrees.subtitle=&cВ мире TFC, наверняка фрукты будут составлять половину вашего рациона, особенно на начальных этапах игры. Фруктовые деревья являются одним из двух источников фруктов в TFC. В отличие от обычных деревьев, Вы получаете саженцы, ломая боковые поперечные ветви топором или пилой - они вырастут заново. Сломав любую другую ветку - Вы убьёте дерево. В TFC при размещении саженца плодоносного дерева, помещается саженец, а не ствол плодоносного дерева. Со временем саженец сформирует ствол плодоносного дерева и превратится в плодовое дерево. В TFC Вы также можете поместить саженцы плодоносных деревьев в цветочные горшки. Как только они вырастут в ствол плодоносного дерева, Вы уже не сможете собрать их обратно, а также не забывайте, что у Вас есть возможность выращивать плодоносные деревья в теплицах, так Вы сможете кушать фрукты круглый год.
+tbq.quests.primitive.fruittrees.attachment=Плодовые деревья
+
+tbq.quests.primitive.berrybushes.title=Ягодные кусты
+tbq.quests.primitive.berrybushes.subtitle=&cЯгодные кусты можно найти по всему вашему миру. Для их сбора нет никакого инструмента или хитрости, но для выращивания плодов, их нужно сажать на траву. С этой задачей справится любой ягодный куст.
+tbq.quests.primitive.berrybushes.attachment=Ягодные кусты
+
+tbq.quests.primitive.animalhusbandry.title=Животноводство
+tbq.quests.primitive.animalhusbandry.subtitle=&cДикие животные не доверяют Вам и не позволяют Вам делать многое... Так что Вам нужно будет наладить отношения, если Вы хотите получить эту драгоценную шерсть / молоко / транспорт.
+tbq.quests.primitive.animalhusbandry.attachment=Корм
+
+tbq.quests.primitive.rockanvil.title=Ваша первая наковальня, правда каменная
+tbq.quests.primitive.rockanvil.subtitle=&cВозьмите каменный молот(или любой другой) в руки и ударьте им (ПКМ) по блоку камня указанному в квесте.
+tbq.quests.primitive.rockanvil.attachment=Наковальня
+
+tbq.quests.primitive.rawHide.title=Сырая шкура
+tbq.quests.primitive.rawHide.subtitle=&cДобудьте любую сырую шкуру, надеюсь не одна овца не пострадает.
+
+tbq.quests.primitive.flux.title=Флюс
+tbq.quests.primitive.flux.subtitle=&cНайти мел, доломит, известняк или мрамор.
+
+tbq.quests.primitive.grinder.title=Ручная мельница
+tbq.quests.primitive.grinder.subtitle=&cСоздайте ручную мельницу.
+
+tbq.quests.primitive.preparedHide.title=Приготовленная шкура
+tbq.quests.primitive.preparedHide.subtitle=&cОбмочите, обрежьте, снова обмочите и получите наконец эту шкуру!
+tbq.quests.primitive.preparedHide.attachment=Шкура ツ
+
+tbq.quests.primitive.loom.subtitle=&cТеперь Вы можете делать ткань.
+tbq.quests.primitive.loom.attachment=Ткацкий станок
+
+tbq.quests.primitive.pineappleleather.subtitle=&cЕщё один интересный тип растительной кожи.
+
+tbq.quests.primitive.burlap.title=Я ЕСТЬ ТРЯПКА
+tbq.quests.primitive.burlap.subtitle=&cСамый полезный предмет в игре. Не давай меню крафтов Вас обмануть и переводите весь джут в это.
+
+tbq.quests.primitive.leather.title=Кожа
+tbq.quests.primitive.leather.subtitle=&cСкрафтите кожу.
+
+tbq.quests.primitive.meshokmochi.title=Мячик. Для квиддича.
+tbq.quests.primitive.meshokmochi.subtitle=&cС кого падают мочевые пузыри? Хороший вопрос.
+
+tbq.quests.primitive.softbucket.title=Мягкое ведро
+tbq.quests.primitive.softbucket.subtitle=&cШобы пить.
+
+tbq.quests.primitive.spindle.subtitle=&cПри помощи сиё механизма Вы произведете свой первый кусок ткани.
+
+tbq.quests.primitive.strings.title=Любые нитки
+tbq.quests.primitive.strings.subtitle=&cГде же их блин найти?
+
+tbq.quests.primitive.woolcloth.title=Я Есть Дорогая Тряпка
+tbq.quests.primitive.woolcloth.subtitle=&cИз вонючих овец, или из паучьей задницы. Честно говоря, я бы выбрал джут.
+tbq.quests.primitive.woolcloth.attachment=Ткани
+
+tbq.quests.primitive.bed.title=Ложе Царское
+tbq.quests.primitive.bed.subtitle=&cСтив умеет спать только на поверхности из вышеупомянутых вонючих овец и паучьих жоп.
+tbq.quests.primitive.bed.attachment=Кровати
+
+tbq.quests.primitive.harderbucket.title=Пещерный термос
+tbq.quests.primitive.harderbucket.subtitle=&cШобы больше пить.
+
+tbq.quests.primitive.bellows.subtitle=&cКузнечные меха, которые используются, чтобы увеличить температуру в доменной печи до 9999999 градусов Цельсия.
+
+tbq.quests.primitive.bronzesheets.title=Бронзовые листы
+tbq.quests.primitive.bronzesheets.subtitle=Бронзовые листы или бронзово содержащие
+
+tbq.quests.primitive.bloomery.subtitle=&cЛюк обладающий силой Таноса. Используется при постройке примитивной доменной печи.
+
+tbq.quests.primitive.graphitepile.title=Графитовый порошок
+tbq.quests.primitive.graphitepile.subtitle=&cВажная часть вещей, которые нужны для огнеупорной глины, короче копайте ДОФИГА.
+
+tbq.quests.primitive.kaolinitepile.title=Каолинитовый порошок
+tbq.quests.primitive.kaolinitepile.subtitle=&cТакая же важная как и графит.
+
+tbq.quests.primitive.fireproofclay.subtitle=&cОгнеупорная глина, которая понадобится для крафта блоков огнеупорных кирпичей, для доменной печи.
+
+tbq.quests.primitive.tfccrusible.title=Котёл железной ведьмы
+
+tbq.quests.primitive.ironcladding.title=24x Обшивка из сплава кованого железа для доменной печи
+
+tbq.quests.primitive.doublebullion.title=Двойной слиток - Что ещё для счастья надо?
+tbq.quests.primitive.doublebullion.attachment=Двойные слитки
+
+tbq.quests.primitive.doublesheet.title=Двойной лист - всему голова
+tbq.quests.primitive.doublesheet.attachment=Двойные листы
+
+tbq.quests.primitive.tuyere.title=Фурма
+tbq.quests.primitive.tuyere.subtitle=&cПо ней течет много-много вашего металла.
+
+tbq.quests.primitive.tfcblastfurnace.title=Доменная печь!
+tbq.quests.primitive.tfcblastfurnace.subtitle=&cСлава стали, новая эпоха наступает сейчас.
+
+tbq.quests.primitive.blacksteelingot.title=Чёрная сталь
+tbq.quests.primitive.blacksteelingot.subtitle=&cЧёрные не одобряют.
+
+tbq.quests.primitive.redsteelingot.title=&cКрасная сталь
+
+tbq.quests.primitive.bluesteelingot.title=&9Синяя сталь
+
+tbq.quests.primitive.bluesteelbucket.title=&9Синее ведро
+tbq.quests.primitive.bluesteelbucket.subtitle=&9Покрашено слезами всех, упавших в лаву с алмазами в инвентаре. Может зачерпывать лаву.
+
+tbq.quests.primitive.redsteelbucket.title=&cКрасное ведро
+tbq.quests.primitive.redsteelbucket.subtitle=&cКрасим кровью утопленников. Может зачерпывать воду.
+
+tbq.quests.primitive.bucket.title=Я ЕСТЬ ВЕДРО!!!
+tbq.quests.primitive.bucket.subtitle=&cВолшебное майнкрафтовское ведро. Магия вымыла краску.
+
+tbq.quests.primitive.backpack.subtitle=&cХорошее переносное хранилище.
+
+tbq.quests.primitive.tannedleather.subtitle=&cУтеплённая кожа с крутыми эффектами сказал бы я, если я был бы продавцом в обувном магазине. Но к сожалению это просто кожа для рюкзака.
+
+tbq.quests.primitive.greenhouseblocks.title=Блоки для постройки теплицы
+tbq.quests.primitive.greenhouseblocks.subtitle=&cДанные блоки + контроллер теплицы, который идёт дальше по квесту, понадобятся Вам, чтобы сделать теплицу и начать выращивать растения даже зимой.
+
+tbq.quests.primitive.sugarcane.subtitle=&cСоберите тростника, он вам пригодится, для создания завода по производству БУМАГИ!
+
+tbq.quests.primitive.paper.subtitle=&cСделайте бумагу, она вам пригодится...
+
+##################################################################################################################################
+##################################################################################################################################
+
+tbq.quests.developmenttable.era.title=&cТаблица развития
+
+##################################################################################################################################
+##################################################################################################################################
+
+tbq.quests.globaldevelopmenttable.era.title=&cГлобальная таблица развития

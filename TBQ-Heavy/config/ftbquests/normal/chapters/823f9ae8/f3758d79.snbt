@@ -1,0 +1,28 @@
+{
+	title: "{tbq.quests.primitive.redsteelingot.title}",
+	x: -34.0d,
+	y: 1.0d,
+	dependencies: [
+		"f7244dc3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "acb0ea9e",
+		type: "item",
+		title: "{tbq.quests.primitive.redsteelingot.title}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotRedSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotRedSteel"
+				}
+			}
+		}]
+	}]
+}

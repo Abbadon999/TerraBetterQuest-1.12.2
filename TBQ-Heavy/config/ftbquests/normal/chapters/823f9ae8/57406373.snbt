@@ -1,0 +1,46 @@
+{
+	title: "{tbq.quests.primitive.copper.title}",
+	x: -7.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.copper.subtitle}",
+	dependencies: [
+		"b320933e"
+	],
+	tasks: [{
+		uid: "ce3df0e4",
+		type: "item",
+		title: "{tbq.quests.primitive.copper.attachment}",
+		items: [{
+			id: "tfc:ore/native_copper",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/native_copper",
+			Damage: 1s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/native_copper",
+			Damage: 2s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}],
+		consume_items: false,
+		ignore_nbt: 1b
+	}]
+}

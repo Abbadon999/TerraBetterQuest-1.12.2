@@ -1,0 +1,18 @@
+{
+	x: 11.5d,
+	y: 11.5d,
+	shape: "hexagon",
+	dependencies: [
+		"2816fe72",
+		"6df7dbf0"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "37499a98",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:bound_leather"
+		}]
+	}]
+}

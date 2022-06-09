@@ -1,0 +1,22 @@
+{
+	x: 11.5d,
+	y: 4.0d,
+	shape: "octagon",
+	description: "{tbq.quests.primitive.walkstick.subtitle}",
+	text: [
+		"{tbq.quests.primitive..tasks.walkstick.title}"
+	],
+	dependencies: [
+		"bf82a628"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cf2a7fef",
+		type: "item",
+		items: [{
+			item: "tfcflorae:tools/walking_stick"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

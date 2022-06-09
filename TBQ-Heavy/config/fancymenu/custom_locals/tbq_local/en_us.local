@@ -1,0 +1,6 @@
+// Главное Меню - Main Menu
+tbq.main.menu.sing = Singleplayer
+tbq.main.menu.milt = Multiplayer
+tbq.main.menu.opti = Options
+tbq.main.menu.lang = Language
+tbq.main.menu.quit = Quit Game

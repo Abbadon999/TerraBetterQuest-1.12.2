@@ -1,0 +1,29 @@
+{
+	title: "{tbq.quests.primitive.flux.title}",
+	icon: "tfc:rock/granite",
+	x: 15.0d,
+	y: 2.5d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.flux.subtitle}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"b320933e"
+	],
+	tasks: [{
+		uid: "0b0a99ad",
+		type: "item",
+		items: [{
+			item: "tfc:rock/chalk"
+		},
+		{
+			item: "tfc:rock/dolomite"
+		},
+		{
+			item: "tfc:rock/marble"
+		},
+		{
+			item: "tfc:rock/limestone"
+		}],
+		count: 10L
+	}]
+}

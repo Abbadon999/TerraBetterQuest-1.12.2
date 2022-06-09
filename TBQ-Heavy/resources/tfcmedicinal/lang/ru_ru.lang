@@ -1,0 +1,86 @@
+fluid.death_sickness_antidote=Противоядие от смертельной болезни
+fluid.acuity_concoction=Концентрат остроты
+fluid.base_concoction=Основа для приготовления отвара
+fluid.nourishing_concoction=Питательный отвар
+fluid.rejuvenating_concoction=Омолаживающий отвар
+fluid.stomach_strength_concoction=Отвар для укрепления желудка
+fluid.lung_strength_concoction=Отвар для укрепления легких
+fluid.keen_sight_concoction=Отвар острого зрения
+fluid.health_boost_concoction=Отвар для укрепления здоровья
+
+fluid.cooling_panacea=Охлаждающие средство
+fluid.warming_panacea=Согревающие средство
+fluid.cooling_panacea.description=Охлаждает вас на некоторое время
+fluid.warming_panacea.description=Согревает вас на некоторое время
+
+fluid.base_concoction.description=Катализаторы могут быть добавлены в этот напиток
+fluid.death_sickness_antidote.description=Лечит смертельную болезнь
+fluid.acuity_concoction.description=Если вы умрете, вы и ваши вещи не будут потеряны
+fluid.catalyst.description=Базовый катализатор для медицины
+fluid.nourishing_concoction.description=Восполняет ваши показатель сытости до половины
+fluid.rejuvenating_concoction.description=Ваши раны заживают быстрее в течение короткого периода времени
+fluid.stomach_strength_concoction.description=Защищает от паразитов и тошноты
+fluid.lung_strength_concoction.description=Вы можете дольше задерживать дыхание, быстрее плыть и эффективнее работать на шахтах
+fluid.keen_sight_concoction.description=Ты можешь видеть в темноте
+fluid.health_boost_concoction.description=Ваше максимальное здоровье увеличено
+
+tooltip.extract_herbal=Обладает свойствами снятия стресса и релаксации
+tooltip.extract_lively=Обладает целебными свойствами
+tooltip.extract_earthy=Богат витаминами и минералами
+tooltip.extract_pure=Связывает катализаторы, не изменяя их структуру
+tooltip.extract_focused=Обладает свойствами, повышающими умственную активность
+tooltip.extract_energetic=Обладает тонизирующими свойствами
+tooltip.extract_fragrant=Обладает сильным ароматом, а также усиливает чувства
+
+tooltip.boil_catalyst.description=Влить в базовый отвар для питья
+tooltip.base_concoction.description=Влейте в соленую воду немного ферментированного паучьего глаза, чтобы придать ему особые абсорбирующие свойства.
+
+item.tfcmedicinal.vial.name=Пробирка
+item.tfcmedicinal.vial_full.name=Пробирка с (%s)
+item.tfcmedicinal.catalyst.name=Катализатор
+item.tfcmedicinal.catalyst_full.name=%s Катализатор
+item.tfcmedicinal:mpestle.name=Ступка и пестик
+
+tile.tfcmedicinal:vial_heater.name=Лабораторный штатив
+
+effect.tfcmedicinal.acuity.name=Острота
+effect.tfcmedicinal.death_sickness.name=Смертельная болезнь
+effect.tfcmedicinal.strong_stomach.name=Крепкий желудок
+effect.tfcmedicinal.strong_lungs.name=Сильные лёгкие
+
+item.tfcmedicinal:extract/herbal.name=Травяной экстракт
+item.tfcmedicinal:extract/lively.name=Живой экстракт
+item.tfcmedicinal:extract/earthy.name=Питательный экстракт
+item.tfcmedicinal:extract/pure.name=Чистый экстракт
+item.tfcmedicinal:extract/energetic.name=Тонизирующий экстракт
+item.tfcmedicinal:extract/focused.name=Сфокусированный экстракт
+item.tfcmedicinal:extract/fragrant.name=Ароматический экстракт
+
+item.tfcmedicinal:concentrate/herbal.name=Травяной концентрат
+item.tfcmedicinal:concentrate/lively.name=Живой концентрат
+item.tfcmedicinal:concentrate/earthy.name=Питательный концентрат
+item.tfcmedicinal:concentrate/pure.name=Чистый концентрат
+item.tfcmedicinal:concentrate/energetic.name=Тонизирующий концентрат
+item.tfcmedicinal:concentrate/focused.name=Сфокусированный концентрат
+item.tfcmedicinal:concentrate/fragrant.name=Ароматический концентрат
+
+
+//Status messages
+quote.parasites=Ваш желудок чувствует себя не очень хорошо
+quote.awful=Вы просыпаетесь с ужасным самочувствием
+quote.location=Это место Вам незнакомо
+
+quote.amnesia=Вы не можете ничего вспомнить
+quote.no_amnesia=Вы знаете, где Вы находитесь и где находятся ваши вещи
+
+quote.acuity=Ваша память становится крепче
+quote.nourished=Вы снова чувствуете себя здоровым
+quote.rejuvenated=Ваша боль уходит
+quote.antidote=Ваши чувства начинают возвращаться
+quote.stomach=Ваш желудок чувствует себя крепче
+quote.lungs=Ваши легкие чувствуют себя сильнее
+quote.sight=Ваше зрение становится сильнее
+quote.health_boost=Вы чувствуете в себе силы
+
+quote.warm=Вам становится теплее
+quote.cool=Вы чувствуете прохладу

@@ -1,0 +1,19 @@
+{
+	title: "{tbq.quests.primitive.tfccrusible.title}",
+	x: -24.5d,
+	y: 1.7000000000000002d,
+	shape: "pentagon",
+	dependencies: [
+		"ccccbec4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "654ad28d",
+		type: "item",
+		items: [{
+			item: "tfc:crucible"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	x: -7.0d,
+	y: -2.0d,
+	shape: "circle",
+	description: "{tbq.quests.primitive.copperingot.subtitle}",
+	dependencies: [
+		"57406373"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ebbeb70e",
+		type: "item",
+		title: "{tbq.quests.primitive.copperingot.title}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotCopper"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotCopper"
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "{tbq.quests.primitive.woolcloth.title}",
+	icon: "tfc:animal/product/wool_cloth",
+	x: 13.0d,
+	y: 14.5d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.woolcloth.subtitle}",
+	dependencies: [
+		"9160e91d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a356319d",
+		type: "item",
+		title: "{tbq.quests.primitive.woolcloth.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "clothHighQuality"
+				}
+			}
+		}]
+	}]
+}

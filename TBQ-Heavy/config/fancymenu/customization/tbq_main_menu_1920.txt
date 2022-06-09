@@ -1,0 +1,394 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  biggerthanwidth = 1900
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = panoramamodpack
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = -80
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttonlabel
+  value = %local:tbq.main.menu.milt%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\textures\btn1.png
+  backgroundnormal = resources\mainmenu\textures\btn3.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = sethoverlabel
+  label = §f%local:tbq.main.menu.milt%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = 7cd5387e-dae1-4c8b-8f19-ab4099d3e55d1653925059347
+  x = 196
+  action = movebutton
+  y = 77
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = %local:tbq.main.menu.opti%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\textures\btn1.png
+  backgroundnormal = resources\mainmenu\textures\btn3.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = sethoverlabel
+  label = §f%local:tbq.main.menu.opti%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 178
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = %local:tbq.main.menu.quit%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\textures\btn1.png
+  backgroundnormal = resources\mainmenu\textures\btn3.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = sethoverlabel
+  label = §f%local:tbq.main.menu.quit%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-left
+  x = 95
+  action = movebutton
+  y = 240
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = -160
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = %local:tbq.main.menu.sing%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\textures\btn1.png
+  backgroundnormal = resources\mainmenu\textures\btn3.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = sethoverlabel
+  label = §f%local:tbq.main.menu.sing%
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = bottom-right
+  shadow = false
+  x = -68
+  actionid = beebe310-24ce-4ab7-a171-5d06a15836b31653998078858
+  action = addtext
+  y = -5
+  scale = 0.5
+  alignment = centered
+  value = The author of the map in the manorama - TerraVoxel
+}
+
+customization {
+  orientation = element
+  slim = false
+  scale = 45
+  showname = false
+  skinpath = resources/mainmenu/textures/skins/abbadon.png
+  crouching = false
+  orientation_element = 7cd5387e-dae1-4c8b-8f19-ab4099d3e55d1653925059347
+  x = 519
+  actionid = cb1fd6c4-a048-44a9-a6bc-d8b024a2506b1653997341800
+  action = addentity
+  y = 66
+  playername = _ABBAD0N_
+  parrot = true
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  skinpath = config/fancymenu/modpack/syber.png
+  crouching = false
+  x = 957
+  slim = false
+  actionid = f82cd154-8929-42e4-8e1a-fb5976426ec01625508134345
+  action = addentity
+  y = 581
+  scale = 1
+  parrot = false
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = 36fbbd7c-3a93-4b73-9ad8-5143fc9603471652922878931
+  action = addtext
+  y = -44
+  scale = 1.0
+  alignment = left
+  value = Modpack Version: §cH0.2.5
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = 377a769d-d758-4403-958b-a9eb46f5fb5d1652923208938
+  action = addtext
+  y = -34
+  scale = 1.0
+  alignment = left
+  value = Modpack Type: §b[Heavy]
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = 9e2bd21d-5515-458c-8fb1-abaa478429481652923478285
+  action = addtext
+  y = -25
+  scale = 1.0
+  alignment = left
+  value = Latest Modpack Version: 
+}
+
+customization {
+  orientation = element
+  shadow = true
+  orientation_element = 9e2bd21d-5515-458c-8fb1-abaa478429481652923478285
+  multiline = false
+  x = 139
+  action = addwebtext
+  actionid = 6a698154-d1a7-40f8-a568-ed3045a256991652923603187
+  y = 0
+  scale = 1.0
+  alignment = centered
+  url = https://pastebin.com/raw/uxWDXbzH
+}
+
+customization {
+  orientation = element
+  basecolor = #ebd3ad
+  shadow = true
+  splashfilepath = resources\mainmenu\texts\main_menu_splashes.txt
+  rotation = -30.0
+  scale = 1.0
+  refresh = true
+  bouncing = true
+  orientation_element = 7cd5387e-dae1-4c8b-8f19-ab4099d3e55d1653925059347
+  x = -33
+  actionid = 732d4530-bd95-48b6-805b-ee7f535088ac1652985574162
+  action = addsplash
+  y = -19
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = reloadmenu
+  backgroundhovered = resources\mainmenu\textures\reload_b_p.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = 7cd5387e-dae1-4c8b-8f19-ab4099d3e55d1653925059347
+  x = 23
+  width = 21
+  actionid = 43057e03-8ce2-475a-9f7c-eb50414a54bf1653164876156
+  action = addbutton
+  y = -19
+  backgroundnormal = resources\mainmenu\textures\reload_b.png
+  value = 
+  height = 21
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources\mainmenu\textures\btn1.png
+  label = %local:tbq.main.menu.lang%
+  loopbackgroundanimations = true
+  hoverlabel = &f%local:tbq.main.menu.lang%
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 98
+  width = 80
+  actionid = 69a237f9-0ad9-4f9a-b429-df056d1a9e781653922775388
+  action = addbutton
+  y = 0
+  backgroundnormal = resources\mainmenu\textures\btn3.png
+  value = net.minecraft.client.gui.GuiLanguage
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources\mainmenu\textures\terrabetterquest_btn_2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -245
+  width = 490
+  actionid = 7cd5387e-dae1-4c8b-8f19-ab4099d3e55d1653925059347
+  action = addbutton
+  y = -67
+  backgroundnormal = resources\mainmenu\textures\terrabetterquest_btn_1.png
+  value = net.minecraft.client.gui.GuiWorldSelection
+  height = 67
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources\mainmenu\textures\btn1.png
+  label = %local:tbq.main.menu.milt%
+  loopbackgroundanimations = true
+  hoverlabel = &f%local:tbq.main.menu.milt%
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = -80
+  width = 80
+  actionid = c5eb7b97-bdc3-41e8-b85a-f9ca8b9eea1d1654239916976
+  action = addbutton
+  y = 0
+  backgroundnormal = resources\mainmenu\textures\btn3.png
+  value = net.minecraft.client.gui.GuiMultiplayer
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\mainmenu\textures\discord_b_p.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 258
+  width = 27
+  actionid = 9153563a-ffbb-4db7-b2fb-f70ac2eb3dd41654505201677
+  action = addbutton
+  y = 0
+  backgroundnormal = resources\mainmenu\textures\discord_b.png
+  value = https://discord.gg/QHjPUWYpmx
+  height = 20
+}
+

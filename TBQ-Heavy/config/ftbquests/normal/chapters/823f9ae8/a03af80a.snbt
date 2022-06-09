@@ -1,0 +1,26 @@
+{
+	title: "{tbq.quests.primitive.greenpeace.title}",
+	icon: "tfc:wood/log/oak",
+	x: 5.0d,
+	y: -3.0d,
+	description: "{tbq.quests.primitive.greenpeace.subtitle}",
+	dependencies: [
+		"d1baef19"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c87b32e7",
+		type: "item",
+		title: "{tbq.quests.primitive.greenpeace.tasks.logs.title}",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "logWood"
+				}
+			}
+		}],
+		count: 16L
+	}]
+}

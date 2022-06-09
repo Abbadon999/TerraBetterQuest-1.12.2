@@ -1,0 +1,19 @@
+{
+	x: -22.5d,
+	y: -1.5d,
+	shape: "pentagon",
+	description: "{tbq.quests.primitive.bloomery.subtitle}",
+	dependencies: [
+		"c90d2d6c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c7f05678",
+		type: "item",
+		items: [{
+			item: "tfc:bloomery"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

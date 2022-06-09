@@ -1,0 +1,26 @@
+{
+	title: "{tbq.quests.primitive.bucket.title}",
+	x: -39.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "{tbq.quests.primitive.bucket.subtitle}",
+	dependencies: [
+		"2b9352d5",
+		"b4eca65b"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "6cba2584",
+		type: "item",
+		items: [{
+			item: "minecraft:bucket"
+		}]
+	}],
+	rewards: [{
+		uid: "5ab074ff",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 10
+	}]
+}

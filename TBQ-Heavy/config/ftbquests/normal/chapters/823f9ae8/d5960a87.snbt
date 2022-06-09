@@ -1,0 +1,31 @@
+{
+	title: "{tbq.quests.primitive.fruitsAndBerries.title}",
+	x: 11.499999999999993d,
+	y: -7.5d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.fruitsAndBerries.subtitle}",
+	dependencies: [
+		"3e5270be",
+		"ae930196",
+		"3f9c5a46"
+	],
+	tasks: [{
+		uid: "49fda19e",
+		type: "item",
+		title: "{tbq.quests.primitive.fruitsAndBerries.subtitle.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Фрукты, ягоды"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "categoryFruit"
+				}
+			}
+		}]
+	}]
+}

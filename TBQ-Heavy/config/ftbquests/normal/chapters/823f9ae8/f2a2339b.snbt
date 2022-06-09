@@ -1,0 +1,18 @@
+{
+	icon: "minecraft:paper",
+	x: 10.5d,
+	y: 8.6d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.paper.subtitle}",
+	dependencies: [
+		"2b068c5e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "44536988",
+		type: "item",
+		items: [{
+			item: "minecraft:paper"
+		}]
+	}]
+}

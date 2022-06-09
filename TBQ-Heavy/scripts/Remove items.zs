@@ -1,0 +1,11 @@
+mods.jei.JEI.removeAndHide(<cellars:freeze_dryer>);
+mods.jei.JEI.removeAndHide(<cellars:infected_air>);
+mods.jei.JEI.removeAndHide(<firmalife:bumper>);
+mods.jei.JEI.removeAndHide(<improvedbackpacks:ender_backpack>);
+mods.jei.JEI.removeAndHide(<improvedbackpacks:upgrade:4>);
+mods.jei.JEI.removeAndHide(<improvedbackpacks:upgrade:3>);
+mods.jei.JEI.removeAndHide(<improvedbackpacks:upgrade:2>);
+mods.jei.JEI.removeAndHide(<improvedbackpacks:upgrade:1>);
+mods.jei.JEI.removeAndHide(<improvedbackpacks:upgrade>);
+mods.jei.JEI.removeAndHide(<improvedbackpacks:blank_upgrade>);
+mods.jei.JEI.removeAndHide(<horsepower:hand_grindstone>);

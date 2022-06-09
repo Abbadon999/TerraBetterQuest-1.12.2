@@ -1,0 +1,18 @@
+{
+	x: 4.2d,
+	y: 3.1999999999999997d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.Grindstone.subtitle}",
+	dependencies: [
+		"ffb7544a"
+	],
+	hide: true,
+	size: 0.8d,
+	tasks: [{
+		uid: "b80f223c",
+		type: "item",
+		items: [{
+			item: "horsepower:grindstone"
+		}]
+	}]
+}

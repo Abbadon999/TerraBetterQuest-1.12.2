@@ -1,0 +1,30 @@
+{
+	title: "{tbq.quests.primitive.grinder.title}",
+	icon: "tfc:handstone",
+	x: 15.0d,
+	y: 4.0d,
+	shape: "square",
+	description: "{tbq.quests.primitive.grinder.subtitle}",
+	dependencies: [
+		"01aaa85a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7c78b386",
+		type: "item",
+		items: [{
+			item: "tfc:handstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b8441b83",
+		type: "item",
+		items: [{
+			item: "tfc:quern"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

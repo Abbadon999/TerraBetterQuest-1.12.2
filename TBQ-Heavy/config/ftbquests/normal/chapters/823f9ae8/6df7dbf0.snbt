@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 10.5d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.pineappleleather.subtitle}",
+	dependencies: [
+		"14ed0d1e"
+	],
+	tasks: [{
+		uid: "0d9b7518",
+		type: "item",
+		items: [{
+			item: "firmalife:pineapple_leather"
+		}]
+	}]
+}

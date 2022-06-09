@@ -1,0 +1,18 @@
+{
+	x: 9.0d,
+	y: -1.5d,
+	shape: "diamond",
+	dependencies: [
+		"0f47df28"
+	],
+	hide: true,
+	tasks: [{
+		uid: "46807259",
+		type: "item",
+		items: [{
+			item: "astikorcarts:plowcart"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "{tbq.quests.primitive.rawHide.title}",
+	icon: "tfc:hide/prepared/large",
+	x: 13.0d,
+	y: -2.5d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.rawHide.subtitle}",
+	dependencies: [
+		"d1baef19"
+	],
+	tasks: [{
+		uid: "90ede488",
+		type: "item",
+		items: [{
+			item: "tfc:hide/raw/medium"
+		},
+		{
+			item: "tfc:hide/raw/small"
+		},
+		{
+			item: "tfc:hide/raw/large"
+		}]
+	}]
+}

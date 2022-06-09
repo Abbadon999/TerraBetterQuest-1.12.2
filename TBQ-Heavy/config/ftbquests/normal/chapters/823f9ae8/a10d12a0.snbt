@@ -1,0 +1,30 @@
+{
+	x: -24.5d,
+	y: -1.5d,
+	description: "{tbq.quests.primitive.tuyere.subtitle}",
+	dependencies: [
+		"e3cd4078"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a6fdcb1f",
+		type: "item",
+		title: "{tbq.quests.primitive.tuyere.title}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any tuyere"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "tuyere"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

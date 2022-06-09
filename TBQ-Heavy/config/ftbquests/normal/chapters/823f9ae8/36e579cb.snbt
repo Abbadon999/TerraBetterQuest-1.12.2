@@ -1,0 +1,27 @@
+{
+	title: "{tbq.quests.primitive.supports.title}",
+	icon: "tfc:wood/support/douglas_fir",
+	x: 11.5d,
+	y: 0.5d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.supports.subtitle}",
+	dependencies: [
+		"1ccd9dd8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8cd39c94",
+		type: "item",
+		title: "{tbq.quests.primitive.supports.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "support"
+				}
+			}
+		}],
+		count: 16L
+	}]
+}

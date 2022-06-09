@@ -1,0 +1,19 @@
+{
+	title: "{tbq.quests.primitive.jute.title}",
+	x: 7.0d,
+	y: 2.0d,
+	shape: "pentagon",
+	description: "{tbq.quests.primitive.jute.subtitle}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"b320933e"
+	],
+	tasks: [{
+		uid: "a7199f9c",
+		type: "item",
+		title: "{tbq.quests.primitive.jute.attachment}",
+		items: [{
+			item: "tfc:crop/product/jute"
+		}]
+	}]
+}

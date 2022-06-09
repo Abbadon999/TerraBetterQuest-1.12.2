@@ -1,0 +1,18 @@
+{
+	title: "{tbq.quests.primitive.fuelNumber1.title}",
+	x: 3.0d,
+	y: -3.0d,
+	shape: "octagon",
+	description: "{tbq.quests.primitive.fuelNumber1.subtitle}",
+	dependencies: [
+		"a03af80a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "31a642c1",
+		type: "item",
+		items: [{
+			item: "minecraft:coal 1 1"
+		}]
+	}]
+}

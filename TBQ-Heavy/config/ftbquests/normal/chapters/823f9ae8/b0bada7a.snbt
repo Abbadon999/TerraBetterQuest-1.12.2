@@ -1,0 +1,19 @@
+{
+	x: -28.0d,
+	y: 10.5d,
+	shape: "square",
+	description: "{tbq.quests.primitive.bellows.subtitle}",
+	dependencies: [
+		"2816fe72",
+		"6df7dbf0"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "fc2df85e",
+		type: "item",
+		items: [{
+			item: "tfc:bellows"
+		}]
+	}]
+}

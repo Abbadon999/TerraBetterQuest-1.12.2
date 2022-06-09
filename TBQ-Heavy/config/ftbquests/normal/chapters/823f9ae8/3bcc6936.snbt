@@ -1,0 +1,19 @@
+{
+	title: "{tbq.quests.primitive.juteropes.title}",
+	x: 7.0d,
+	y: 4.0d,
+	shape: "square",
+	description: "{tbq.quests.primitive.juteropes.subtitle}",
+	dependencies: [
+		"bf82a628",
+		"137e3b1c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "55482cc5",
+		type: "item",
+		items: [{
+			item: "tfc:crop/product/jute_fiber"
+		}]
+	}]
+}

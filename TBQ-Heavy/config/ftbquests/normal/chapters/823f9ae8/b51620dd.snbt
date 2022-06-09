@@ -1,0 +1,53 @@
+{
+	title: "{tbq.quests.primitive.tin.title}",
+	x: -14.0d,
+	y: 1.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.tin.subtitle}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"8fc0c70f"
+	],
+	tasks: [{
+		uid: "92f4b7cf",
+		type: "item",
+		items: [{
+			id: "tfc:ore/cassiterite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/cassiterite",
+			Damage: 1s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/cassiterite",
+			Damage: 2s,
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		},
+		{
+			id: "tfc:ore/small/cassiterite",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

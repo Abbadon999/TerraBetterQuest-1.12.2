@@ -1,0 +1,32 @@
+{
+	title: "{tbq.quests.primitive.saw.title}",
+	x: 11.5d,
+	y: 2.0d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.saw.subtitle}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"57406373"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3f073efb",
+		type: "item",
+		title: "{tbq.quests.primitive.saw.attachment}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Все пилы"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "saw"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

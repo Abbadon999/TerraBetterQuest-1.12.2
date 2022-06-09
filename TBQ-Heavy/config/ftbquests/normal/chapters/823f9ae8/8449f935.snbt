@@ -1,0 +1,123 @@
+{
+	title: "{tbq.quests.primitive.animalhusbandry.title}",
+	x: 12.5d,
+	y: -8.0d,
+	shape: "square",
+	description: "{tbq.quests.primitive.animalhusbandry.subtitle}",
+	dependencies: [
+		"d2b461b8",
+		"d5960a87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "462c3431",
+		type: "item",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment}",
+		items: [{
+			id: "tfc:food/barley_grain",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "tfc:food/oat_grain",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "tfc:food/rice_grain",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1872000L,
+						traits: []
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:food/rye_grain",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "tfc:food/wheat_grain",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "tfc:food/barley",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "tfc:food/oat",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "tfc:food/rice",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1872000L,
+						traits: []
+					}
+				}
+			}
+		},
+		{
+			id: "harvestcraft:ryeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "tfc:food/wheat",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	title: "{tbq.quests.primitive.bronzesheets.title}",
+	x: -22.5d,
+	y: -3.0d,
+	shape: "diamond",
+	hide_dependency_lines: true,
+	dependencies: [
+		"dfd56851",
+		"cbf86a38",
+		"e71e26cc"
+	],
+	hide: true,
+	tasks: [{
+		uid: "370eee70",
+		type: "item",
+		title: "{tbq.quests.primitive.bronzesheets.subtitle}",
+		items: [{
+			id: "tfc:metal/double_sheet/bismuth_bronze",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_sheet/black_bronze",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		},
+		{
+			id: "tfc:metal/double_sheet/bronze",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		}],
+		count: 8L
+	}]
+}

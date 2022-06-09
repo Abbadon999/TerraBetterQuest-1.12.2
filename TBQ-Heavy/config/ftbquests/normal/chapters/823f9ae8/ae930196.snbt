@@ -1,0 +1,49 @@
+{
+	title: "{tbq.quests.primitive.fruittrees.title}",
+	x: 11.0d,
+	y: -6.5d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.fruittrees.subtitle}",
+	dependencies: [
+		"564097f0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1784c0c6",
+		type: "item",
+		title: "{tbq.quests.primitive.fruittrees.attachment}",
+		items: [{
+			item: "firmalife:cocoa_sapling"
+		},
+		{
+			item: "firmalife:cinnamon_sapling"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/orange"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/peach"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/red_apple"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/plum"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/olive"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/lemon"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/green_apple"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/cherry"
+		},
+		{
+			item: "tfc:fruit_trees/sapling/banana"
+		}]
+	}]
+}

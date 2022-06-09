@@ -1,0 +1,18 @@
+{
+	x: -24.5d,
+	y: 3.5d,
+	shape: "square",
+	description: "{tbq.quests.primitive.fireproofclay.subtitle}",
+	dependencies: [
+		"514c2665",
+		"ed15340a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4904f998",
+		type: "item",
+		items: [{
+			item: "tfc:ceramics/fire_clay"
+		}]
+	}]
+}

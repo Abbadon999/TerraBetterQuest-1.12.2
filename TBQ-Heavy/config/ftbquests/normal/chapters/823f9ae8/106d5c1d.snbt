@@ -1,0 +1,29 @@
+{
+	x: -14.0d,
+	y: 0.0d,
+	description: "{tbq.quests.primitive.bronzeingot.subtitle}",
+	dependencies: [
+		"57406373",
+		"b51620dd"
+	],
+	hide: true,
+	tasks: [{
+		uid: "04a1f097",
+		type: "item",
+		title: "{tbq.quests.primitive.bronzeingot.title}",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotBronze"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotBronze"
+				}
+			}
+		}]
+	}]
+}

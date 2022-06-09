@@ -1,0 +1,18 @@
+{
+	title: "{tbq.quests.primitive.redsteelbucket.title}",
+	x: -36.5d,
+	y: 1.0d,
+	description: "{tbq.quests.primitive.redsteelbucket.subtitle}",
+	dependencies: [
+		"f3758d79"
+	],
+	hide: true,
+	tasks: [{
+		uid: "724a137f",
+		type: "item",
+		items: [{
+			item: "tfc:metal/bucket/red_steel"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "{tbq.quests.primitive.bear.title}",
+	x: 6.199999999999999d,
+	y: -4.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.bear.subtitle}",
+	dependencies: [
+		"d1baef19"
+	],
+	tasks: [{
+		uid: "959ffc21",
+		type: "item",
+		items: [{
+			id: "tfc:food/bear",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1548000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

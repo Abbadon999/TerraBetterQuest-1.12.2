@@ -1,0 +1,15 @@
+{
+	title: "{tbq.quests.primitive.leafmat.title}",
+	x: 8.000000000000002d,
+	y: 5.399999999999999d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.leafmat.subtitle}",
+	hide: true,
+	tasks: [{
+		uid: "4ff60083",
+		type: "item",
+		items: [{
+			item: "firmalife:leaf_mat"
+		}]
+	}]
+}

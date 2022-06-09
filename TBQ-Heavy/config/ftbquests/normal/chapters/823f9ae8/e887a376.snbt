@@ -1,0 +1,15 @@
+{
+	x: -19.5d,
+	y: 5.0d,
+	dependencies: [
+		"2f65f01a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "bb532748",
+		type: "item",
+		items: [{
+			item: "firmalife:climate_station_3"
+		}]
+	}]
+}

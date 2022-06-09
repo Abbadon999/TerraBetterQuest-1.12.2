@@ -1,0 +1,28 @@
+{
+	title: "{tbq.quests.primitive.siliciasand.title}",
+	x: 4.299999999999997d,
+	y: -5.0d,
+	description: "{tbq.quests.primitive.siliciasand.subtitle}",
+	dependencies: [
+		"0bb92590"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0f0dc8b9",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Песок"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "sand"
+				}
+			}
+		}]
+	}]
+}

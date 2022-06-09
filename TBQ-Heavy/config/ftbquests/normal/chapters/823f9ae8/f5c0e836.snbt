@@ -1,0 +1,17 @@
+{
+	title: "{tbq.quests.primitive.glasspanel.title}",
+	x: 1.5d,
+	y: -5.0d,
+	description: "{tbq.quests.primitive.glasspanel.subtitle}",
+	dependencies: [
+		"64d4cb80"
+	],
+	hide: true,
+	tasks: [{
+		uid: "022189a2",
+		type: "item",
+		items: [{
+			item: "minecraft:glass_pane"
+		}]
+	}]
+}

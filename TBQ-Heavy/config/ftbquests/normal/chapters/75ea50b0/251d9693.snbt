@@ -1,0 +1,38 @@
+{
+	disable_toast: true,
+	x: -1.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "1168e5a3",
+		type: "item",
+		items: [{
+			id: "tfc:metal/ingot/bronze",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				},
+				"tfc:item_forge": {
+					ticks: -1L,
+					heat: 0.0f,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							second: -1,
+							third: -1
+						}
+					}
+				}
+			}
+		}]
+	}]
+}
