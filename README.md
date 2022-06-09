@@ -1,4 +1,6 @@
 # TerraBetterQuest - 1.12.2 - GitHub
+[![](https://cf.way2muchnoise.eu/240630.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/terrabetterquest)
+
 <a title="Join us on Discord!" href="https://discord.gg/QHjPUWYpmx"><img src="https://img.shields.io/discord/765134424115118102?color=blue&label=discord&logo=discord&style=for-the-badge" alt="Discord"/></a>⠀⠀<a title="Check out my projects" href="https://www.curseforge.com/members/iiabbadonii/projects"><img src="https://img.shields.io/badge/My-projects-orange?style=for-the-badge&logo=curseforge" alt="СURSEFORGE"/></a>
 ![logoTBQ](https://user-images.githubusercontent.com/42169608/172661993-4b604acb-5200-4f9b-ba3f-2e268e7fc6b4.png)
 ![tableEN](https://user-images.githubusercontent.com/42169608/172662015-8dbadd86-3dd6-40e7-b6d3-6b9eda6f7990.png)
