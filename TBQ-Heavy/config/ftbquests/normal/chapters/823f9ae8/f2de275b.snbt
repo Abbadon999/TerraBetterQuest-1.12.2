@@ -1,0 +1,19 @@
+{
+	title: "{tbq.quests.primitive.apiary.title}",
+	x: 15.0d,
+	y: 9.5d,
+	shape: "pentagon",
+	description: "{tbq.quests.primitive.apiary.subtitle}",
+	dependencies: [
+		"2816fe72"
+	],
+	hide: true,
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "e82149d1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:apiary"
+		}]
+	}]
+}

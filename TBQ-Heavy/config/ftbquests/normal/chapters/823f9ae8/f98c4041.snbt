@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 9.5d,
+	shape: "hexagon",
+	dependencies: [
+		"0e4ca8cf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a74082c0",
+		type: "item",
+		items: [{
+			item: "harvestcraft:hardenedleatheritem"
+		}]
+	}]
+}

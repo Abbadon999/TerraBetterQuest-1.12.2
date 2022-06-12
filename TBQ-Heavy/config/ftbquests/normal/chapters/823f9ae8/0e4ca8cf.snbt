@@ -1,0 +1,16 @@
+{
+	x: 18.5d,
+	y: 8.5d,
+	shape: "hexagon",
+	dependencies: [
+		"f09f2d05"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2c0b8e5f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:beeswaxitem"
+		}]
+	}]
+}

@@ -437,7 +437,6 @@ minecraft:acacia_fence
 minecraft:acacia_door
 minecraft:acacia_boat
 improvedbackpacks:item.bound_leather
-improvedbackpacks:item.backpack
 improvedbackpacks:backpack_dyeing_white
 improvedbackpacks:backpack_dyeing_orange
 improvedbackpacks:backpack_dyeing_magenta
@@ -1805,7 +1804,6 @@ ftbquests:loot_crate_storage
 gravestone:gravestone
 horsepower:press
 horsepower:grindstone
-horsepower:dough
 harvestcraft:zucchinifriesitem
 harvestcraft:zucchinibreaditem
 harvestcraft:zucchinibakeitem
@@ -5808,15 +5806,12 @@ minecraft:chainmail_helmet
 minecraft:chainmail_chestplate
 minecraft:chainmail_leggings
 minecraft:chainmail_boots
-eplus:upgrade
-eplus:table
 eplus:book_eplus
 eplus:book_vanilla
 eplus:booke_prismarine
 eplus:book_nether
 eplus:book_white
 eplus:book_metal
-eplus:shapeless_upgrade
 horsepower:chopper
 minecraft:bread
 minecraft:beetroot_soup
@@ -6445,4 +6440,3 @@ harvestcraft:melonjuiceitem
 harvestcraft:melonsmoothieitem
 harvestcraft:melonyogurtitem
 harvestcraft:watermelonjellyitem
-crafttweaker:ct_shaped1327185221

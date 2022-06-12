@@ -1,0 +1,22 @@
+{
+	x: 18.5d,
+	y: 10.5d,
+	shape: "hexagon",
+	dependencies: [
+		"910fea50"
+	],
+	hide: true,
+	tasks: [{
+		uid: "07f0f8d5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:honeyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 252000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

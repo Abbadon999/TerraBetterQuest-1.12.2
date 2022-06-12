@@ -235,16 +235,30 @@ tbq.quests.primitive.burlap.subtitle=&cThe most useful item in the game. Don't l
 tbq.quests.primitive.leather.title=Leather
 tbq.quests.primitive.leather.subtitle=&cCraft the leather.
 
+tbq.quests.primitive.apiary.title=Queen's bedchambers
+tbq.quests.primitive.apiary.subtitle=&cIn order to start beekeeping, first we need to craft an apiary. In the crafted apiary we put the Queen of Bees, and then the production process begins. Also around the apiary must be flowers of any kind!
+
+tbq.quests.primitive.littlebee.title=Larva
+tbq.quests.primitive.littlebee.subtitle=&cCould potentially increase your hive.
+tbq.quests.primitive.littlebee.attachment=Average statistical Minecraft player
+
+tbq.quests.primitive.leatherarmor.title=Leather panties
+tbq.quests.primitive.leatherarmor.subtitle=&cEntry-level armor.
+tbq.quests.primitive.leatherarmor.attachment=Gachimuchi
+
+tbq.quests.primitive.bee.title=Be a bee!!!
+tbq.quests.primitive.bee.subtitle=&cTo get delicious honey, we need the Queenツ of bees, you can get her by breaking a wild hive(Be careful, there are beehives with bees in the world that are likely to kill you if you don't dive under the water in time.). Stick her royal ass in the apiary and let her produce honey for you.
+
 tbq.quests.primitive.meshokmochi.title=Ball. For Quidditch.
 tbq.quests.primitive.meshokmochi.subtitle=&cWho drops the bladders? Good question.
 
 tbq.quests.primitive.softbucket.title=Soft bucket
 tbq.quests.primitive.softbucket.subtitle=&cFor drinking.
 
-tbq.quests.primitive.spindle.subtitle=&cПри помощи сиё механизма Вы произведете свой первый кусок ткани.
+tbq.quests.primitive.spindle.subtitle=&cWith this mechanism you will produce your first piece of cloth.
 
-tbq.quests.primitive.strings.title=Любые нитки
-tbq.quests.primitive.strings.subtitle=&cГде же их блин найти?
+tbq.quests.primitive.strings.title=Any string
+tbq.quests.primitive.strings.subtitle=&cWhere the hell can you find them?
 
 tbq.quests.primitive.woolcloth.title=I'm a Dear Rag
 tbq.quests.primitive.woolcloth.subtitle=&cFrom stinky sheep, or from a spider's ass. Honestly, I would choose jute.

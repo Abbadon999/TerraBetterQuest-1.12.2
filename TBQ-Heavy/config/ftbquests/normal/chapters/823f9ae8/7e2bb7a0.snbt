@@ -9,6 +9,7 @@
 		"3aac6d33"
 	],
 	hide: true,
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "e2f74055",
 		type: "item",

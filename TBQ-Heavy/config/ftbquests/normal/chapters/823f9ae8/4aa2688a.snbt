@@ -1,0 +1,20 @@
+{
+	title: "{tbq.quests.primitive.bee.title}",
+	x: 17.0d,
+	y: 9.5d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.bee.subtitle}",
+	dependencies: [
+		"f2de275b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3b4aff92",
+		type: "item",
+		items: [{
+			item: "harvestcraft:queenbeeitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

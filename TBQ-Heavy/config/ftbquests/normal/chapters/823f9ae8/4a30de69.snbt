@@ -1,0 +1,19 @@
+{
+	title: "{tbq.quests.primitive.littlebee.title}",
+	x: 16.0d,
+	y: 9.0d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.littlebee.subtitle}",
+	dependencies: [
+		"f2de275b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2f1368d3",
+		type: "item",
+		title: "{tbq.quests.primitive.littlebee.attachment}",
+		items: [{
+			item: "harvestcraft:grubitem"
+		}]
+	}]
+}

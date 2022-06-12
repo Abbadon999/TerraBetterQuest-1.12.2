@@ -39,6 +39,15 @@
 					heat: 0.0f
 				}
 			}
+		},
+		{
+			id: "tfc:ore/small/native_copper",
+			ForgeCaps: {
+				Parent: {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
 		}],
 		consume_items: false,
 		ignore_nbt: 1b

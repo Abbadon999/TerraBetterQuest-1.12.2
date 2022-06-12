@@ -1,0 +1,36 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = downloadfile
+  vr:showif:modloaded = false
+  backgroundhovered = resources\mainmenu\textures\btn_OPTI_1.png
+  description = %local:tbq.main.menu.optif.hover%
+  label = %local:tbq.main.menu.optif%
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = -25
+  width = 150
+  actionid = 5722940a-875e-48f5-b4d6-7e70721e853b1655026949018
+  action = addbutton
+  y = 20
+  vr:value:modloaded = optifine
+  backgroundnormal = resources\mainmenu\textures\btn_OPTI_2.png
+  value = https://github.com/Abbadon999/TerraBetterQuest-1.12.2/raw/TBQ-Heavy-0.3.0/TBQ-Heavy/mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar;mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar
+  height = 20
+}
+

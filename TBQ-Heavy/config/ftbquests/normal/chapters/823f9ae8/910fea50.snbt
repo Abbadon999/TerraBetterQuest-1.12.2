@@ -1,0 +1,16 @@
+{
+	x: 17.5d,
+	y: 10.5d,
+	shape: "hexagon",
+	dependencies: [
+		"4aa2688a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ca837ea4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:honeycombitem"
+		}]
+	}]
+}

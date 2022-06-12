@@ -3,6 +3,13 @@
 	x: -24.5d,
 	y: -6.0d,
 	shape: "diamond",
+	hide_dependency_lines: true,
+	dependencies: [
+		"e71e26cc",
+		"dfd56851",
+		"18b29807",
+		"f16e0649"
+	],
 	hide: true,
 	size: 1.6d,
 	tasks: [{

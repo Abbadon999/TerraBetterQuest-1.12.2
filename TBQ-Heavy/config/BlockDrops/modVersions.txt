@@ -65,6 +65,7 @@
   "xaerominimap": "22.9.2",
   "gravestone": "1.10.3",
   "customloadingscreen": "1.12.2-1.5.7",
+  "betterplacement": "1.0.0-1",
   "smooth-scrolling-everywhere": "1.1",
   "performant": "1.12.2-1.5",
   "inventoryhud": "3.4.4",
@@ -83,8 +84,8 @@
   "firmalife": "0.5.1",
   "inworldcrafting": "1.12.2-1.2.0",
   "jetif": "1.5.2",
-  "removeadvancementsbutton": "1.0",
   "particleculling": "v1.3",
+  "tfcompat": "1.3.0",
   "torohealthmod": "1.12.2-11",
   "wailaharvestability": "1.1.12"
 }

@@ -4,3 +4,5 @@ tbq.main.menu.milt = Онлайн
 tbq.main.menu.opti = Настройки
 tbq.main.menu.lang = Язык
 tbq.main.menu.quit = Выйти из игры
+tbq.main.menu.optif = Установить Optifine
+tbq.main.menu.optif.hover = Optifine автоматически установится, но Вам нужно будет перезапустить игру.

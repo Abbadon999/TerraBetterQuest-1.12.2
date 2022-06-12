@@ -731,6 +731,12 @@ tfc:metal/ingot/beryllium_copper
 tfc:metal/ingot/boron
 tfc:metal/ingot/ferroboron
 tfc:metal/ingot/tough_alloy
+tfc:metal/ingot/soulforged_steel
+tfc:metal/ingot/refined_glowstone
+tfc:metal/ingot/refined_obsidian
+tfc:metal/ingot/refined_iron
+tfc:metal/ingot/void_metal
+tfc:metal/ingot/thaumium
 tfc:metal/double_ingot/bismuth
 tfc:metal/double_ingot/bismuth_bronze
 tfc:metal/double_ingot/black_bronze
@@ -782,6 +788,12 @@ tfc:metal/double_ingot/beryllium_copper
 tfc:metal/double_ingot/boron
 tfc:metal/double_ingot/ferroboron
 tfc:metal/double_ingot/tough_alloy
+tfc:metal/double_ingot/soulforged_steel
+tfc:metal/double_ingot/refined_glowstone
+tfc:metal/double_ingot/refined_obsidian
+tfc:metal/double_ingot/refined_iron
+tfc:metal/double_ingot/void_metal
+tfc:metal/double_ingot/thaumium
 tfc:metal/scrap/bismuth
 tfc:metal/scrap/bismuth_bronze
 tfc:metal/scrap/black_bronze
@@ -833,6 +845,12 @@ tfc:metal/scrap/beryllium_copper
 tfc:metal/scrap/boron
 tfc:metal/scrap/ferroboron
 tfc:metal/scrap/tough_alloy
+tfc:metal/scrap/soulforged_steel
+tfc:metal/scrap/refined_glowstone
+tfc:metal/scrap/refined_obsidian
+tfc:metal/scrap/refined_iron
+tfc:metal/scrap/void_metal
+tfc:metal/scrap/thaumium
 tfc:metal/dust/bismuth
 tfc:metal/dust/bismuth_bronze
 tfc:metal/dust/black_bronze
@@ -884,6 +902,12 @@ tfc:metal/dust/beryllium_copper
 tfc:metal/dust/boron
 tfc:metal/dust/ferroboron
 tfc:metal/dust/tough_alloy
+tfc:metal/dust/soulforged_steel
+tfc:metal/dust/refined_glowstone
+tfc:metal/dust/refined_obsidian
+tfc:metal/dust/refined_iron
+tfc:metal/dust/void_metal
+tfc:metal/dust/thaumium
 tfc:metal/nugget/bismuth
 tfc:metal/nugget/bismuth_bronze
 tfc:metal/nugget/black_bronze
@@ -935,6 +959,12 @@ tfc:metal/nugget/beryllium_copper
 tfc:metal/nugget/boron
 tfc:metal/nugget/ferroboron
 tfc:metal/nugget/tough_alloy
+tfc:metal/nugget/soulforged_steel
+tfc:metal/nugget/refined_glowstone
+tfc:metal/nugget/refined_obsidian
+tfc:metal/nugget/refined_iron
+tfc:metal/nugget/void_metal
+tfc:metal/nugget/thaumium
 tfc:metal/sheet/bismuth
 tfc:metal/sheet/bismuth_bronze
 tfc:metal/sheet/black_bronze
@@ -986,6 +1016,12 @@ tfc:metal/sheet/beryllium_copper
 tfc:metal/sheet/boron
 tfc:metal/sheet/ferroboron
 tfc:metal/sheet/tough_alloy
+tfc:metal/sheet/soulforged_steel
+tfc:metal/sheet/refined_glowstone
+tfc:metal/sheet/refined_obsidian
+tfc:metal/sheet/refined_iron
+tfc:metal/sheet/void_metal
+tfc:metal/sheet/thaumium
 tfc:metal/double_sheet/bismuth
 tfc:metal/double_sheet/bismuth_bronze
 tfc:metal/double_sheet/black_bronze
@@ -1037,6 +1073,12 @@ tfc:metal/double_sheet/beryllium_copper
 tfc:metal/double_sheet/boron
 tfc:metal/double_sheet/ferroboron
 tfc:metal/double_sheet/tough_alloy
+tfc:metal/double_sheet/soulforged_steel
+tfc:metal/double_sheet/refined_glowstone
+tfc:metal/double_sheet/refined_obsidian
+tfc:metal/double_sheet/refined_iron
+tfc:metal/double_sheet/void_metal
+tfc:metal/double_sheet/thaumium
 tfc:metal/rod/gold
 tfc:metal/rod/wrought_iron
 tfc:metal/rod/steel
@@ -1062,6 +1104,7 @@ tfc:metal/anvil/zircaloy
 tfc:metal/anvil/aluminium
 tfc:metal/anvil/beryllium_copper
 tfc:metal/anvil/boron
+tfc:metal/anvil/thaumium
 tfc:metal/tuyere/bismuth_bronze
 tfc:metal/tuyere/black_bronze
 tfc:metal/tuyere/bronze
@@ -1084,6 +1127,7 @@ tfc:metal/tuyere/zircaloy
 tfc:metal/tuyere/aluminium
 tfc:metal/tuyere/beryllium_copper
 tfc:metal/tuyere/boron
+tfc:metal/tuyere/thaumium
 tfc:metal/lamp/bismuth
 tfc:metal/lamp/bismuth_bronze
 tfc:metal/lamp/black_bronze
@@ -1134,6 +1178,12 @@ tfc:metal/lamp/beryllium_copper
 tfc:metal/lamp/boron
 tfc:metal/lamp/ferroboron
 tfc:metal/lamp/tough_alloy
+tfc:metal/lamp/soulforged_steel
+tfc:metal/lamp/refined_glowstone
+tfc:metal/lamp/refined_obsidian
+tfc:metal/lamp/refined_iron
+tfc:metal/lamp/void_metal
+tfc:metal/lamp/thaumium
 tfc:metal/trapdoor/bismuth
 tfc:metal/trapdoor/bismuth_bronze
 tfc:metal/trapdoor/black_bronze
@@ -1185,6 +1235,12 @@ tfc:metal/trapdoor/beryllium_copper
 tfc:metal/trapdoor/boron
 tfc:metal/trapdoor/ferroboron
 tfc:metal/trapdoor/tough_alloy
+tfc:metal/trapdoor/soulforged_steel
+tfc:metal/trapdoor/refined_glowstone
+tfc:metal/trapdoor/refined_obsidian
+tfc:metal/trapdoor/refined_iron
+tfc:metal/trapdoor/void_metal
+tfc:metal/trapdoor/thaumium
 tfc:metal/pick/bismuth_bronze
 tfc:metal/pick/black_bronze
 tfc:metal/pick/bronze
@@ -1207,6 +1263,7 @@ tfc:metal/pick/zircaloy
 tfc:metal/pick/aluminium
 tfc:metal/pick/beryllium_copper
 tfc:metal/pick/boron
+tfc:metal/pick/thaumium
 tfc:metal/pick_head/bismuth_bronze
 tfc:metal/pick_head/black_bronze
 tfc:metal/pick_head/bronze
@@ -1229,6 +1286,7 @@ tfc:metal/pick_head/zircaloy
 tfc:metal/pick_head/aluminium
 tfc:metal/pick_head/beryllium_copper
 tfc:metal/pick_head/boron
+tfc:metal/pick_head/thaumium
 tfc:metal/shovel/bismuth_bronze
 tfc:metal/shovel/black_bronze
 tfc:metal/shovel/bronze
@@ -1251,6 +1309,7 @@ tfc:metal/shovel/zircaloy
 tfc:metal/shovel/aluminium
 tfc:metal/shovel/beryllium_copper
 tfc:metal/shovel/boron
+tfc:metal/shovel/thaumium
 tfc:metal/shovel_head/bismuth_bronze
 tfc:metal/shovel_head/black_bronze
 tfc:metal/shovel_head/bronze
@@ -1273,6 +1332,7 @@ tfc:metal/shovel_head/zircaloy
 tfc:metal/shovel_head/aluminium
 tfc:metal/shovel_head/beryllium_copper
 tfc:metal/shovel_head/boron
+tfc:metal/shovel_head/thaumium
 tfc:metal/axe/bismuth_bronze
 tfc:metal/axe/black_bronze
 tfc:metal/axe/bronze
@@ -1295,6 +1355,7 @@ tfc:metal/axe/zircaloy
 tfc:metal/axe/aluminium
 tfc:metal/axe/beryllium_copper
 tfc:metal/axe/boron
+tfc:metal/axe/thaumium
 tfc:metal/axe_head/bismuth_bronze
 tfc:metal/axe_head/black_bronze
 tfc:metal/axe_head/bronze
@@ -1317,6 +1378,7 @@ tfc:metal/axe_head/zircaloy
 tfc:metal/axe_head/aluminium
 tfc:metal/axe_head/beryllium_copper
 tfc:metal/axe_head/boron
+tfc:metal/axe_head/thaumium
 tfc:metal/hoe/bismuth_bronze
 tfc:metal/hoe/black_bronze
 tfc:metal/hoe/bronze
@@ -1339,6 +1401,7 @@ tfc:metal/hoe/zircaloy
 tfc:metal/hoe/aluminium
 tfc:metal/hoe/beryllium_copper
 tfc:metal/hoe/boron
+tfc:metal/hoe/thaumium
 tfc:metal/hoe_head/bismuth_bronze
 tfc:metal/hoe_head/black_bronze
 tfc:metal/hoe_head/bronze
@@ -1361,6 +1424,7 @@ tfc:metal/hoe_head/zircaloy
 tfc:metal/hoe_head/aluminium
 tfc:metal/hoe_head/beryllium_copper
 tfc:metal/hoe_head/boron
+tfc:metal/hoe_head/thaumium
 tfc:metal/chisel/bismuth_bronze
 tfc:metal/chisel/black_bronze
 tfc:metal/chisel/bronze
@@ -1383,6 +1447,7 @@ tfc:metal/chisel/zircaloy
 tfc:metal/chisel/aluminium
 tfc:metal/chisel/beryllium_copper
 tfc:metal/chisel/boron
+tfc:metal/chisel/thaumium
 tfc:metal/chisel_head/bismuth_bronze
 tfc:metal/chisel_head/black_bronze
 tfc:metal/chisel_head/bronze
@@ -1405,6 +1470,7 @@ tfc:metal/chisel_head/zircaloy
 tfc:metal/chisel_head/aluminium
 tfc:metal/chisel_head/beryllium_copper
 tfc:metal/chisel_head/boron
+tfc:metal/chisel_head/thaumium
 tfc:metal/sword/bismuth_bronze
 tfc:metal/sword/black_bronze
 tfc:metal/sword/bronze
@@ -1427,6 +1493,7 @@ tfc:metal/sword/zircaloy
 tfc:metal/sword/aluminium
 tfc:metal/sword/beryllium_copper
 tfc:metal/sword/boron
+tfc:metal/sword/thaumium
 tfc:metal/sword_blade/bismuth_bronze
 tfc:metal/sword_blade/black_bronze
 tfc:metal/sword_blade/bronze
@@ -1449,6 +1516,7 @@ tfc:metal/sword_blade/zircaloy
 tfc:metal/sword_blade/aluminium
 tfc:metal/sword_blade/beryllium_copper
 tfc:metal/sword_blade/boron
+tfc:metal/sword_blade/thaumium
 tfc:metal/mace/bismuth_bronze
 tfc:metal/mace/black_bronze
 tfc:metal/mace/bronze
@@ -1471,6 +1539,7 @@ tfc:metal/mace/zircaloy
 tfc:metal/mace/aluminium
 tfc:metal/mace/beryllium_copper
 tfc:metal/mace/boron
+tfc:metal/mace/thaumium
 tfc:metal/mace_head/bismuth_bronze
 tfc:metal/mace_head/black_bronze
 tfc:metal/mace_head/bronze
@@ -1493,6 +1562,7 @@ tfc:metal/mace_head/zircaloy
 tfc:metal/mace_head/aluminium
 tfc:metal/mace_head/beryllium_copper
 tfc:metal/mace_head/boron
+tfc:metal/mace_head/thaumium
 tfc:metal/saw/bismuth_bronze
 tfc:metal/saw/black_bronze
 tfc:metal/saw/bronze
@@ -1515,6 +1585,7 @@ tfc:metal/saw/zircaloy
 tfc:metal/saw/aluminium
 tfc:metal/saw/beryllium_copper
 tfc:metal/saw/boron
+tfc:metal/saw/thaumium
 tfc:metal/saw_blade/bismuth_bronze
 tfc:metal/saw_blade/black_bronze
 tfc:metal/saw_blade/bronze
@@ -1537,6 +1608,7 @@ tfc:metal/saw_blade/zircaloy
 tfc:metal/saw_blade/aluminium
 tfc:metal/saw_blade/beryllium_copper
 tfc:metal/saw_blade/boron
+tfc:metal/saw_blade/thaumium
 tfc:metal/javelin/bismuth_bronze
 tfc:metal/javelin/black_bronze
 tfc:metal/javelin/bronze
@@ -1559,6 +1631,7 @@ tfc:metal/javelin/zircaloy
 tfc:metal/javelin/aluminium
 tfc:metal/javelin/beryllium_copper
 tfc:metal/javelin/boron
+tfc:metal/javelin/thaumium
 tfc:metal/javelin_head/bismuth_bronze
 tfc:metal/javelin_head/black_bronze
 tfc:metal/javelin_head/bronze
@@ -1581,6 +1654,7 @@ tfc:metal/javelin_head/zircaloy
 tfc:metal/javelin_head/aluminium
 tfc:metal/javelin_head/beryllium_copper
 tfc:metal/javelin_head/boron
+tfc:metal/javelin_head/thaumium
 tfc:metal/hammer/bismuth_bronze
 tfc:metal/hammer/black_bronze
 tfc:metal/hammer/bronze
@@ -1603,6 +1677,7 @@ tfc:metal/hammer/zircaloy
 tfc:metal/hammer/aluminium
 tfc:metal/hammer/beryllium_copper
 tfc:metal/hammer/boron
+tfc:metal/hammer/thaumium
 tfc:metal/hammer_head/bismuth_bronze
 tfc:metal/hammer_head/black_bronze
 tfc:metal/hammer_head/bronze
@@ -1625,6 +1700,7 @@ tfc:metal/hammer_head/zircaloy
 tfc:metal/hammer_head/aluminium
 tfc:metal/hammer_head/beryllium_copper
 tfc:metal/hammer_head/boron
+tfc:metal/hammer_head/thaumium
 tfc:metal/propick/bismuth_bronze
 tfc:metal/propick/black_bronze
 tfc:metal/propick/bronze
@@ -1647,6 +1723,7 @@ tfc:metal/propick/zircaloy
 tfc:metal/propick/aluminium
 tfc:metal/propick/beryllium_copper
 tfc:metal/propick/boron
+tfc:metal/propick/thaumium
 tfc:metal/propick_head/bismuth_bronze
 tfc:metal/propick_head/black_bronze
 tfc:metal/propick_head/bronze
@@ -1669,6 +1746,7 @@ tfc:metal/propick_head/zircaloy
 tfc:metal/propick_head/aluminium
 tfc:metal/propick_head/beryllium_copper
 tfc:metal/propick_head/boron
+tfc:metal/propick_head/thaumium
 tfc:metal/knife/bismuth_bronze
 tfc:metal/knife/black_bronze
 tfc:metal/knife/bronze
@@ -1691,6 +1769,7 @@ tfc:metal/knife/zircaloy
 tfc:metal/knife/aluminium
 tfc:metal/knife/beryllium_copper
 tfc:metal/knife/boron
+tfc:metal/knife/thaumium
 tfc:metal/knife_blade/bismuth_bronze
 tfc:metal/knife_blade/black_bronze
 tfc:metal/knife_blade/bronze
@@ -1713,6 +1792,7 @@ tfc:metal/knife_blade/zircaloy
 tfc:metal/knife_blade/aluminium
 tfc:metal/knife_blade/beryllium_copper
 tfc:metal/knife_blade/boron
+tfc:metal/knife_blade/thaumium
 tfc:metal/scythe/bismuth_bronze
 tfc:metal/scythe/black_bronze
 tfc:metal/scythe/bronze
@@ -1735,6 +1815,7 @@ tfc:metal/scythe/zircaloy
 tfc:metal/scythe/aluminium
 tfc:metal/scythe/beryllium_copper
 tfc:metal/scythe/boron
+tfc:metal/scythe/thaumium
 tfc:metal/scythe_blade/bismuth_bronze
 tfc:metal/scythe_blade/black_bronze
 tfc:metal/scythe_blade/bronze
@@ -1757,6 +1838,7 @@ tfc:metal/scythe_blade/zircaloy
 tfc:metal/scythe_blade/aluminium
 tfc:metal/scythe_blade/beryllium_copper
 tfc:metal/scythe_blade/boron
+tfc:metal/scythe_blade/thaumium
 tfc:metal/shears/bismuth_bronze
 tfc:metal/shears/black_bronze
 tfc:metal/shears/bronze
@@ -1779,6 +1861,7 @@ tfc:metal/shears/zircaloy
 tfc:metal/shears/aluminium
 tfc:metal/shears/beryllium_copper
 tfc:metal/shears/boron
+tfc:metal/shears/thaumium
 tfc:metal/unfinished_helmet/bismuth_bronze
 tfc:metal/unfinished_helmet/black_bronze
 tfc:metal/unfinished_helmet/bronze
@@ -1801,6 +1884,7 @@ tfc:metal/unfinished_helmet/zircaloy
 tfc:metal/unfinished_helmet/aluminium
 tfc:metal/unfinished_helmet/beryllium_copper
 tfc:metal/unfinished_helmet/boron
+tfc:metal/unfinished_helmet/thaumium
 tfc:metal/helmet/bismuth_bronze
 tfc:metal/helmet/black_bronze
 tfc:metal/helmet/bronze
@@ -1823,6 +1907,7 @@ tfc:metal/helmet/zircaloy
 tfc:metal/helmet/aluminium
 tfc:metal/helmet/beryllium_copper
 tfc:metal/helmet/boron
+tfc:metal/helmet/thaumium
 tfc:metal/unfinished_chestplate/bismuth_bronze
 tfc:metal/unfinished_chestplate/black_bronze
 tfc:metal/unfinished_chestplate/bronze
@@ -1845,6 +1930,7 @@ tfc:metal/unfinished_chestplate/zircaloy
 tfc:metal/unfinished_chestplate/aluminium
 tfc:metal/unfinished_chestplate/beryllium_copper
 tfc:metal/unfinished_chestplate/boron
+tfc:metal/unfinished_chestplate/thaumium
 tfc:metal/chestplate/bismuth_bronze
 tfc:metal/chestplate/black_bronze
 tfc:metal/chestplate/bronze
@@ -1867,6 +1953,7 @@ tfc:metal/chestplate/zircaloy
 tfc:metal/chestplate/aluminium
 tfc:metal/chestplate/beryllium_copper
 tfc:metal/chestplate/boron
+tfc:metal/chestplate/thaumium
 tfc:metal/unfinished_greaves/bismuth_bronze
 tfc:metal/unfinished_greaves/black_bronze
 tfc:metal/unfinished_greaves/bronze
@@ -1889,6 +1976,7 @@ tfc:metal/unfinished_greaves/zircaloy
 tfc:metal/unfinished_greaves/aluminium
 tfc:metal/unfinished_greaves/beryllium_copper
 tfc:metal/unfinished_greaves/boron
+tfc:metal/unfinished_greaves/thaumium
 tfc:metal/greaves/bismuth_bronze
 tfc:metal/greaves/black_bronze
 tfc:metal/greaves/bronze
@@ -1911,6 +1999,7 @@ tfc:metal/greaves/zircaloy
 tfc:metal/greaves/aluminium
 tfc:metal/greaves/beryllium_copper
 tfc:metal/greaves/boron
+tfc:metal/greaves/thaumium
 tfc:metal/unfinished_boots/bismuth_bronze
 tfc:metal/unfinished_boots/black_bronze
 tfc:metal/unfinished_boots/bronze
@@ -1933,6 +2022,7 @@ tfc:metal/unfinished_boots/zircaloy
 tfc:metal/unfinished_boots/aluminium
 tfc:metal/unfinished_boots/beryllium_copper
 tfc:metal/unfinished_boots/boron
+tfc:metal/unfinished_boots/thaumium
 tfc:metal/boots/bismuth_bronze
 tfc:metal/boots/black_bronze
 tfc:metal/boots/bronze
@@ -1955,6 +2045,7 @@ tfc:metal/boots/zircaloy
 tfc:metal/boots/aluminium
 tfc:metal/boots/beryllium_copper
 tfc:metal/boots/boron
+tfc:metal/boots/thaumium
 tfc:metal/shield/bismuth_bronze
 tfc:metal/shield/black_bronze
 tfc:metal/shield/bronze
@@ -1977,6 +2068,7 @@ tfc:metal/shield/zircaloy
 tfc:metal/shield/aluminium
 tfc:metal/shield/beryllium_copper
 tfc:metal/shield/boron
+tfc:metal/shield/thaumium
 tfc:debug
 tfc:aggregate
 tfc:fire_clay_block
@@ -7041,6 +7133,8 @@ firmalife:beryllium_copper_mallet
 firmalife:beryllium_copper_mallet_head
 firmalife:boron_mallet
 firmalife:boron_mallet_head
+firmalife:thaumium_mallet
+firmalife:thaumium_mallet_head
 firmalife:cracked_coconut
 firmalife:cheesecloth
 firmalife:oven
@@ -7158,13 +7252,13 @@ ftbquests:lootcrate
 ftbquests:custom_icon
 gravestone:gravestone
 gravestone:death_info
-horsepower:flour
-horsepower:dough
 horsepower:hand_grindstone
 horsepower:grindstone
 horsepower:chopping_block
 horsepower:chopper
 horsepower:press
+horsepower:flour
+horsepower:dough
 tfc_ph_compat:crop/seeds/broccoli
 tfc_ph_compat:crop/seeds/celery
 tfc_ph_compat:crop/seeds/chili_pepper
@@ -10111,8 +10205,8 @@ tfcflorae:wood/loom/tinwa_bamboo
 tfcflorae:wood/loom/weavers_bamboo
 tfcflorae:wood/fruit_tree/loom/cocoa
 tfcflorae:wood/fruit_tree/loom/cinnamon
-tfcmedicinal:vial_heater
 tfcmedicinal:mpestle
+tfcmedicinal:vial_heater
 tfcmedicinal:medicine_vial
 tfcmedicinal:catalyst
 tfcmedicinal:concentrate/herbal

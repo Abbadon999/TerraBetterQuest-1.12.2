@@ -43,7 +43,7 @@ defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
 arrowScale:1.0000000149011612
 arrowColour:-1
-smoothDots:true
+smoothDots:false
 worldMap:true
 terrainDepth:true
 terrainSlopes:2
@@ -86,7 +86,7 @@ compassColor:8
 northCompassColor:-1
 showDimensionName:false
 displayMultipleWaypointInfo:1
-entityRadar:false
+entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
 autoConvertWaypointDistanceToKmThreshold:10000
 waypointDistancePrecision:0

@@ -4,3 +4,5 @@ tbq.main.menu.milt = Multiplayer
 tbq.main.menu.opti = Options
 tbq.main.menu.lang = Language
 tbq.main.menu.quit = Quit Game
+tbq.main.menu.optif = Install Optifine
+tbq.main.menu.optif.hover = Optifine will automatically install, but you will need to restart the game.
