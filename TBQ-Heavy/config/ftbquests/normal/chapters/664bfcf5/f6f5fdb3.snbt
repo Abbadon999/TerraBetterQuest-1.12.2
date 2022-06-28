@@ -1,0 +1,17 @@
+{
+	x: 67.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "e5ee990e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:yorkshirepuddingitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1848000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

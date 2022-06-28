@@ -1,0 +1,25 @@
+{
+	x: -25.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "30d65bd0",
+		type: "item",
+		items: [{
+			id: "harvestcraft:stuffedduckitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1884000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

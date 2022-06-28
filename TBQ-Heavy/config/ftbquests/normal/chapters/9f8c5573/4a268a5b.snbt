@@ -1,0 +1,19 @@
+{
+	x: -32.4d,
+	y: -5.1d,
+	shape: "diamond",
+	tasks: [{
+		uid: "37794c36",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pecanitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

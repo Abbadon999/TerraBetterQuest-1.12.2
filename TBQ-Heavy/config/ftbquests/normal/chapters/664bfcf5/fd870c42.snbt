@@ -1,0 +1,17 @@
+{
+	x: -28.0d,
+	y: -20.0d,
+	tasks: [{
+		uid: "41d3c737",
+		type: "item",
+		items: [{
+			id: "harvestcraft:enchiladaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

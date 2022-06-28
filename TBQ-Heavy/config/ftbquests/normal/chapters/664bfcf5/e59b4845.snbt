@@ -1,0 +1,17 @@
+{
+	x: 9.99999999999999d,
+	y: -9.7d,
+	tasks: [{
+		uid: "dae8f71b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chikorollitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -12.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "557d673b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chickencordonbleuitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -51.0d,
+	y: -4.100000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "c2655f17",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chickpeaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

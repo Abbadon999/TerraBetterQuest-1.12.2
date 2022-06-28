@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "c17aa25d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mixedsaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

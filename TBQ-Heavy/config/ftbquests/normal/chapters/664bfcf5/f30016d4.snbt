@@ -1,0 +1,17 @@
+{
+	x: -29.0d,
+	y: -21.0d,
+	tasks: [{
+		uid: "f961c76b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:onionhamburgeritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1824000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 14.799999999999994d,
+	y: -9.7d,
+	tasks: [{
+		uid: "d8bb0d15",
+		type: "item",
+		items: [{
+			id: "harvestcraft:futomakiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

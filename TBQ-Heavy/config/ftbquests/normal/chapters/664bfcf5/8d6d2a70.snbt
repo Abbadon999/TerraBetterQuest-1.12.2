@@ -1,0 +1,17 @@
+{
+	x: -38.7d,
+	y: 4.099999999999995d,
+	tasks: [{
+		uid: "cf61a6c1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:blackberrysmoothieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1782000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

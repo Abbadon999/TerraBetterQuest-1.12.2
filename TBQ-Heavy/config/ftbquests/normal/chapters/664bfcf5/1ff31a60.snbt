@@ -1,0 +1,21 @@
+{
+	x: 47.4d,
+	y: -1.4999999999999982d,
+	tasks: [{
+		uid: "e3dd8de2",
+		type: "item",
+		items: [{
+			id: "tfcflorae:food/roasted/parasol_mushroom",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

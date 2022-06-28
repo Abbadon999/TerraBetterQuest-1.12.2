@@ -1,0 +1,17 @@
+{
+	x: -34.2d,
+	y: 1.099999999999995d,
+	tasks: [{
+		uid: "b8a22adc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cactusfruitjuiceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

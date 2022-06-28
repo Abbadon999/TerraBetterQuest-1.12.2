@@ -1,0 +1,17 @@
+{
+	x: -60.400000000000006d,
+	y: -10.900000000000006d,
+	tasks: [{
+		uid: "68796afa",
+		type: "item",
+		items: [{
+			id: "harvestcraft:neapolitanicecreamitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1830000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

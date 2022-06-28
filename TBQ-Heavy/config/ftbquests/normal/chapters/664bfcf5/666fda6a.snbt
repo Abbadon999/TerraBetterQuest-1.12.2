@@ -1,0 +1,17 @@
+{
+	x: -18.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "547fb45c",
+		type: "item",
+		items: [{
+			id: "tfc:food/cooked_mutton",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1716000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

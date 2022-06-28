@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "6d184cb6",
+		type: "item",
+		items: [{
+			id: "harvestcraft:dhalitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

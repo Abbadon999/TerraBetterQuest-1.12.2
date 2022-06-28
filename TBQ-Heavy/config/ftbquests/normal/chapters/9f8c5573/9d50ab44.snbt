@@ -1,0 +1,19 @@
+{
+	x: 21.0d,
+	y: -22.7d,
+	shape: "diamond",
+	tasks: [{
+		uid: "9c62708d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:tamarinditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

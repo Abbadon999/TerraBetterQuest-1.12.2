@@ -1,0 +1,17 @@
+{
+	x: -36.7d,
+	y: 5.099999999999994d,
+	tasks: [{
+		uid: "f29a441f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:applesmoothieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1842000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

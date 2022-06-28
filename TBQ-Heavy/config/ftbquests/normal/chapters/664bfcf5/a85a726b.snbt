@@ -1,0 +1,17 @@
+{
+	x: 16.8d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "4304bd4f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:tunapotatoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1848000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

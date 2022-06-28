@@ -1,0 +1,17 @@
+{
+	x: 77.80000000000001d,
+	y: -15.9d,
+	tasks: [{
+		uid: "0a51cbf7",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pbandjitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

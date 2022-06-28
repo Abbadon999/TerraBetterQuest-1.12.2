@@ -1,0 +1,17 @@
+{
+	x: -27.5d,
+	y: -22.5d,
+	tasks: [{
+		uid: "dcdf234b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sausageinbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

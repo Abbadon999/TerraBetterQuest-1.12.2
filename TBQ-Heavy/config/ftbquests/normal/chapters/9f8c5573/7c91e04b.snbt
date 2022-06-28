@@ -1,0 +1,18 @@
+{
+	x: -36.900000000000006d,
+	y: -6.0000000000000036d,
+	shape: "square",
+	tasks: [{
+		uid: "1bf8aec0",
+		type: "item",
+		items: [{
+			id: "tfc:plants/woolly_gomphus",
+			ForgeCaps: {
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -24.5d,
+	y: -22.5d,
+	tasks: [{
+		uid: "5b4c0763",
+		type: "item",
+		items: [{
+			id: "harvestcraft:baconandeggsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

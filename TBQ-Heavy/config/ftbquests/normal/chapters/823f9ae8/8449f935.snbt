@@ -1,9 +1,9 @@
 {
-	title: "{tbq.quests.primitive.animalhusbandry.title}",
+	title: "{tbq.quests.primitive.feedgrain.title}",
 	x: 12.5d,
 	y: -8.0d,
 	shape: "square",
-	description: "{tbq.quests.primitive.animalhusbandry.subtitle}",
+	description: "{tbq.quests.primitive.feedgrain.subtitle}",
 	dependencies: [
 		"d2b461b8",
 		"d5960a87"
@@ -12,12 +12,12 @@
 	tasks: [{
 		uid: "462c3431",
 		type: "item",
-		title: "{tbq.quests.primitive.animalhusbandry.attachment}",
+		title: "{tbq.quests.primitive.feedgrain.subtitle.attachment}",
 		items: [{
 			id: "tfc:food/barley_grain",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: 1188000L,
 					traits: []
 				}
 			}
@@ -26,7 +26,7 @@
 			id: "tfc:food/oat_grain",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: 1188000L,
 					traits: []
 				}
 			}
@@ -35,14 +35,14 @@
 			id: "tfc:food/rice_grain",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: 1188000L,
 					traits: []
 				},
 				"tfc:item_heat": {
 					ticks: -1L,
 					heat: 0.0f,
 					food: {
-						creationDate: 1872000L,
+						creationDate: 1188000L,
 						traits: []
 					}
 				}
@@ -52,7 +52,7 @@
 			id: "tfc:food/rye_grain",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: 1188000L,
 					traits: []
 				}
 			}
@@ -61,7 +61,7 @@
 			id: "tfc:food/wheat_grain",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: 1188000L,
 					traits: []
 				}
 			}
@@ -70,7 +70,7 @@
 			id: "tfc:food/barley",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: -9223372036854775808L,
 					traits: []
 				}
 			}
@@ -79,7 +79,7 @@
 			id: "tfc:food/oat",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: -9223372036854775808L,
 					traits: []
 				}
 			}
@@ -88,14 +88,14 @@
 			id: "tfc:food/rice",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: -9223372036854775808L,
 					traits: []
 				},
 				"tfc:item_heat": {
 					ticks: -1L,
 					heat: 0.0f,
 					food: {
-						creationDate: 1872000L,
+						creationDate: -9223372036854775808L,
 						traits: []
 					}
 				}
@@ -105,7 +105,7 @@
 			id: "harvestcraft:ryeitem",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: 1188000L,
 					traits: []
 				}
 			}
@@ -114,7 +114,7 @@
 			id: "tfc:food/wheat",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 1872000L,
+					creationDate: -9223372036854775808L,
 					traits: []
 				}
 			}

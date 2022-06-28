@@ -1,0 +1,17 @@
+{
+	x: 23.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "42faedeb",
+		type: "item",
+		items: [{
+			id: "harvestcraft:zestyzucchiniitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

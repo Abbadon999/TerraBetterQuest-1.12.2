@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "b390b1d1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:ricesoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 21.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b408fd63",
+		type: "item",
+		items: [{
+			id: "harvestcraft:toastedcoconutitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

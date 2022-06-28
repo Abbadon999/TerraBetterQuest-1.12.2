@@ -1,0 +1,17 @@
+{
+	x: -36.2d,
+	y: -2.3d,
+	tasks: [{
+		uid: "e6217278",
+		type: "item",
+		items: [{
+			id: "harvestcraft:rootbeerfloatitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

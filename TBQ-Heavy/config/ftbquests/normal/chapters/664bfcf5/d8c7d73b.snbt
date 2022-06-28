@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "1dcbd2ff",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pumpkinsoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

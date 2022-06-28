@@ -1,0 +1,17 @@
+{
+	x: 25.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "17d87cc7",
+		type: "item",
+		items: [{
+			id: "harvestcraft:asparagusquicheitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

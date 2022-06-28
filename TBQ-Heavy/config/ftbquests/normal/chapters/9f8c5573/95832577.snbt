@@ -1,0 +1,12 @@
+{
+	x: -25.39999999999999d,
+	y: -4.899999999999999d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "ea74716e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:arrowrootseeditem"
+		}]
+	}]
+}

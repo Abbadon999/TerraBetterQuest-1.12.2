@@ -1,0 +1,17 @@
+{
+	x: 6.799999999999999d,
+	y: -9.7d,
+	tasks: [{
+		uid: "c39f1d6f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:snailcookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

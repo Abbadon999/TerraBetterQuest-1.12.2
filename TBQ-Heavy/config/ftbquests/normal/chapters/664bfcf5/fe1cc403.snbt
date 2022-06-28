@@ -1,0 +1,25 @@
+{
+	x: 66.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "83a6c8aa",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pumpkinbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1728000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

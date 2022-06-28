@@ -1,0 +1,17 @@
+{
+	x: -12.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "0a52e34b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pinkelitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1896000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -58.800000000000004d,
+	y: -10.900000000000006d,
+	tasks: [{
+		uid: "d16cbba4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:akutuqitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

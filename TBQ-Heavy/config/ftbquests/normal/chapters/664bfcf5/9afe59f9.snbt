@@ -1,0 +1,17 @@
+{
+	x: 76.4d,
+	y: -15.5d,
+	tasks: [{
+		uid: "29d9b42e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:kiwijellyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -13.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "dd855412",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cauliflowerseeditem"
+		}]
+	}]
+}

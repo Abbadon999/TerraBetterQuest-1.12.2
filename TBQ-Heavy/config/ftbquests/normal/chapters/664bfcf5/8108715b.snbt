@@ -1,0 +1,25 @@
+{
+	x: -16.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "b796b8e3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:lambwithmintsauceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1830000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1830000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

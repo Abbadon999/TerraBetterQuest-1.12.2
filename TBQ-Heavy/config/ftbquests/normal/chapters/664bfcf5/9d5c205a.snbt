@@ -1,0 +1,17 @@
+{
+	x: -11.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "51a699e6",
+		type: "item",
+		items: [{
+			id: "harvestcraft:generaltsochickenitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

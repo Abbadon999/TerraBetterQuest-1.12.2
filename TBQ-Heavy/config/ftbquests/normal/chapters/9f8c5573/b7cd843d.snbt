@@ -1,0 +1,12 @@
+{
+	x: 34.5d,
+	y: -11.5d,
+	shape: "square",
+	tasks: [{
+		uid: "3ace2c1e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:breadfruit_sapling"
+		}]
+	}]
+}

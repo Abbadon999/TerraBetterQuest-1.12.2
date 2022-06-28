@@ -1,0 +1,25 @@
+{
+	x: -70.7d,
+	y: -3.4000000000000057d,
+	tasks: [{
+		uid: "16f88fe2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:shepardspieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1788000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

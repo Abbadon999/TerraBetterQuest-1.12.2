@@ -1,0 +1,17 @@
+{
+	x: 16.4d,
+	y: -10.5d,
+	tasks: [{
+		uid: "79863b4c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gravlaxitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

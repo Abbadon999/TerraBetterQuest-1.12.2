@@ -1,0 +1,17 @@
+{
+	x: -71.1d,
+	y: -3.0d,
+	tasks: [{
+		uid: "76101556",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pecanpieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

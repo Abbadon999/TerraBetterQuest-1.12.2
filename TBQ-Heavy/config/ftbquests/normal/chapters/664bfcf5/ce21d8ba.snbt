@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "da5e5d10",
+		type: "item",
+		items: [{
+			id: "harvestcraft:wontonsoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

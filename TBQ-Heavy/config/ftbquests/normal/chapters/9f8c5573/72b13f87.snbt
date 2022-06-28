@@ -1,0 +1,12 @@
+{
+	x: 36.0d,
+	y: -14.0d,
+	shape: "square",
+	tasks: [{
+		uid: "dfae241f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:jackfruit_sapling"
+		}]
+	}]
+}

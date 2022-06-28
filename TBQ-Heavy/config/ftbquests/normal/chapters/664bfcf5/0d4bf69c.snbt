@@ -1,0 +1,17 @@
+{
+	x: 27.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "f80dbbe5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:ovenroastedcaulifloweritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

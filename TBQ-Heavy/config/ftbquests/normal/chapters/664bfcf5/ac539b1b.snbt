@@ -1,0 +1,17 @@
+{
+	x: 53.7d,
+	y: -13.399999999999999d,
+	tasks: [{
+		uid: "e0d585b0",
+		type: "item",
+		items: [{
+			id: "harvestcraft:peachesandcreamoatmealitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

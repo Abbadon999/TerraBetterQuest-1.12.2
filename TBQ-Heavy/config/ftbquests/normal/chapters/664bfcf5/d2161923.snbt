@@ -1,0 +1,17 @@
+{
+	x: 74.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "5c68de16",
+		type: "item",
+		items: [{
+			id: "harvestcraft:honeybreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

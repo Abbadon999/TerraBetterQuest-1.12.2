@@ -4,9 +4,11 @@
 	shape: "diamond",
 	description: "{tbq.quests.primitive.HorsePress.subtitle}",
 	dependencies: [
-		"ffb7544a"
+		"0d5e13fe",
+		"da0ae894"
 	],
 	hide: true,
+	dependency_requirement: "one_completed",
 	size: 0.8d,
 	tasks: [{
 		uid: "c77f6349",

@@ -1,0 +1,17 @@
+{
+	x: -39.2d,
+	y: 1.099999999999995d,
+	tasks: [{
+		uid: "ceee896d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mangojuiceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 71.0d,
+	y: 2.7d,
+	tasks: [{
+		uid: "0524f34a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:butteredpotatoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

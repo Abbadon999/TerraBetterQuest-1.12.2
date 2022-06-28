@@ -1,0 +1,17 @@
+{
+	x: 75.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "59c28993",
+		type: "item",
+		items: [{
+			id: "harvestcraft:fruitcreamfestivalbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

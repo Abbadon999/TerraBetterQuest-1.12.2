@@ -1,0 +1,17 @@
+{
+	x: -16.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "a81b05b4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bakedhamitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

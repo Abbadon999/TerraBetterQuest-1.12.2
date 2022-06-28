@@ -1,0 +1,17 @@
+{
+	x: 26.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "119ac088",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cornonthecobitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

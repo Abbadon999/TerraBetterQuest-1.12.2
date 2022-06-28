@@ -1,0 +1,25 @@
+{
+	x: -21.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "e652dbae",
+		type: "item",
+		items: [{
+			id: "harvestcraft:duckcookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1878000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

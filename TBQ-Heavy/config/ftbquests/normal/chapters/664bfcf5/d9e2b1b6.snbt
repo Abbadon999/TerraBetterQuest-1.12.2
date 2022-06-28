@@ -1,0 +1,17 @@
+{
+	x: 30.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "6b2118de",
+		type: "item",
+		items: [{
+			id: "harvestcraft:ricepuddingitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1962000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

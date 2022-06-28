@@ -194,6 +194,74 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  hidden = true
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = b44ec26f-5db1-419d-9e26-9bfd4cb3dc9f1656392422436
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 191
+  action = deep_customization_element:title_screen_branding
+  actionid = 57137433-23e0-4a9b-a4fc-48af570f78251656392422436
+  y = 447
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = c2defcce-eeee-4d64-8a8e-4856537762de1656392422436
+  y = 489
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = b584e4e9-3f4a-41da-b837-649ba001ac4b1656392422436
+  y = 227
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = eafbf9e7-23af-4e85-9b8f-0d61c67347db1656392422436
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = d5d79948-9d21-4167-8e7e-20af2c21d0031656392422436
+  y = 0
+  height = 30
+}
+
+customization {
   orientation = bottom-right
   shadow = false
   x = -68
@@ -244,7 +312,7 @@ customization {
   y = -44
   scale = 1.0
   alignment = left
-  value = Modpack Version: §cH0.3.0
+  value = Modpack Version: §cH0.4.0
 }
 
 customization {

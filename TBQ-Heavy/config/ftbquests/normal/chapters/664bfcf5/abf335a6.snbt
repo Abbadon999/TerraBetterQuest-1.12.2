@@ -1,0 +1,17 @@
+{
+	x: -67.2d,
+	y: -8.200000000000003d,
+	tasks: [{
+		uid: "2bebe0b3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:biscuitsandgravyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -22.0d,
+	y: -20.0d,
+	tasks: [{
+		uid: "940c892d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:slawdogitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

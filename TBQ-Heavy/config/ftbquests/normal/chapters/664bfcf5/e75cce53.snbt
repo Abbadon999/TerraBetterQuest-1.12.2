@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "d1328f27",
+		type: "item",
+		items: [{
+			id: "harvestcraft:ceasarsaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

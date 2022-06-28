@@ -1,0 +1,17 @@
+{
+	x: 12.000000000000007d,
+	y: -10.1d,
+	tasks: [{
+		uid: "9cda52de",
+		type: "item",
+		items: [{
+			id: "harvestcraft:crabkimbapitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

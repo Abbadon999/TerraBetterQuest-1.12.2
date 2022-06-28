@@ -1,0 +1,17 @@
+{
+	x: 21.200000000000003d,
+	y: -9.7d,
+	tasks: [{
+		uid: "737cda9a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sushiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

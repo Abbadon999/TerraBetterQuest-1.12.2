@@ -1,6 +1,6 @@
 {
 	title: "{tbq.quests.primitive.povodok.title}",
-	x: 5.0d,
+	x: 6.0d,
 	y: 4.0d,
 	shape: "octagon",
 	description: "{tbq.quests.primitive.povodok.subtitle}",

@@ -1,0 +1,19 @@
+{
+	x: 19.5d,
+	y: -10.7d,
+	shape: "diamond",
+	tasks: [{
+		uid: "a2658f47",
+		type: "item",
+		items: [{
+			id: "harvestcraft:durianitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

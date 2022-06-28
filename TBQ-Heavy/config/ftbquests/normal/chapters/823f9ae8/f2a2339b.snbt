@@ -1,7 +1,7 @@
 {
 	icon: "minecraft:paper",
-	x: 10.5d,
-	y: 8.6d,
+	x: 18.5d,
+	y: 5.5d,
 	shape: "diamond",
 	description: "{tbq.quests.primitive.paper.subtitle}",
 	dependencies: [

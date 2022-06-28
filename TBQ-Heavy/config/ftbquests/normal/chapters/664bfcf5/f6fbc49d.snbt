@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: -23.0d,
+	tasks: [{
+		uid: "28e749f1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:anchovypepperonipizzaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

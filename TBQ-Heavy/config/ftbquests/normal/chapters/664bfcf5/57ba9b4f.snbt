@@ -1,0 +1,17 @@
+{
+	x: -26.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "7006eb1b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sweetandsourmeatballsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

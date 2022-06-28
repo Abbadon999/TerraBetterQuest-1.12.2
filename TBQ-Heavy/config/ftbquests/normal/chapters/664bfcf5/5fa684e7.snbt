@@ -1,0 +1,17 @@
+{
+	x: -28.0d,
+	y: -22.0d,
+	tasks: [{
+		uid: "0e1951e2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sausagerollitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

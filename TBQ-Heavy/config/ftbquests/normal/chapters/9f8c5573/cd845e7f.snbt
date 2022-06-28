@@ -1,0 +1,19 @@
+{
+	x: -24.5d,
+	y: -7.9d,
+	shape: "diamond",
+	tasks: [{
+		uid: "cccc2445",
+		type: "item",
+		items: [{
+			id: "harvestcraft:milletitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -60.3d,
+	y: -3.0d,
+	tasks: [{
+		uid: "1534b9be",
+		type: "item",
+		items: [{
+			id: "harvestcraft:lemondrizzlecakeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

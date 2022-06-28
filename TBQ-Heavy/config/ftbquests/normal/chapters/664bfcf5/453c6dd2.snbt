@@ -1,0 +1,17 @@
+{
+	x: -18.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "ac822700",
+		type: "item",
+		items: [{
+			id: "tfc:food/cooked_rabbit",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1716000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

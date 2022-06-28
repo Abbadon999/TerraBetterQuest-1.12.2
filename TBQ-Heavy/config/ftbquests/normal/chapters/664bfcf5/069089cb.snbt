@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "17ac0d26",
+		type: "item",
+		items: [{
+			id: "harvestcraft:vindalooitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1842000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

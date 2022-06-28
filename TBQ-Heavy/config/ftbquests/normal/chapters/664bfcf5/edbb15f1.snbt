@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "7e42cdf7",
+		type: "item",
+		items: [{
+			id: "harvestcraft:creamedbroccolisoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

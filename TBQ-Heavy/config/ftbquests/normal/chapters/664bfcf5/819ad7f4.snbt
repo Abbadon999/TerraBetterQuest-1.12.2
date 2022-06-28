@@ -1,0 +1,17 @@
+{
+	x: -29.0d,
+	y: -22.0d,
+	tasks: [{
+		uid: "4dd24dd2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:steakandchipsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1830000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

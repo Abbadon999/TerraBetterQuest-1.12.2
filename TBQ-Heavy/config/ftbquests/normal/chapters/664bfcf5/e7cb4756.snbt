@@ -1,0 +1,17 @@
+{
+	x: -64.5d,
+	y: -7.299999999999997d,
+	tasks: [{
+		uid: "f4acabf4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:berrymeringuenestitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 28.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b8a6b4e8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:kalechipsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1896000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

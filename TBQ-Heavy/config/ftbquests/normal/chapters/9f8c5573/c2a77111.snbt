@@ -1,0 +1,12 @@
+{
+	x: -33.300000000000004d,
+	y: -5.9d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "c01a25ca",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pistachio_sapling"
+		}]
+	}]
+}

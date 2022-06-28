@@ -1,0 +1,17 @@
+{
+	x: -30.5d,
+	y: -20.5d,
+	tasks: [{
+		uid: "9b617bbe",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bratwurstitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

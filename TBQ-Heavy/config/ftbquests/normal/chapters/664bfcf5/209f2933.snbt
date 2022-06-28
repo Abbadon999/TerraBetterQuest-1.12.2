@@ -1,0 +1,17 @@
+{
+	x: -71.6d,
+	y: -6.5d,
+	tasks: [{
+		uid: "ff47c5e4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:taiyakiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1962000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

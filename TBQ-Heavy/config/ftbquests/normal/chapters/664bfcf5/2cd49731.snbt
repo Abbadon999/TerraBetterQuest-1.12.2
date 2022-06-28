@@ -1,0 +1,17 @@
+{
+	x: 19.60000000000001d,
+	y: -9.7d,
+	tasks: [{
+		uid: "1b62641a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:crayfishcookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

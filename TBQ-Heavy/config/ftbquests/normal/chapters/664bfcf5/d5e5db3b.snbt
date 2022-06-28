@@ -1,0 +1,17 @@
+{
+	x: -22.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "4ac0ad6f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bolognaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

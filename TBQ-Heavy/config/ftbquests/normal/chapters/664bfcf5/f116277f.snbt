@@ -1,0 +1,17 @@
+{
+	x: -71.9d,
+	y: -7.299999999999997d,
+	tasks: [{
+		uid: "162c1bab",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pancakesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

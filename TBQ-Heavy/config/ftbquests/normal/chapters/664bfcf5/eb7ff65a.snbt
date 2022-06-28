@@ -1,0 +1,17 @@
+{
+	x: -27.5d,
+	y: -21.5d,
+	tasks: [{
+		uid: "b1692ee8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:weekendpicnicitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

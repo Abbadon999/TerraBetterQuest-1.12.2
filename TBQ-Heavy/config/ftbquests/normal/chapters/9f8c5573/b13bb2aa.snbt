@@ -1,0 +1,12 @@
+{
+	x: -51.0d,
+	y: -4.900000000000002d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "a5b68f1a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chickpeaseeditem"
+		}]
+	}]
+}

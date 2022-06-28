@@ -1,0 +1,17 @@
+{
+	x: 68.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "9ed91de0",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chipsandsalsaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

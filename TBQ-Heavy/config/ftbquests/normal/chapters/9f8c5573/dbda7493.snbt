@@ -1,0 +1,19 @@
+{
+	x: 40.0d,
+	y: -6.5d,
+	shape: "diamond",
+	tasks: [{
+		uid: "86b23e20",
+		type: "item",
+		items: [{
+			id: "harvestcraft:figitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

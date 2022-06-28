@@ -1,0 +1,17 @@
+{
+	x: -68.3d,
+	y: -3.3999999999999986d,
+	tasks: [{
+		uid: "110f3cbb",
+		type: "item",
+		items: [{
+			id: "harvestcraft:potatoandcheesepirogiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

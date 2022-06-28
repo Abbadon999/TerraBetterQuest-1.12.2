@@ -1,0 +1,17 @@
+{
+	x: 69.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "c1251010",
+		type: "item",
+		items: [{
+			id: "harvestcraft:walnutraisinbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

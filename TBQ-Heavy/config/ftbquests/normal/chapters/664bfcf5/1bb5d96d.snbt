@@ -1,0 +1,17 @@
+{
+	x: -29.5d,
+	y: -20.5d,
+	tasks: [{
+		uid: "8917307e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bbqpulledporkitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1830000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -25.4d,
+	y: -6.899999999999999d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "fcf837c3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:juteseeditem"
+		}]
+	}]
+}

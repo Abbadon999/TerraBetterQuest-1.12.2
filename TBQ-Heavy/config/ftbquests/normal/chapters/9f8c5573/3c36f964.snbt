@@ -1,0 +1,20 @@
+{
+	x: 6.5d,
+	y: -3.8999999999999986d,
+	shape: "diamond",
+	size: 1.1d,
+	tasks: [{
+		uid: "c525e1a1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bellpepperitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 16.5d,
+	y: -13.2d,
+	shape: "diamond",
+	tasks: [{
+		uid: "ab53eb88",
+		type: "item",
+		items: [{
+			id: "harvestcraft:soursopitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

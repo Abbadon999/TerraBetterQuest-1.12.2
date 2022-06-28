@@ -1,0 +1,123 @@
+{
+	title: "{tbq.quests.primitive.animalhusbandry.title}",
+	x: 5.0d,
+	y: 4.0d,
+	shape: "octagon",
+	description: "{tbq.quests.primitive.animalhusbandry.subtitle}",
+	dependencies: [
+		"ffb7544a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "83f8255a",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment1}",
+		match_type: "entity_id",
+		match: "tfc:chickentfc"
+	},
+	{
+		uid: "b7e54ff5",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment2}",
+		match_type: "entity_id",
+		match: "tfc:ducktfc"
+	},
+	{
+		uid: "dc77a2bf",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment3}",
+		match_type: "entity_id",
+		match: "tfc:pigtfc"
+	},
+	{
+		uid: "3939012f",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment4}",
+		match_type: "entity_id",
+		match: "tfc:grousetfc"
+	},
+	{
+		uid: "87eb1901",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment5}",
+		match_type: "entity_id",
+		match: "tfc:quailtfc"
+	},
+	{
+		uid: "86e0afb5",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment6}",
+		match_type: "entity_id",
+		match: "tfc:yaktfc"
+	},
+	{
+		uid: "e38b7961",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment7}",
+		match_type: "entity_id",
+		match: "tfc:muskoxtfc"
+	},
+	{
+		uid: "126ed1d9",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment8}",
+		match_type: "entity_id",
+		match: "tfc:zebutfc"
+	},
+	{
+		uid: "7d36ef71",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment9}",
+		match_type: "entity_id",
+		match: "tfc:donkeytfc"
+	},
+	{
+		uid: "0d5e13fe",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment10}",
+		match_type: "entity_id",
+		match: "tfc:horsetfc"
+	},
+	{
+		uid: "f6ef3262",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment11}",
+		match_type: "entity_id",
+		match: "tfc:llamatfc"
+	},
+	{
+		uid: "d4857474",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment12}",
+		match_type: "entity_id",
+		match: "tfc:cameltfc"
+	},
+	{
+		uid: "19620021",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment13}",
+		match_type: "entity_id",
+		match: "tfc:goattfc"
+	},
+	{
+		uid: "d36a59a1",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment14}",
+		match_type: "entity_id",
+		match: "tfc:cowtfc"
+	},
+	{
+		uid: "681ebf8d",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment15}",
+		match_type: "entity_id",
+		match: "tfc:sheeptfc"
+	},
+	{
+		uid: "6cc52a17",
+		type: "interaction",
+		title: "{tbq.quests.primitive.animalhusbandry.attachment16}",
+		match_type: "entity_id",
+		match: "tfc:alpacatfc"
+	}]
+}

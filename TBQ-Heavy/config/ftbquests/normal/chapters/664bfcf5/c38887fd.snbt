@@ -1,0 +1,17 @@
+{
+	x: 52.49999999999999d,
+	y: -13.799999999999999d,
+	tasks: [{
+		uid: "9316afba",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gooseberrymilkshakeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

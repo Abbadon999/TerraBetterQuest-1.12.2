@@ -1,0 +1,18 @@
+{
+	x: -38.00000000000001d,
+	y: -5.0d,
+	shape: "square",
+	tasks: [{
+		uid: "a0035443",
+		type: "item",
+		items: [{
+			id: "tfc:plants/amanita",
+			ForgeCaps: {
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

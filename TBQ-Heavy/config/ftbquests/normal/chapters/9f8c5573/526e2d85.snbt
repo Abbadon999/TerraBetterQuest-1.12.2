@@ -1,0 +1,19 @@
+{
+	x: 34.7d,
+	y: -14.8d,
+	shape: "diamond",
+	tasks: [{
+		uid: "0957463f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:plumitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

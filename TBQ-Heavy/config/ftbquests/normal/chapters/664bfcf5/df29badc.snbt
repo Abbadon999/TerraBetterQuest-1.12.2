@@ -1,0 +1,25 @@
+{
+	x: 70.0d,
+	y: -13.5d,
+	tasks: [{
+		uid: "f347a4f7",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cinnamonbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1968000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

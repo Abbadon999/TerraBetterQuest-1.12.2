@@ -1,0 +1,17 @@
+{
+	x: 10.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "7833e0ee",
+		type: "item",
+		items: [{
+			id: "harvestcraft:asparagussoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

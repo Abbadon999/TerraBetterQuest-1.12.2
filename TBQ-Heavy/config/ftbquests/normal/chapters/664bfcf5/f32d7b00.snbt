@@ -1,0 +1,17 @@
+{
+	x: -18.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "76852840",
+		type: "item",
+		items: [{
+			id: "harvestcraft:spicymustardporkitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

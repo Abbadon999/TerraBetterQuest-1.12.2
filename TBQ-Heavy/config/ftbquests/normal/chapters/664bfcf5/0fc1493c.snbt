@@ -1,0 +1,11 @@
+{
+	x: -59.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "53458f26",
+		type: "item",
+		items: [{
+			item: "harvestcraft:carrotcake"
+		}]
+	}]
+}

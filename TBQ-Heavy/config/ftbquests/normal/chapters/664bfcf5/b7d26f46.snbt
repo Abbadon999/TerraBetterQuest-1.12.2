@@ -1,0 +1,17 @@
+{
+	x: 22.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "fedc5472",
+		type: "item",
+		items: [{
+			id: "harvestcraft:zucchinifriesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

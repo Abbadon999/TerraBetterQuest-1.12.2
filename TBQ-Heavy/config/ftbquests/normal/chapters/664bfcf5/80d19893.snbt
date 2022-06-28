@@ -1,0 +1,17 @@
+{
+	x: -73.20000000000002d,
+	y: -5.600000000000001d,
+	tasks: [{
+		uid: "4562a158",
+		type: "item",
+		items: [{
+			id: "harvestcraft:dangoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

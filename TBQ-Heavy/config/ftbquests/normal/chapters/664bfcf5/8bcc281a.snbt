@@ -1,0 +1,17 @@
+{
+	x: 31.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "a5d35ee9",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bamboosteamedriceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

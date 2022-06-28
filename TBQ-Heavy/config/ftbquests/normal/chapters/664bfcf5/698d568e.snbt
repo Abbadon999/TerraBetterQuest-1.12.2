@@ -1,0 +1,17 @@
+{
+	x: 42.0d,
+	y: -2.1999999999999993d,
+	tasks: [{
+		uid: "8aaa52db",
+		type: "item",
+		items: [{
+			id: "harvestcraft:stuffedmushroomitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

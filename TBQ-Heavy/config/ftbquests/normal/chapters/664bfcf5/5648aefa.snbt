@@ -1,0 +1,46 @@
+{
+	x: -69.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "421138a5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cherrypieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1752000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	},
+	{
+		uid: "60585c56",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cherrypieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: -9223372036854775808L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

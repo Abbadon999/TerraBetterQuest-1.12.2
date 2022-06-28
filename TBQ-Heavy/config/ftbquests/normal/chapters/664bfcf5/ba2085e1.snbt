@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "47609350",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gardensoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

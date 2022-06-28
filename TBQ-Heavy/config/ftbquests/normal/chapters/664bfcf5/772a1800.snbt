@@ -1,0 +1,17 @@
+{
+	x: 55.69999999999998d,
+	y: -13.799999999999999d,
+	tasks: [{
+		uid: "20696de6",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cherryslushieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

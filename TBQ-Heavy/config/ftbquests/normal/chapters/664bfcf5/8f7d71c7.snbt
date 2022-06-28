@@ -1,0 +1,17 @@
+{
+	x: 29.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "4f7ac828",
+		type: "item",
+		items: [{
+			id: "harvestcraft:szechuaneggplantitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

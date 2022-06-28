@@ -1,0 +1,17 @@
+{
+	x: -73.2d,
+	y: -6.5d,
+	tasks: [{
+		uid: "5698fc82",
+		type: "item",
+		items: [{
+			id: "harvestcraft:etonmessitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

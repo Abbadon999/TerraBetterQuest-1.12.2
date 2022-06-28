@@ -1,0 +1,17 @@
+{
+	x: -14.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "bd9f809f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chickenkatsuitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

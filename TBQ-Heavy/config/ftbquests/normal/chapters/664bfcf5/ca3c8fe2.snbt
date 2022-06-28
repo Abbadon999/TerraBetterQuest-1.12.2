@@ -1,0 +1,17 @@
+{
+	x: 52.40000000000001d,
+	y: -10.3d,
+	tasks: [{
+		uid: "a5c70f90",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bananayogurtitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

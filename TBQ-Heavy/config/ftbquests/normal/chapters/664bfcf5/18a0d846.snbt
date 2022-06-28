@@ -1,0 +1,11 @@
+{
+	x: 70.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "e9ad2193",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garliccoinitem"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -21.5d,
+	y: -21.5d,
+	tasks: [{
+		uid: "3b217820",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bentoboxitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

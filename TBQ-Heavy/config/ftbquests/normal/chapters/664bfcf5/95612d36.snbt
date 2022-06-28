@@ -1,0 +1,17 @@
+{
+	x: -17.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "8f24b05c",
+		type: "item",
+		items: [{
+			id: "tfc:food/cooked_pork",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1716000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

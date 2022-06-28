@@ -1,0 +1,25 @@
+{
+	x: -55.6d,
+	y: -12.700000000000003d,
+	tasks: [{
+		uid: "bb819a6f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:blueberrymuffinitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1752000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

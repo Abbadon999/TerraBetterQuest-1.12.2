@@ -1,0 +1,25 @@
+{
+	x: 70.5d,
+	y: 9.0d,
+	tasks: [{
+		uid: "007cc487",
+		type: "item",
+		items: [{
+			id: "harvestcraft:eggtartitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1890000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

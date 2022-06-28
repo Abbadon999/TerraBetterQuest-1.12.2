@@ -1,0 +1,17 @@
+{
+	x: -20.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "a7d90c1e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:porklomeinitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

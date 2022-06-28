@@ -1,0 +1,19 @@
+{
+	x: -51.0d,
+	y: -6.100000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "0910980d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:lentilitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

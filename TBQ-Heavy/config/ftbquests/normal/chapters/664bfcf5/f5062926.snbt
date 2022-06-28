@@ -1,0 +1,25 @@
+{
+	x: -65.6d,
+	y: -9.100000000000001d,
+	tasks: [{
+		uid: "b6d5f974",
+		type: "item",
+		items: [{
+			id: "harvestcraft:lemoncupcakeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1902000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

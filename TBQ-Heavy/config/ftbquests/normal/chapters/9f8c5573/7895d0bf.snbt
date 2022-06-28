@@ -1,0 +1,12 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "ddb4f28a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:turnipseeditem"
+		}]
+	}]
+}

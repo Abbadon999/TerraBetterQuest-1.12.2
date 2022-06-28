@@ -1,0 +1,17 @@
+{
+	x: 21.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "7f584853",
+		type: "item",
+		items: [{
+			id: "harvestcraft:steamedspinachitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

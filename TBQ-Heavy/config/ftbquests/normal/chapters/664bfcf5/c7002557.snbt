@@ -1,0 +1,17 @@
+{
+	x: -61.2d,
+	y: -10.900000000000006d,
+	tasks: [{
+		uid: "53a7ca79",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pistachioicecreamitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1830000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

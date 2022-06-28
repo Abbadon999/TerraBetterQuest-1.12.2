@@ -1,0 +1,17 @@
+{
+	x: -9.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "6c7cf799",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cashewchickenitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 69.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "ee46fd36",
+		type: "item",
+		items: [{
+			id: "harvestcraft:poutineitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

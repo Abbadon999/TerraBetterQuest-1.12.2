@@ -1,0 +1,17 @@
+{
+	x: 26.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "a73f8a5d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:roastedchestnutitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

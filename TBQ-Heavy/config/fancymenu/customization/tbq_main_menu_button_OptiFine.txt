@@ -14,6 +14,74 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  hidden = true
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 4dec237d-e72b-4d51-a7cd-5340dcc464d51656392790678
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 191
+  action = deep_customization_element:title_screen_branding
+  actionid = fb4c51e7-bfe5-40ec-8de6-971b6821dc651656392790678
+  y = 447
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 9c5584d2-8ed1-4388-9095-f45b90de86df1656392790678
+  y = 489
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = a47d457f-b279-4fd8-a9b4-9933bc29ccfb1656392790679
+  y = 227
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = b0d0b9dc-6ef7-4710-bb64-a385e9c1d7901656392790679
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 1d5518a4-60cf-4133-a863-86e3385dfffa1656392790679
+  y = 0
+  height = 30
+}
+
+customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = downloadfile
@@ -30,7 +98,7 @@ customization {
   y = 20
   vr:value:modloaded = optifine
   backgroundnormal = resources\mainmenu\textures\btn_OPTI_2.png
-  value = https://github.com/Abbadon999/TerraBetterQuest-1.12.2/raw/TBQ-Heavy-0.3.0/TBQ-Heavy/mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar;mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar
+  value = https://github.com/Abbadon999/TerraBetterQuest-1.12.2/raw/TBQ-Heavy-0.4.0/TBQ-Heavy/mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar;mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar
   height = 20
 }
 

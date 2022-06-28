@@ -1,0 +1,17 @@
+{
+	x: 19.99999999999998d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "d8569083",
+		type: "item",
+		items: [{
+			id: "harvestcraft:greenheartfishitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

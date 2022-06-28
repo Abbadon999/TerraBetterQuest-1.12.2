@@ -1,0 +1,17 @@
+{
+	x: -9.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "de1c38e0",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chickencurryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

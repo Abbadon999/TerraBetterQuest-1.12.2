@@ -1,0 +1,25 @@
+{
+	x: -21.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "bfdeadca",
+		type: "item",
+		items: [{
+			id: "harvestcraft:salisburysteakitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1872000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

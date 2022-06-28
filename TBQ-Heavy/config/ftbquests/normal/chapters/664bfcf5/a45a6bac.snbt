@@ -1,0 +1,17 @@
+{
+	x: 9.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "b1d9f002",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gumboitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: -69.6d,
+	y: -8.200000000000003d,
+	tasks: [{
+		uid: "7237789f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:peanutbuttercookiesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1746000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

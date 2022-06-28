@@ -1,0 +1,17 @@
+{
+	x: 66.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "269c5789",
+		type: "item",
+		items: [{
+			id: "harvestcraft:spicebunitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 18.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "be9fae89",
+		type: "item",
+		items: [{
+			id: "harvestcraft:threebeansaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -30.6d,
+	y: -5.1d,
+	shape: "diamond",
+	tasks: [{
+		uid: "cebe5ee9",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chestnutitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

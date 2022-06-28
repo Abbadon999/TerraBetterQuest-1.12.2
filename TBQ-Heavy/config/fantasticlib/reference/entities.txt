@@ -211,3 +211,10 @@ twilightforest:slider
 twilightforest:boggard
 twilightforest:rising_zombie
 gravestone:player_ghost
+millenaire:genericvillager
+millenaire:genericsimmfemale
+millenaire:genericasimmfemale
+millenaire:walldecoration
+millenaire:millblaze
+millenaire:millwitherskeleton
+millenaire:millghast

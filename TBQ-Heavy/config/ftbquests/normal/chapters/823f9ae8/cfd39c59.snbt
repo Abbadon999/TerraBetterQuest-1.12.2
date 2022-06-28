@@ -1,0 +1,20 @@
+{
+	title: "{tbq.quests.primitive.saddle.title}",
+	x: 11.0d,
+	y: 8.5d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.saddle.subtitle}",
+	dependencies: [
+		"2816fe72"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2ce6c50a",
+		type: "item",
+		items: [{
+			item: "minecraft:saddle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

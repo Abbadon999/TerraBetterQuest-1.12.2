@@ -1,0 +1,12 @@
+{
+	x: -31.5d,
+	y: -5.9d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "33caf9ab",
+		type: "item",
+		items: [{
+			item: "harvestcraft:nutmeg_sapling"
+		}]
+	}]
+}

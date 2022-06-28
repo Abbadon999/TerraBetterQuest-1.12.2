@@ -1,0 +1,17 @@
+{
+	x: 76.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "ce8db313",
+		type: "item",
+		items: [{
+			id: "harvestcraft:crackersandcheeseitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 65.5d,
+	y: -14.000000000000002d,
+	tasks: [{
+		uid: "71d66ddf",
+		type: "item",
+		items: [{
+			id: "harvestcraft:apricotjellysandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

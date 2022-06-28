@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "e457bb92",
+		type: "item",
+		items: [{
+			id: "minecraft:rabbit_stew",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

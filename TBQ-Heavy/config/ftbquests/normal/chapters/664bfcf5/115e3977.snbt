@@ -1,0 +1,17 @@
+{
+	x: 71.0d,
+	y: -10.5d,
+	tasks: [{
+		uid: "0bd1dd6a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:dimsumitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1830000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

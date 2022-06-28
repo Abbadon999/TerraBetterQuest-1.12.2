@@ -1,0 +1,17 @@
+{
+	x: -22.5d,
+	y: -20.5d,
+	tasks: [{
+		uid: "90a30618",
+		type: "item",
+		items: [{
+			id: "harvestcraft:meatystirfryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

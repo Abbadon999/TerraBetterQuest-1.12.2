@@ -1,0 +1,17 @@
+{
+	x: 9.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "bb062afe",
+		type: "item",
+		items: [{
+			id: "harvestcraft:guacamoleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

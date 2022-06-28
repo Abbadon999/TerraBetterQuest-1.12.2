@@ -1,0 +1,21 @@
+{
+	x: 42.8d,
+	y: -2.799999999999999d,
+	tasks: [{
+		uid: "102db3fc",
+		type: "item",
+		items: [{
+			id: "tfcflorae:food/roasted/woolly_gomphus",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

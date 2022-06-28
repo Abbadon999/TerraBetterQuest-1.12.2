@@ -1,0 +1,11 @@
+{
+	x: -57.2d,
+	y: -10.0d,
+	tasks: [{
+		uid: "ec7b834f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:holidaycakeitem"
+		}]
+	}]
+}

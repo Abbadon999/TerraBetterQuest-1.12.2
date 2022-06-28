@@ -1,0 +1,17 @@
+{
+	x: 20.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "2e0cf456",
+		type: "item",
+		items: [{
+			id: "harvestcraft:coleslawitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

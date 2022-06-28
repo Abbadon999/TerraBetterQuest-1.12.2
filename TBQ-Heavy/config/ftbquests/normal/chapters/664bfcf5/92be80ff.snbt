@@ -1,0 +1,17 @@
+{
+	x: -72.0d,
+	y: -8.199999999999989d,
+	tasks: [{
+		uid: "dc58ac94",
+		type: "item",
+		items: [{
+			id: "harvestcraft:creamcookieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1776000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

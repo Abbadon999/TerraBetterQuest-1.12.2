@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "4c9f4445",
+		type: "item",
+		items: [{
+			id: "harvestcraft:ramenitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

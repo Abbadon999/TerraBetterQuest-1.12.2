@@ -1,0 +1,17 @@
+{
+	x: 75.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "4d27fa4c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:potatoesobrienitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

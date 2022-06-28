@@ -1,0 +1,17 @@
+{
+	x: -20.0d,
+	y: -20.5d,
+	tasks: [{
+		uid: "70ea2c0d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bibimbapitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 45.9d,
+	y: 1.8000000000000007d,
+	tasks: [{
+		uid: "df1b8d4f",
+		type: "item",
+		items: [{
+			id: "tfcflorae:food/roasted/weeping_milk_cap",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

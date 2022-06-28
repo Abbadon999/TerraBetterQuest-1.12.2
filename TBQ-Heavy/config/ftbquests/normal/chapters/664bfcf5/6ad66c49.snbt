@@ -1,0 +1,17 @@
+{
+	x: -65.6d,
+	y: -8.200000000000003d,
+	tasks: [{
+		uid: "f12f1c66",
+		type: "item",
+		items: [{
+			id: "harvestcraft:timtamitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

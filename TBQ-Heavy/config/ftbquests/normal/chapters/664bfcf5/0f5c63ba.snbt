@@ -1,0 +1,21 @@
+{
+	x: 43.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "d7bb1d5a",
+		type: "item",
+		items: [{
+			id: "tfcflorae:food/roasted/giant_club",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

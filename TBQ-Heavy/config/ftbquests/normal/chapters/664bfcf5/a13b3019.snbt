@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "448fbba3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:beetsoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

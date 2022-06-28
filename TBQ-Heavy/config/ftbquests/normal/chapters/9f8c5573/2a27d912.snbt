@@ -1,0 +1,12 @@
+{
+	x: 43.0d,
+	y: -9.5d,
+	shape: "octagon",
+	tasks: [{
+		uid: "b27d236a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gooseberry_sapling"
+		}]
+	}]
+}

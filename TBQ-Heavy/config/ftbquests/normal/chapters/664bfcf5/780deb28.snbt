@@ -1,0 +1,11 @@
+{
+	x: -61.2d,
+	y: -10.0d,
+	tasks: [{
+		uid: "f190d0ff",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pineappleupsidedowncake"
+		}]
+	}]
+}

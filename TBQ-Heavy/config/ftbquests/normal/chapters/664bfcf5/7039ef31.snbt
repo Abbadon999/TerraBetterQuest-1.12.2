@@ -1,0 +1,17 @@
+{
+	x: 70.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "b272d91a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:omuriceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

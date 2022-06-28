@@ -1,0 +1,17 @@
+{
+	x: 76.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "34b3a180",
+		type: "item",
+		items: [{
+			id: "harvestcraft:vanillaconchasbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1914000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

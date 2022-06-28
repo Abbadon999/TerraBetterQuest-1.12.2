@@ -1,0 +1,52 @@
+{
+	title: "{tbq.quests.primitive.sourdough.title}",
+	x: 4.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "{tbq.quests.primitive.sourdough.subtitle}",
+	dependencies: [
+		"d36a59a1",
+		"19620021",
+		"86e0afb5",
+		"da0ae894",
+		"126ed1d9"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "66b2782a",
+		type: "item",
+		title: "{tbq.quests.primitive.sourdough.attachment}",
+		items: [{
+			id: "firmalife:cheesecloth",
+			tag: {
+				Fluid: {
+					FluidName: "milk_curdled",
+					Amount: 500
+				}
+			}
+		},
+		{
+			id: "firmalife:cheesecloth",
+			tag: {
+				Fluid: {
+					FluidName: "curdled_goat_milk",
+					Amount: 500
+				}
+			}
+		},
+		{
+			id: "firmalife:cheesecloth",
+			tag: {
+				Fluid: {
+					FluidName: "curdled_yak_milk",
+					Amount: 500
+				}
+			}
+		},
+		{
+			item: "firmalife:cheesecloth"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -26.300000000000004d,
+	y: -7.899999999999999d,
+	shape: "diamond",
+	tasks: [{
+		uid: "60b97929",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sisalitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

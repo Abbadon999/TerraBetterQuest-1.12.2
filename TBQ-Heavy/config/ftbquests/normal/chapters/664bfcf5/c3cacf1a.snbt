@@ -1,0 +1,17 @@
+{
+	x: 56.5d,
+	y: -13.799999999999999d,
+	tasks: [{
+		uid: "6aa6626c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chocolatemilkitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1782000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

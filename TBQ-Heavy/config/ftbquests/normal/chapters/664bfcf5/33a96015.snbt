@@ -1,0 +1,17 @@
+{
+	x: -11.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "f3dae7b3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:baconwrappedchiliitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

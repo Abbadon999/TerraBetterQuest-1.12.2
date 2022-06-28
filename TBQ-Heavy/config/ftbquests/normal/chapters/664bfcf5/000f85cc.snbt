@@ -1,0 +1,17 @@
+{
+	x: -66.9d,
+	y: -7.299999999999997d,
+	tasks: [{
+		uid: "d31f5499",
+		type: "item",
+		items: [{
+			id: "harvestcraft:merveilleuxitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

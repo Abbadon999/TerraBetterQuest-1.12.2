@@ -1,0 +1,17 @@
+{
+	x: -11.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "a3eb5772",
+		type: "item",
+		items: [{
+			id: "harvestcraft:swedishmeatballsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

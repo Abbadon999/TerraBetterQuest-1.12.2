@@ -1,0 +1,17 @@
+{
+	x: 54.49999999999999d,
+	y: -9.200000000000001d,
+	tasks: [{
+		uid: "382813ff",
+		type: "item",
+		items: [{
+			id: "harvestcraft:figyogurtitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

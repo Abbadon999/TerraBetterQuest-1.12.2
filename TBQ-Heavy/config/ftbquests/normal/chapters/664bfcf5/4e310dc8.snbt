@@ -1,0 +1,25 @@
+{
+	x: -71.2d,
+	y: -8.200000000000003d,
+	tasks: [{
+		uid: "2b97e6ed",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gingersnapsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1764000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 63.8d,
+	y: -14.9d,
+	tasks: [{
+		uid: "2ffe9c6a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:raspberryjellyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

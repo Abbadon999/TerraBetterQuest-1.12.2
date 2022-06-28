@@ -1,0 +1,17 @@
+{
+	x: -74.80000000000001d,
+	y: -5.600000000000001d,
+	tasks: [{
+		uid: "f9131cc5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bakedalaskaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

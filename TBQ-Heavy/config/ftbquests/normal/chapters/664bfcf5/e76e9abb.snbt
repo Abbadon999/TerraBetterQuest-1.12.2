@@ -1,0 +1,17 @@
+{
+	x: 74.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "70f3e5f5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:garlicbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

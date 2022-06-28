@@ -1,0 +1,17 @@
+{
+	x: 24.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "10ae4062",
+		type: "item",
+		items: [{
+			id: "harvestcraft:summersquashwithradishitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

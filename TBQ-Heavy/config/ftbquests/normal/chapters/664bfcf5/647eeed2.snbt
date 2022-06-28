@@ -1,0 +1,17 @@
+{
+	x: -34.2d,
+	y: 2.099999999999995d,
+	tasks: [{
+		uid: "beb90672",
+		type: "item",
+		items: [{
+			id: "harvestcraft:blueberryjuiceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

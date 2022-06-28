@@ -1,0 +1,17 @@
+{
+	x: -37.7d,
+	y: 5.099999999999994d,
+	tasks: [{
+		uid: "2ac676b6",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gooseberrysmoothieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -51.0d,
+	y: -6.899999999999999d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "3d5255c1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:lentilseeditem"
+		}]
+	}]
+}

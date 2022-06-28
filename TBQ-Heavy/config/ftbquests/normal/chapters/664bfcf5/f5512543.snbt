@@ -1,0 +1,17 @@
+{
+	x: -53.99999999999999d,
+	y: -11.799999999999995d,
+	tasks: [{
+		uid: "1288f169",
+		type: "item",
+		items: [{
+			id: "harvestcraft:powdereddonutitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1776000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

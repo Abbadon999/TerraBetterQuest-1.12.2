@@ -1,0 +1,17 @@
+{
+	x: 69.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "800e5743",
+		type: "item",
+		items: [{
+			id: "harvestcraft:tortillaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

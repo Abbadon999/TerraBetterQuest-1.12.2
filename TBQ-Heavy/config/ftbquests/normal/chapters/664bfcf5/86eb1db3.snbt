@@ -1,0 +1,17 @@
+{
+	x: 75.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "16a92c6e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:candiedsweetpotatoesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

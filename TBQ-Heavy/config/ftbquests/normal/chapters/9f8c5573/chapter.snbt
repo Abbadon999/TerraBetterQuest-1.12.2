@@ -1,0 +1,95 @@
+{
+	title: "{tbq.quests.gardening.era.title}",
+	icon: "harvestcraft:apple_sapling",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 25.5d,
+		y: -14.0d,
+		width: 25.0d,
+		height: 25.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/gardening_fruit.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 47.0d,
+		y: -7.5d,
+		width: 15.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/gardening_berries.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 0.0d,
+		y: 0.0d,
+		width: 125.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/gardening_grass.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -31.5d,
+		y: -6.0d,
+		width: 6.0d,
+		height: 6.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/gardening_woodenboxes.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -25.5d,
+		y: -6.5d,
+		width: 6.0d,
+		height: 7.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/gardening_woodenboxes.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -37.5d,
+		y: -5.5d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/gardening_woodenboxes.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -44.0d,
+		y: -5.5d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/gardening_woodenboxes.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -50.5d,
+		y: -5.5d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/gardening_woodenboxes.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

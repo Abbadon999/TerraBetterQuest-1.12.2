@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "cff13310",
+		type: "item",
+		items: [{
+			id: "harvestcraft:carrotsoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

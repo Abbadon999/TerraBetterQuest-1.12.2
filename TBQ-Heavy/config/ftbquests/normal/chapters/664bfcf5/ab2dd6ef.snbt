@@ -1,0 +1,17 @@
+{
+	x: -38.7d,
+	y: 1.5999999999999952d,
+	tasks: [{
+		uid: "0e39708c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:limejuiceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

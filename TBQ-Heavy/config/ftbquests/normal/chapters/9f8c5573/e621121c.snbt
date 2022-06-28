@@ -1,0 +1,12 @@
+{
+	x: -33.300000000000004d,
+	y: -7.799999999999999d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "e3a31a95",
+		type: "item",
+		items: [{
+			item: "harvestcraft:almond_sapling"
+		}]
+	}]
+}

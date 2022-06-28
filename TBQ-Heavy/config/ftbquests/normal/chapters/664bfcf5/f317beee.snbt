@@ -1,0 +1,17 @@
+{
+	x: 18.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "b439aa4b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:okracreoleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

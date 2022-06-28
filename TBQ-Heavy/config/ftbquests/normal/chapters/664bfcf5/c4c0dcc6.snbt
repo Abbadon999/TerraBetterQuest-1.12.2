@@ -1,0 +1,17 @@
+{
+	x: 2.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "d364021b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:meesuaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

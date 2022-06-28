@@ -1,0 +1,17 @@
+{
+	x: 71.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "31e4160b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:banananutbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

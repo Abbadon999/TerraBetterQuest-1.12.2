@@ -1,0 +1,17 @@
+{
+	x: -70.0d,
+	y: -6.5d,
+	tasks: [{
+		uid: "f0ea1edc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:marshmellowchicksitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

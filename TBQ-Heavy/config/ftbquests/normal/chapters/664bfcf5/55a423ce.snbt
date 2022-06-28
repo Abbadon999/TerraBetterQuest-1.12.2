@@ -1,0 +1,17 @@
+{
+	x: 69.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "1374bbba",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mushroomlasagnaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

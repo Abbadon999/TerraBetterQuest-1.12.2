@@ -1,0 +1,17 @@
+{
+	x: 6.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "cdff4cb2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:seedsoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1776000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

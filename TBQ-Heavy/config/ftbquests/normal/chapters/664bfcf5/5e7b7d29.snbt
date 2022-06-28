@@ -1,0 +1,17 @@
+{
+	x: 13.999999999999993d,
+	y: -9.7d,
+	tasks: [{
+		uid: "7f63d5c9",
+		type: "item",
+		items: [{
+			id: "harvestcraft:californiarollitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

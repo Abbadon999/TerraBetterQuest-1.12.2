@@ -1,0 +1,17 @@
+{
+	x: 31.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "07442a11",
+		type: "item",
+		items: [{
+			id: "harvestcraft:saltedsunflowerseedsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1782000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

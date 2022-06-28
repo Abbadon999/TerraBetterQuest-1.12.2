@@ -1,0 +1,17 @@
+{
+	x: 26.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "fd5292dd",
+		type: "item",
+		items: [{
+			id: "harvestcraft:herbbutterparsnipsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

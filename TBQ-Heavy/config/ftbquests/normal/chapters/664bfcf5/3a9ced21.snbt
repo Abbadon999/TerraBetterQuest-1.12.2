@@ -1,0 +1,25 @@
+{
+	x: 72.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "76c8e893",
+		type: "item",
+		items: [{
+			id: "harvestcraft:ricecakeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1722000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

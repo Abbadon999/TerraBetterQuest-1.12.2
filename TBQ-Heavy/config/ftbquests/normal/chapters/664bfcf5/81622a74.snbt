@@ -1,0 +1,17 @@
+{
+	x: 76.9d,
+	y: 1.3000000000000003d,
+	tasks: [{
+		uid: "9fcba543",
+		type: "item",
+		items: [{
+			id: "harvestcraft:nachoesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

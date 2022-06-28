@@ -1,0 +1,169 @@
+{
+	title: "{tbq.quests.thefeastoftheworld.era.title}",
+	icon: {
+		id: "tfc:food/red_apple",
+		ForgeCaps: {
+			"tfc:food": {
+				creationDate: 1266000L,
+				traits: []
+			}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 0.0d,
+		y: -8.0d,
+		width: 200.0d,
+		height: 90.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_table.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -64.5d,
+		y: -14.5d,
+		width: 40.0d,
+		height: 30.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_sweets.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -47.28571428571432d,
+		y: -8.059523809523768d,
+		width: 10.0d,
+		height: 12.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_hotdrinks.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -16.5d,
+		y: -4.0d,
+		width: 40.0d,
+		height: 30.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_meat.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -35.33333333333334d,
+		y: -4.488095238095198d,
+		width: 20.0d,
+		height: 25.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_smoothie.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 5.0d,
+		y: 1.5d,
+		width: 20.0d,
+		height: 15.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_soup.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 71.5d,
+		y: -16.0d,
+		width: 20.0d,
+		height: 15.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_bakedgoods.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 14.0d,
+		y: -16.5d,
+		width: 20.0d,
+		height: 20.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_seafood.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -26.0d,
+		y: -20.5d,
+		width: 25.0d,
+		height: 25.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_fastfood.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 54.5d,
+		y: -14.5d,
+		width: 12.0d,
+		height: 15.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_dairyproducts.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 24.0d,
+		y: -0.5d,
+		width: 20.0d,
+		height: 15.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_vegetables.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 67.47619047619048d,
+		y: 10.595238095238088d,
+		width: 10.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_eggsinfoods.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 74.5d,
+		y: -1.5d,
+		width: 20.0d,
+		height: 11.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_potatoes.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 44.0d,
+		y: -0.6999999999999993d,
+		width: 11.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "assets:questicons/food_mushrooms.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

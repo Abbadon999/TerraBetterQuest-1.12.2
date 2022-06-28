@@ -1,0 +1,12 @@
+{
+	x: 34.7d,
+	y: -15.6d,
+	shape: "square",
+	tasks: [{
+		uid: "80f22738",
+		type: "item",
+		items: [{
+			item: "harvestcraft:plum_sapling"
+		}]
+	}]
+}

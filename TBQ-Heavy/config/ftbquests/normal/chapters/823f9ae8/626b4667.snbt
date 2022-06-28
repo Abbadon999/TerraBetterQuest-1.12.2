@@ -1,7 +1,7 @@
 {
 	title: "{tbq.quests.primitive.driedfruits.attachment}",
-	x: 9.500000000000002d,
-	y: 8.6d,
+	x: 17.5d,
+	y: 5.5d,
 	shape: "diamond",
 	dependencies: [
 		"263fdccc"

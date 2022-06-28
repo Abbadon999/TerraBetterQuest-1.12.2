@@ -1,0 +1,17 @@
+{
+	x: 73.0d,
+	y: -13.5d,
+	tasks: [{
+		uid: "f34df6d8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:shrimpokrahushpuppiesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

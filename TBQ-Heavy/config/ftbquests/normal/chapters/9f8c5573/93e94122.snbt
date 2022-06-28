@@ -1,0 +1,21 @@
+{
+	x: 9.5d,
+	y: -3.8999999999999986d,
+	shape: "diamond",
+	size: 1.1d,
+	tasks: [{
+		uid: "fd5f4ad8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:tomatoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L,
+		consume_items: true
+	}]
+}

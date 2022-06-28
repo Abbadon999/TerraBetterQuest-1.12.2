@@ -1,0 +1,17 @@
+{
+	x: 67.1d,
+	y: -16.4d,
+	tasks: [{
+		uid: "2dc5d515",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pomegranatejellyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

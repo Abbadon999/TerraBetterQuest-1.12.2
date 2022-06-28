@@ -1,0 +1,17 @@
+{
+	x: -26.0d,
+	y: -20.0d,
+	tasks: [{
+		uid: "f3fd781f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:toastsandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

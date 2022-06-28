@@ -1,0 +1,17 @@
+{
+	x: -63.6d,
+	y: -14.100000000000001d,
+	tasks: [{
+		uid: "bff43e62",
+		type: "item",
+		items: [{
+			id: "harvestcraft:vegemiteontoastitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

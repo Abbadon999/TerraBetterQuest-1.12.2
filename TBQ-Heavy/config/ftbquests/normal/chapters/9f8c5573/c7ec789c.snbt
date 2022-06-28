@@ -1,0 +1,19 @@
+{
+	x: -23.599999999999994d,
+	y: -4.100000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "e96e441c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:kenafitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

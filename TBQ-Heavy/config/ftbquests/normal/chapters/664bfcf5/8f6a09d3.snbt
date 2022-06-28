@@ -1,0 +1,11 @@
+{
+	x: -60.400000000000006d,
+	y: -10.0d,
+	tasks: [{
+		uid: "ff82bcde",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cheesecakeitem"
+		}]
+	}]
+}

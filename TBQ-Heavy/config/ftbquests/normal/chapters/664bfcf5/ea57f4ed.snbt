@@ -1,0 +1,17 @@
+{
+	x: -59.60000000000001d,
+	y: -10.900000000000006d,
+	tasks: [{
+		uid: "ab2d933e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:spumoniicecreamitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1830000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

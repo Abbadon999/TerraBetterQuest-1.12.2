@@ -1,0 +1,17 @@
+{
+	x: 73.0d,
+	y: -10.5d,
+	tasks: [{
+		uid: "dcce3973",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sunflowerwheatrollsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1782000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

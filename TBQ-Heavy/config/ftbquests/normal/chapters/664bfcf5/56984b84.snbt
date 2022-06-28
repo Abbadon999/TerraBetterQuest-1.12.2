@@ -1,0 +1,17 @@
+{
+	x: 29.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "2ca2f592",
+		type: "item",
+		items: [{
+			id: "harvestcraft:succotashitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

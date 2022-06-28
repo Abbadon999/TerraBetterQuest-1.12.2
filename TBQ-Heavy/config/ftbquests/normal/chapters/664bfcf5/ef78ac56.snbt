@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "fb630e5c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:jambalayaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -62.0d,
+	y: -10.0d,
+	tasks: [{
+		uid: "5834cd81",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mochicakeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1914000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

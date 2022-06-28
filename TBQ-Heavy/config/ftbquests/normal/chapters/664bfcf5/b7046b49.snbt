@@ -1,0 +1,17 @@
+{
+	x: -32.2d,
+	y: -0.30000000000000715d,
+	tasks: [{
+		uid: "2823d879",
+		type: "item",
+		items: [{
+			id: "harvestcraft:colasodaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

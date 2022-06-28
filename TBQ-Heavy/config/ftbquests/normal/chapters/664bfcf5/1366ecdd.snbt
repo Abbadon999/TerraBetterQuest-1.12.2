@@ -1,0 +1,17 @@
+{
+	x: 56.4d,
+	y: -10.3d,
+	tasks: [{
+		uid: "4f3d58a6",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mapleoatmealitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

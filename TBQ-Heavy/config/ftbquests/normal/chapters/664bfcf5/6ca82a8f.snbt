@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "268ea18e",
+		type: "item",
+		items: [{
+			id: "minecraft:mushroom_stew",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1716000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

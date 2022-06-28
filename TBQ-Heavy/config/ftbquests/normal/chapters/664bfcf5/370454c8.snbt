@@ -1,0 +1,17 @@
+{
+	x: 53.20000000000001d,
+	y: -10.3d,
+	tasks: [{
+		uid: "17468f48",
+		type: "item",
+		items: [{
+			id: "harvestcraft:papayayogurtitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

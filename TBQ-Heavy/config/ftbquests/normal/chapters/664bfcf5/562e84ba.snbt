@@ -1,0 +1,25 @@
+{
+	x: -21.5d,
+	y: -22.5d,
+	tasks: [{
+		uid: "69c0df5e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bbqchickenpizzaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1902000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

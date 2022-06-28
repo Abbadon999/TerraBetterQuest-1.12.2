@@ -1,0 +1,17 @@
+{
+	x: -26.5d,
+	y: -20.5d,
+	tasks: [{
+		uid: "d916ac77",
+		type: "item",
+		items: [{
+			id: "harvestcraft:surfandturfitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

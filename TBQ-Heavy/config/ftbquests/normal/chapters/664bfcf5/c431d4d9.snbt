@@ -1,0 +1,17 @@
+{
+	x: -8.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "fe7953fc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chickencelerycasseroleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

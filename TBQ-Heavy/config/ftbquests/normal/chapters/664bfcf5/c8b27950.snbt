@@ -1,0 +1,11 @@
+{
+	x: 52.10000000000001d,
+	y: -13.399999999999999d,
+	tasks: [{
+		uid: "7fda2846",
+		type: "item",
+		items: [{
+			item: "harvestcraft:freshmilkitem"
+		}]
+	}]
+}

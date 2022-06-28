@@ -1,0 +1,17 @@
+{
+	x: -72.4d,
+	y: -5.600000000000001d,
+	tasks: [{
+		uid: "2c40da22",
+		type: "item",
+		items: [{
+			id: "harvestcraft:saltedcaramelitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

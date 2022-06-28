@@ -1,0 +1,17 @@
+{
+	x: 16.0d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "fc47ba51",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sardinesinhotsauceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -67.1d,
+	y: -3.0d,
+	shape: "diamond",
+	tasks: [{
+		uid: "d099b106",
+		type: "item",
+		items: [{
+			id: "harvestcraft:strawberryrhubarbpieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1896000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

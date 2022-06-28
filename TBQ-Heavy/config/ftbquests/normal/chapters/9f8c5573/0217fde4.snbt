@@ -1,0 +1,12 @@
+{
+	x: -45.5d,
+	y: -4.899999999999999d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "c987f6cf",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mustardseeditem"
+		}]
+	}]
+}

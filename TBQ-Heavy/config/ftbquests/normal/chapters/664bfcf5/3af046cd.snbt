@@ -1,0 +1,17 @@
+{
+	x: -29.5d,
+	y: -21.5d,
+	tasks: [{
+		uid: "de3f6159",
+		type: "item",
+		items: [{
+			id: "harvestcraft:spagettiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1740000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

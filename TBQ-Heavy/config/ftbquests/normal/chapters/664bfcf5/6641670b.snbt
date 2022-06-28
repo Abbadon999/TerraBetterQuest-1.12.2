@@ -1,0 +1,17 @@
+{
+	x: 70.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "309795b2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:friesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

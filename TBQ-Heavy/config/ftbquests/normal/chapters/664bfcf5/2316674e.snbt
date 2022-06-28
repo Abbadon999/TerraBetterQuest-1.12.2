@@ -1,0 +1,17 @@
+{
+	x: 12.399999999999991d,
+	y: -9.7d,
+	tasks: [{
+		uid: "6a2e5613",
+		type: "item",
+		items: [{
+			id: "tfc:food/cooked_fish",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1716000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 31.5d,
+	y: -8.5d,
+	shape: "square",
+	tasks: [{
+		uid: "fd26b224",
+		type: "item",
+		items: [{
+			item: "harvestcraft:avocado_sapling"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -29.0d,
+	y: -23.0d,
+	tasks: [{
+		uid: "409acc01",
+		type: "item",
+		items: [{
+			id: "harvestcraft:fishsandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

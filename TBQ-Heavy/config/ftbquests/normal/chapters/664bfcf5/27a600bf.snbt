@@ -1,0 +1,17 @@
+{
+	x: 68.0d,
+	y: 1.3000000000000003d,
+	tasks: [{
+		uid: "9dbb7bdb",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chipsanddipitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

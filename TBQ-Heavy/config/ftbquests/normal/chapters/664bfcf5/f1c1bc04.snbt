@@ -1,0 +1,17 @@
+{
+	x: -20.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "bc2607c3",
+		type: "item",
+		items: [{
+			id: "tfc:food/cooked_chicken",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1716000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

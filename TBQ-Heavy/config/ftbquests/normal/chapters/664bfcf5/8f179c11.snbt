@@ -1,0 +1,17 @@
+{
+	x: 10.399999999999999d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "e2e09360",
+		type: "item",
+		items: [{
+			id: "harvestcraft:froglegstirfryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

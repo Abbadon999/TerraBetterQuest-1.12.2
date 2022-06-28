@@ -1,0 +1,17 @@
+{
+	x: -28.5d,
+	y: -20.5d,
+	tasks: [{
+		uid: "02176ff1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:homestylelunchitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

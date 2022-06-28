@@ -1,0 +1,17 @@
+{
+	x: 65.5d,
+	y: -15.0d,
+	tasks: [{
+		uid: "b57fbe49",
+		type: "item",
+		items: [{
+			id: "harvestcraft:plumjellyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1842000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

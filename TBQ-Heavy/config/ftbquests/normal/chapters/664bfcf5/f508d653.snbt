@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "aab64ed0",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cucumbersaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -31.0d,
+	y: -23.0d,
+	tasks: [{
+		uid: "952b861a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:delightedmealitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1740000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

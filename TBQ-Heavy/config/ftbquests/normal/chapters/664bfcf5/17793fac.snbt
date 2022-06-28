@@ -1,0 +1,17 @@
+{
+	x: 23.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "f3d2c59f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:grilledeggplantitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

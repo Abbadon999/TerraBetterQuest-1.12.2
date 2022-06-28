@@ -1,0 +1,25 @@
+{
+	x: 77.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "12618f1b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:damperitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1812000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

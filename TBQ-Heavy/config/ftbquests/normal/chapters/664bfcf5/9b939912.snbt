@@ -1,0 +1,17 @@
+{
+	x: 7.6d,
+	y: -9.7d,
+	tasks: [{
+		uid: "6ed8fa97",
+		type: "item",
+		items: [{
+			id: "harvestcraft:shrimpcookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

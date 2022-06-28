@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "979dafd3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:maplecandiedbaconitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

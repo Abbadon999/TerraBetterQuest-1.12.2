@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: -24.0d,
+	tasks: [{
+		uid: "ca3e184b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:friedbolognasandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1962000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

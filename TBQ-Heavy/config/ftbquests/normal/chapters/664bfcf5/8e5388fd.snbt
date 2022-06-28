@@ -1,0 +1,17 @@
+{
+	x: 24.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "58d54384",
+		type: "item",
+		items: [{
+			id: "harvestcraft:glazedcarrotsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

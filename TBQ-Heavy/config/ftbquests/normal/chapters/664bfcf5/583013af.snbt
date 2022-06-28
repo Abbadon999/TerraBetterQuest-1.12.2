@@ -1,0 +1,17 @@
+{
+	x: 8.4d,
+	y: -9.7d,
+	tasks: [{
+		uid: "87b13391",
+		type: "item",
+		items: [{
+			id: "harvestcraft:octopuscookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

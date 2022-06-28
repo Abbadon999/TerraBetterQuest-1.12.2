@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: -7.0d,
+	description: "{tbq.quests.primitive.oven.subtitle3}",
+	dependencies: [
+		"e4dda908"
+	],
+	tasks: [{
+		uid: "50e1b529",
+		type: "item",
+		items: [{
+			item: "firmalife:oven_wall"
+		}],
+		count: 2L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "90a0ab1e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:eggplantparmitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

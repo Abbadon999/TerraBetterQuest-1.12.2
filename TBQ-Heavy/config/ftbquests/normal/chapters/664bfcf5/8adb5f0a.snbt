@@ -1,0 +1,17 @@
+{
+	x: -68.0d,
+	y: -8.200000000000003d,
+	tasks: [{
+		uid: "725d16ca",
+		type: "item",
+		items: [{
+			id: "harvestcraft:creepercookieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

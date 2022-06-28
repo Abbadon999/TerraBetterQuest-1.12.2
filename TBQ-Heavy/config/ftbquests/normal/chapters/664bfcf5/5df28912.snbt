@@ -1,0 +1,17 @@
+{
+	x: 18.000000000000014d,
+	y: -9.7d,
+	tasks: [{
+		uid: "bec70a31",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pistachiobakedsalmonitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

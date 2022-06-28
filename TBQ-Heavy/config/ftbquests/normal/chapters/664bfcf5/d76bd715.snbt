@@ -1,0 +1,17 @@
+{
+	x: 22.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "037e4e44",
+		type: "item",
+		items: [{
+			id: "harvestcraft:grilledasparagusitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

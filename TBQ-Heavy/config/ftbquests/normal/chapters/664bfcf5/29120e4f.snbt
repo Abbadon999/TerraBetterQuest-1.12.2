@@ -1,0 +1,17 @@
+{
+	x: 21.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "3f3a61c3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:marinatedcucumbersitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

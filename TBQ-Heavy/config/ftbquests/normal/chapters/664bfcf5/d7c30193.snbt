@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "bc4a9de5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cornedbeefitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: 3.5d,
+	y: -3.8999999999999986d,
+	shape: "diamond",
+	size: 1.1d,
+	tasks: [{
+		uid: "b0e4f944",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sweetpotatoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1602000L,
+						traits: []
+					}
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

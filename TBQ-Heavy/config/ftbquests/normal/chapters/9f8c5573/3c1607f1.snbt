@@ -1,0 +1,19 @@
+{
+	x: -30.6d,
+	y: -7.0d,
+	shape: "diamond",
+	tasks: [{
+		uid: "7fa731af",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cashewitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

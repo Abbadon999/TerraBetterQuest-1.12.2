@@ -1,0 +1,17 @@
+{
+	x: -23.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "7891713c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:apricotglazedporkitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

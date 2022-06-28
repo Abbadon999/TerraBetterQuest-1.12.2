@@ -1,0 +1,17 @@
+{
+	x: -28.0d,
+	y: -24.0d,
+	tasks: [{
+		uid: "bf2fcc5d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:beetburgeritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

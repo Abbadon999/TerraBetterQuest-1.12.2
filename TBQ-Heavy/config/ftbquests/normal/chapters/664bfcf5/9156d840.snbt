@@ -1,0 +1,17 @@
+{
+	x: 69.0d,
+	y: -13.5d,
+	tasks: [{
+		uid: "4ab4889b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:honeysandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1842000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

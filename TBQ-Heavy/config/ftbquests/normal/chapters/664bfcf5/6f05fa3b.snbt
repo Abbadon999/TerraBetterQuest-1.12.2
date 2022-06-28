@@ -1,0 +1,17 @@
+{
+	x: -20.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "061272a4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:garlicsteakitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

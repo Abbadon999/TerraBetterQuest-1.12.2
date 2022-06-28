@@ -1,0 +1,17 @@
+{
+	x: 17.599999999999987d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "35d37789",
+		type: "item",
+		items: [{
+			id: "harvestcraft:salmonpattiesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

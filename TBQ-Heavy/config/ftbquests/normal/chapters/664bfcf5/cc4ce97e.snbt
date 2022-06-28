@@ -1,0 +1,17 @@
+{
+	x: -23.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "ae43d136",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bbqchickenbiscuititem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

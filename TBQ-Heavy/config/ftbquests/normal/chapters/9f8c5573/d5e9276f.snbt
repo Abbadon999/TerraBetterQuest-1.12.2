@@ -1,0 +1,12 @@
+{
+	x: -25.400000000000006d,
+	y: -8.700000000000001d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "ca48372c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:flaxseeditem"
+		}]
+	}]
+}

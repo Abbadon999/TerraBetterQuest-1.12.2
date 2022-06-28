@@ -7,10 +7,277 @@
 		"3bcc6936"
 	],
 	tasks: [{
-		uid: "3bebd615",
+		uid: "3a772289",
 		type: "item",
 		title: "{tbq.quests.primitive.loom.attachment}",
 		items: [{
+			item: "tfc:wood/loom/box"
+		},
+		{
+			item: "tfc:wood/loom/brazilwood"
+		},
+		{
+			item: "tfc:wood/loom/cocobolo"
+		},
+		{
+			item: "tfc:wood/loom/ebony"
+		},
+		{
+			item: "tfc:wood/loom/fever"
+		},
+		{
+			item: "tfc:wood/loom/fruitwood"
+		},
+		{
+			item: "tfc:wood/loom/greenheart"
+		},
+		{
+			item: "tfc:wood/loom/holly"
+		},
+		{
+			item: "tfc:wood/loom/iroko"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/banana"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/cherry"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/green_apple"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/lemon"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/olive"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/orange"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/peach"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/plum"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/red_apple"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/cassia_cinnamon"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/ceylon_cinnamon"
+		},
+		{
+			item: "tfcflorae:wood/loom/arrow_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/black_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/blue_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/dragon_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/golden_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/narrow_leaf_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/red_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/temple_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/thorny_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/timber_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/tinwa_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/loom/weavers_bamboo"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/cocoa"
+		},
+		{
+			item: "tfcflorae:wood/fruit_tree/loom/cinnamon"
+		},
+		{
+			item: "tfc:wood/loom/african_padauk"
+		},
+		{
+			item: "tfc:wood/loom/angelim"
+		},
+		{
+			item: "tfc:wood/loom/pink_ivory"
+		},
+		{
+			item: "tfc:wood/loom/red_cedar"
+		},
+		{
+			item: "tfc:wood/loom/rowan"
+		},
+		{
+			item: "tfc:wood/loom/syzygium"
+		},
+		{
+			item: "tfc:wood/loom/yew"
+		},
+		{
+			item: "tfc:wood/loom/jacaranda"
+		},
+		{
+			item: "tfc:wood/loom/juniper"
+		},
+		{
+			item: "tfc:wood/loom/ipe"
+		},
+		{
+			item: "tfc:wood/loom/pink_cherry"
+		},
+		{
+			item: "tfc:wood/loom/ironwood"
+		},
+		{
+			item: "tfc:wood/loom/kauri"
+		},
+		{
+			item: "tfc:wood/loom/limba"
+		},
+		{
+			item: "tfc:wood/loom/logwood"
+		},
+		{
+			item: "tfc:wood/loom/mahoe"
+		},
+		{
+			item: "tfc:wood/loom/mangrove"
+		},
+		{
+			item: "tfc:wood/loom/marblewood"
+		},
+		{
+			item: "tfc:wood/loom/messmate"
+		},
+		{
+			item: "tfc:wood/loom/mountain_ash"
+		},
+		{
+			item: "tfc:wood/loom/purpleheart"
+		},
+		{
+			item: "tfc:wood/loom/rubber_fig"
+		},
+		{
+			item: "tfc:wood/loom/teak"
+		},
+		{
+			item: "tfc:wood/loom/wenge"
+		},
+		{
+			item: "tfc:wood/loom/yellow_meranti"
+		},
+		{
+			item: "tfc:wood/loom/zebrawood"
+		},
+		{
+			item: "tfc:wood/loom/bald_cypress"
+		},
+		{
+			item: "tfc:wood/loom/cypress"
+		},
+		{
+			item: "tfc:wood/loom/hemlock"
+		},
+		{
+			item: "tfc:wood/loom/nordmann_fir"
+		},
+		{
+			item: "tfc:wood/loom/norway_spruce"
+		},
+		{
+			item: "tfc:wood/loom/redwood"
+		},
+		{
+			item: "tfc:wood/loom/joshua_tree"
+		},
+		{
+			item: "tfc:wood/loom/baobab"
+		},
+		{
+			item: "tfc:wood/loom/eucalyptus"
+		},
+		{
+			item: "tfc:wood/loom/hawthorn"
+		},
+		{
+			item: "tfc:wood/loom/maclura"
+		},
+		{
+			item: "tfc:wood/loom/mahogany"
+		},
+		{
+			item: "tfc:wood/loom/white_cherry"
+		},
+		{
+			item: "tfc:wood/loom/sweetgum"
+		},
+		{
+			item: "tfc:wood/loom/larch"
+		},
+		{
+			item: "tfc:wood/loom/alder"
+		},
+		{
+			item: "tfc:wood/loom/beech"
+		},
+		{
+			item: "tfc:wood/loom/black_walnut"
+		},
+		{
+			item: "tfc:wood/loom/butternut"
+		},
+		{
+			item: "tfc:wood/loom/european_oak"
+		},
+		{
+			item: "tfc:wood/loom/ginkgo"
+		},
+		{
+			item: "tfc:wood/loom/hazel"
+		},
+		{
+			item: "tfc:wood/loom/hornbeam"
+		},
+		{
+			item: "tfc:wood/loom/locust"
+		},
+		{
+			item: "tfc:wood/loom/poplar"
+		},
+		{
+			item: "tfc:wood/loom/red_elm"
+		},
+		{
+			item: "tfc:wood/loom/walnut"
+		},
+		{
+			item: "tfc:wood/loom/white_elm"
+		},
+		{
+			item: "tfc:wood/loom/whitebeam"
+		},
+		{
 			item: "tfc:wood/loom/acacia"
 		},
 		{
@@ -67,7 +334,7 @@
 		{
 			item: "tfc:wood/loom/willow"
 		}],
-		consume_items: false,
+		ignore_damage: true,
 		ignore_nbt: 1b
 	}]
 }

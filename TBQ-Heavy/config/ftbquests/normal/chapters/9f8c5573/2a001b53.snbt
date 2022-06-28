@@ -1,0 +1,12 @@
+{
+	x: 16.5d,
+	y: -14.0d,
+	shape: "square",
+	tasks: [{
+		uid: "b23614f8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:soursop_sapling"
+		}]
+	}]
+}

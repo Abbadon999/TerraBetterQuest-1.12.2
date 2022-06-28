@@ -1,0 +1,17 @@
+{
+	x: 24.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "ccedd1d3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:zucchinibakeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

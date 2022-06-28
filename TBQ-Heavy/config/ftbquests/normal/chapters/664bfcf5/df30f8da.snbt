@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: -22.0d,
+	tasks: [{
+		uid: "6c0bb328",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gyudonitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1914000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

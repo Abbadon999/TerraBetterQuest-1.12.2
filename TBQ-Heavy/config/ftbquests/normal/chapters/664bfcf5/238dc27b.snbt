@@ -1,0 +1,17 @@
+{
+	x: -54.79999999999999d,
+	y: -11.799999999999995d,
+	tasks: [{
+		uid: "08b2ec4f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cinnamonsugardonutitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1782000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

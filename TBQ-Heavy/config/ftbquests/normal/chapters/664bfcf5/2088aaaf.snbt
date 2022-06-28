@@ -1,0 +1,17 @@
+{
+	x: -30.900000000000006d,
+	y: -21.0d,
+	tasks: [{
+		uid: "f4926256",
+		type: "item",
+		items: [{
+			id: "harvestcraft:hamandcheesesandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

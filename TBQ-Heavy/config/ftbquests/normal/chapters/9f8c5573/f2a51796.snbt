@@ -1,0 +1,12 @@
+{
+	x: 6.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "7d833435",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bellpepperseeditem"
+		}]
+	}]
+}

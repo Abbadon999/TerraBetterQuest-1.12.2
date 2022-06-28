@@ -1,0 +1,17 @@
+{
+	x: 17.200000000000003d,
+	y: -10.5d,
+	tasks: [{
+		uid: "989de914",
+		type: "item",
+		items: [{
+			id: "harvestcraft:salmononigiriitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1962000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

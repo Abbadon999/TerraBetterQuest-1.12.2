@@ -1,0 +1,17 @@
+{
+	x: 7.199999999999996d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "0b21b338",
+		type: "item",
+		items: [{
+			id: "harvestcraft:musselcookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

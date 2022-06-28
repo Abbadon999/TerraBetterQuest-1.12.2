@@ -1,0 +1,17 @@
+{
+	x: 69.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "86b856c7",
+		type: "item",
+		items: [{
+			id: "harvestcraft:eggsbenedictitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

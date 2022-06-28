@@ -1,0 +1,17 @@
+{
+	x: -22.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "f7e1c505",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mushroomsteakitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

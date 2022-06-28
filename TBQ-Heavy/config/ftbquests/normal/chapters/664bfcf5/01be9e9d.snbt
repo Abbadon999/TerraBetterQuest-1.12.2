@@ -1,0 +1,17 @@
+{
+	x: 16.400000000000002d,
+	y: -9.7d,
+	tasks: [{
+		uid: "5b9176ba",
+		type: "item",
+		items: [{
+			id: "harvestcraft:fishlettucewrapitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1740000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

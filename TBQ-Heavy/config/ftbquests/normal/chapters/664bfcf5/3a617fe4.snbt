@@ -1,0 +1,17 @@
+{
+	x: 20.399999999999984d,
+	y: -10.5d,
+	tasks: [{
+		uid: "e2ab6292",
+		type: "item",
+		items: [{
+			id: "harvestcraft:takoyakiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

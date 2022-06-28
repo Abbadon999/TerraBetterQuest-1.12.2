@@ -1,0 +1,17 @@
+{
+	x: 31.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "cb96dd0f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cantonesegreensitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

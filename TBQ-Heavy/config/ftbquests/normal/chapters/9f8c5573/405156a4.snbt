@@ -1,0 +1,19 @@
+{
+	x: 20.5d,
+	y: -9.2d,
+	shape: "diamond",
+	tasks: [{
+		uid: "e90b3636",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pomegranateitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

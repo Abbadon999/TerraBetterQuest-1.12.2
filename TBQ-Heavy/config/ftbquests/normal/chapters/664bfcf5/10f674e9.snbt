@@ -1,0 +1,17 @@
+{
+	x: -8.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "40dd1abc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pepperoniitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1824000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

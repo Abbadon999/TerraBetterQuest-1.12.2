@@ -1,0 +1,17 @@
+{
+	x: 17.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "6744b751",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cucumbersandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -59.9d,
+	y: -3.3999999999999986d,
+	tasks: [{
+		uid: "57917b85",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cobblestonecobbleritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

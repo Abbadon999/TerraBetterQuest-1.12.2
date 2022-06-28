@@ -26,6 +26,414 @@
 					data: "categoryFruit"
 				}
 			}
+		},
+		{
+			id: "harvestcraft:blackberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1302000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:blueberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1302000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:candleberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1302000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:raspberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1302000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:strawberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1302000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:cactusfruititem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1302000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:cranberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1320000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:kiwiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1320000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:elderberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1326000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:greengrapeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1332000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:huckleberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1332000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:pineappleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1320000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:mulberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1344000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:juniperberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1344000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:dateitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1344000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:papayaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1344000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:cherryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1350000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:figitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1350000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:soursopitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1350000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:dragonfruititem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1350000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:rambutanitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1350000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:jackfruititem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1350000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:passionfruititem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1350000L,
+					traits: []
+				}
+			}
+		},
+		{
+			item: "harvestcraft:pamapple"
+		},
+		{
+			id: "harvestcraft:lemonitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:pearitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:oliveitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:grapefruititem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:pomegranateitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:starfruititem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:bananaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:plumitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:avocadoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:limeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:gooseberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:peachitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:pawpawitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:coconutitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:mangoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1356000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:apricotitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1362000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:orangeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1362000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:lycheeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1362000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:persimmonitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1362000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:guavaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1362000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:breadfruititem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1362000L,
+					traits: []
+				}
+			}
+		},
+		{
+			id: "harvestcraft:durianitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1362000L,
+					traits: []
+				}
+			}
 		}]
 	}]
 }

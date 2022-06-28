@@ -1,0 +1,12 @@
+{
+	x: 53.0d,
+	y: -5.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "5f307315",
+		type: "item",
+		items: [{
+			item: "harvestcraft:persimmon_sapling"
+		}]
+	}]
+}

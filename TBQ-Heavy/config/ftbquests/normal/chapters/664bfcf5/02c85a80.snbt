@@ -1,0 +1,17 @@
+{
+	x: -54.0d,
+	y: -18.1d,
+	tasks: [{
+		uid: "c43e59c4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:maplesyrupwafflesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

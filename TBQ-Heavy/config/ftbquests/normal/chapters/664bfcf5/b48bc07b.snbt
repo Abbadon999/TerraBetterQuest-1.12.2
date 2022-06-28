@@ -1,0 +1,17 @@
+{
+	x: 64.5d,
+	y: 8.5d,
+	tasks: [{
+		uid: "a3301a22",
+		type: "item",
+		items: [{
+			id: "harvestcraft:scrambledeggitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: -9223372036854775808L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

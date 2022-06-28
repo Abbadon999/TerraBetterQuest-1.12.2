@@ -1,0 +1,17 @@
+{
+	x: -54.8d,
+	y: -12.700000000000003d,
+	tasks: [{
+		uid: "bc6fc9e6",
+		type: "item",
+		items: [{
+			id: "harvestcraft:durianmuffinitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

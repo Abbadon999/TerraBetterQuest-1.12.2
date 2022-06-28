@@ -1,0 +1,17 @@
+{
+	x: -8.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "051502e1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sweetandsourchickenitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1848000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

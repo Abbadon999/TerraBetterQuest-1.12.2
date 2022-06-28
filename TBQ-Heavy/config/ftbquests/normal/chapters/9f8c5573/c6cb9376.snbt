@@ -1,0 +1,12 @@
+{
+	x: 33.0d,
+	y: -22.0d,
+	shape: "square",
+	tasks: [{
+		uid: "3eddb40e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:kiwiseeditem"
+		}]
+	}]
+}

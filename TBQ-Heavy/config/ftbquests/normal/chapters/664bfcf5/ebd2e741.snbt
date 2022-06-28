@@ -1,0 +1,17 @@
+{
+	x: -56.2d,
+	y: -16.3d,
+	tasks: [{
+		uid: "23c13a82",
+		type: "item",
+		items: [{
+			id: "harvestcraft:turkishdelightitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

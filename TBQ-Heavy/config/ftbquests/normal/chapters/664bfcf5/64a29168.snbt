@@ -1,0 +1,17 @@
+{
+	x: -13.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "06a63c71",
+		type: "item",
+		items: [{
+			id: "harvestcraft:schnitzelitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

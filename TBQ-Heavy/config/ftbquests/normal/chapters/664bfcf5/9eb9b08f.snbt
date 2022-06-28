@@ -1,0 +1,17 @@
+{
+	x: -33.2d,
+	y: -0.30000000000000715d,
+	tasks: [{
+		uid: "f6815ea4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:grapesodaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

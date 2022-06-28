@@ -1,0 +1,17 @@
+{
+	x: 7.6d,
+	y: -10.5d,
+	tasks: [{
+		uid: "4550e389",
+		type: "item",
+		items: [{
+			id: "harvestcraft:escargotitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1896000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

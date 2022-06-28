@@ -1,0 +1,17 @@
+{
+	x: 27.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "ded05438",
+		type: "item",
+		items: [{
+			id: "harvestcraft:braisedonionsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

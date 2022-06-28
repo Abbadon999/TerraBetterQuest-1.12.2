@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "4f8282f8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:splitpeasoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

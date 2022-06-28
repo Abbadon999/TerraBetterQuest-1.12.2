@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "5ad416e9",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chorusfruitsoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

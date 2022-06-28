@@ -1,0 +1,25 @@
+{
+	x: -67.9d,
+	y: -3.0d,
+	tasks: [{
+		uid: "5bfde737",
+		type: "item",
+		items: [{
+			id: "harvestcraft:applepieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1728000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

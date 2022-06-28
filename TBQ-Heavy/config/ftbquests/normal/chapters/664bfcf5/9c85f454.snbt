@@ -1,0 +1,25 @@
+{
+	x: -71.5d,
+	y: -3.4000000000000057d,
+	tasks: [{
+		uid: "cd1382bc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:blackberrycobbleritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1782000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1782000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

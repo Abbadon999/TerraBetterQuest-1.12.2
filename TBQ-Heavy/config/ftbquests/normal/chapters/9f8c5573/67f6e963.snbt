@@ -1,0 +1,12 @@
+{
+	x: 35.0d,
+	y: -20.5d,
+	shape: "square",
+	tasks: [{
+		uid: "8933e8e1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:papaya_sapling"
+		}]
+	}]
+}

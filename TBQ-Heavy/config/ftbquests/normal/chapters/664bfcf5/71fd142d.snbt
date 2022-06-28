@@ -1,0 +1,25 @@
+{
+	x: -15.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "9edc1bab",
+		type: "item",
+		items: [{
+			id: "harvestcraft:honeylemonlambitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1800000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

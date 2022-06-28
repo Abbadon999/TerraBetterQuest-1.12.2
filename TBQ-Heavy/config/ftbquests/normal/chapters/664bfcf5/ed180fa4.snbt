@@ -1,0 +1,17 @@
+{
+	x: 19.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "739258b8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:fiestacornsaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

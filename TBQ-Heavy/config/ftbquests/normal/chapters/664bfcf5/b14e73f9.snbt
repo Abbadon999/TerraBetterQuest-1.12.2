@@ -1,0 +1,17 @@
+{
+	x: -60.3d,
+	y: -22.0d,
+	tasks: [{
+		uid: "0d205367",
+		type: "item",
+		items: [{
+			id: "harvestcraft:caramelappleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

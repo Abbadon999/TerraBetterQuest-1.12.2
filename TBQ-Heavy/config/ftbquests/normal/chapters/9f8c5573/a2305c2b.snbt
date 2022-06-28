@@ -1,0 +1,19 @@
+{
+	x: -45.5d,
+	y: -6.100000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "54512ccc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:curryleafitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

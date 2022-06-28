@@ -1,0 +1,17 @@
+{
+	x: 76.4d,
+	y: -14.5d,
+	tasks: [{
+		uid: "6f3a0ca2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:watermelonjellyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

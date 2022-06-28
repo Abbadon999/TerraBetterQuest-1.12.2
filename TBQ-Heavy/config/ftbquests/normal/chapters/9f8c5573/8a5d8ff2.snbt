@@ -1,0 +1,19 @@
+{
+	x: -24.499999999999993d,
+	y: -4.100000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "5a2e9159",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cottonitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

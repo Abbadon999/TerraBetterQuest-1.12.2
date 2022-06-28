@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "e190c1ef",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chickennoodlesoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

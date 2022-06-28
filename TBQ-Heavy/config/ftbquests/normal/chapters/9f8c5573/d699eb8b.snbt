@@ -1,0 +1,19 @@
+{
+	x: -33.300000000000004d,
+	y: -5.1d,
+	shape: "diamond",
+	tasks: [{
+		uid: "447da5a4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pistachioitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

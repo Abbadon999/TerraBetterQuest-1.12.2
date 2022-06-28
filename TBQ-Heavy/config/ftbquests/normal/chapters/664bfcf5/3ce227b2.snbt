@@ -1,0 +1,17 @@
+{
+	x: -39.2d,
+	y: 2.099999999999995d,
+	tasks: [{
+		uid: "949997d4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:melonjuiceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

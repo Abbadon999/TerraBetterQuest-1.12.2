@@ -1,0 +1,17 @@
+{
+	x: 29.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "bdb6e439",
+		type: "item",
+		items: [{
+			id: "harvestcraft:greenbeancasseroleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

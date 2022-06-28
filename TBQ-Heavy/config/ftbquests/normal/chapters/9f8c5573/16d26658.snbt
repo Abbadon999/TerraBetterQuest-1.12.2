@@ -1,0 +1,13 @@
+{
+	x: -27.199999999999996d,
+	y: -6.100000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "e13cd974",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}],
+		count: 500L
+	}]
+}

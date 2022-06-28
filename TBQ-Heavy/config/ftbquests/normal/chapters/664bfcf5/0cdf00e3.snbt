@@ -1,0 +1,17 @@
+{
+	x: -14.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "20c2657c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chickenparmasanitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1740000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

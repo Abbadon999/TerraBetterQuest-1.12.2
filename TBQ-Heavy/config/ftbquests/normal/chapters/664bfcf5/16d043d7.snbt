@@ -1,0 +1,17 @@
+{
+	x: -19.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "faea1e0d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:steaktartareitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

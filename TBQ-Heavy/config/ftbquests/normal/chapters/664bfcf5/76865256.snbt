@@ -1,0 +1,17 @@
+{
+	x: 10.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "67289745",
+		type: "item",
+		items: [{
+			id: "harvestcraft:hotandsoursoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1848000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

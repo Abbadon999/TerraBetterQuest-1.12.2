@@ -1,0 +1,17 @@
+{
+	x: 71.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "28b8752a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cinnamontoastitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

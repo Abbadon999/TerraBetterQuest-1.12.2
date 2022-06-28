@@ -1,0 +1,17 @@
+{
+	x: -27.0d,
+	y: -20.0d,
+	tasks: [{
+		uid: "f1601918",
+		type: "item",
+		items: [{
+			id: "harvestcraft:thankfuldinneritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

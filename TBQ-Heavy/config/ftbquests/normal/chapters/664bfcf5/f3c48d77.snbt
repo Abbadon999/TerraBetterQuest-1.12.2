@@ -1,0 +1,17 @@
+{
+	x: -25.5d,
+	y: -20.5d,
+	tasks: [{
+		uid: "965afae2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:groiledcheesesandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1896000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "7dc4ab86",
+		type: "item",
+		items: [{
+			id: "harvestcraft:citrussaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

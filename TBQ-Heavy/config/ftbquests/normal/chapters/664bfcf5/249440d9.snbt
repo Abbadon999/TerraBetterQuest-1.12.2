@@ -1,0 +1,17 @@
+{
+	x: 75.0d,
+	y: 1.3000000000000003d,
+	tasks: [{
+		uid: "0028aa36",
+		type: "item",
+		items: [{
+			id: "harvestcraft:hummusitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

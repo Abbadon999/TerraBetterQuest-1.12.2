@@ -1,0 +1,17 @@
+{
+	x: -47.2d,
+	y: -3.7999999999999994d,
+	tasks: [{
+		uid: "55ffd913",
+		type: "item",
+		items: [{
+			id: "harvestcraft:teaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

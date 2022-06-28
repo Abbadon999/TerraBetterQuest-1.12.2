@@ -13,7 +13,7 @@
 			id: "harvestcraft:honeyitem",
 			ForgeCaps: {
 				"tfc:food": {
-					creationDate: 252000L,
+					creationDate: -9223372036854775808L,
 					traits: []
 				}
 			}

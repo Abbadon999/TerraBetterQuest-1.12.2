@@ -1,0 +1,17 @@
+{
+	x: -57.5d,
+	y: -3.4000000000000057d,
+	tasks: [{
+		uid: "b1417cb6",
+		type: "item",
+		items: [{
+			id: "minecraft:pumpkin_pie",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1716000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

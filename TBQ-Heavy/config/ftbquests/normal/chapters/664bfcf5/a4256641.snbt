@@ -1,0 +1,17 @@
+{
+	x: 24.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "a733a2e2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:creamedcornitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

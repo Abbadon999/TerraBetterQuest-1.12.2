@@ -1,0 +1,17 @@
+{
+	x: -69.9d,
+	y: -12.299999999999997d,
+	tasks: [{
+		uid: "931cb134",
+		type: "item",
+		items: [{
+			id: "harvestcraft:brownieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

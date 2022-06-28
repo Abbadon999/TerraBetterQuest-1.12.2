@@ -1,0 +1,25 @@
+{
+	x: -70.4d,
+	y: -8.199999999999996d,
+	tasks: [{
+		uid: "2c30f5ca",
+		type: "item",
+		items: [{
+			id: "harvestcraft:raisincookiesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1746000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

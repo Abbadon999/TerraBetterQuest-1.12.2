@@ -1,0 +1,17 @@
+{
+	x: -35.7d,
+	y: 5.099999999999994d,
+	tasks: [{
+		uid: "7571f9ff",
+		type: "item",
+		items: [{
+			id: "harvestcraft:coconutsmoothieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1842000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

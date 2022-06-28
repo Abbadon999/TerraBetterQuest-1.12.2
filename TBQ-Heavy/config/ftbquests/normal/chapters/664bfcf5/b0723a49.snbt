@@ -1,0 +1,17 @@
+{
+	x: 23.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "4ee561b1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bakedturnipsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

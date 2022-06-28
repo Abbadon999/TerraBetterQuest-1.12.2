@@ -1,0 +1,17 @@
+{
+	x: -57.3d,
+	y: -15.899999999999999d,
+	tasks: [{
+		uid: "107a4c36",
+		type: "item",
+		items: [{
+			id: "harvestcraft:battenbergitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

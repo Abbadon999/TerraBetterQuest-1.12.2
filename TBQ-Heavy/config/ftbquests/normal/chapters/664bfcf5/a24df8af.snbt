@@ -1,0 +1,17 @@
+{
+	x: 27.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "bb138e04",
+		type: "item",
+		items: [{
+			id: "harvestcraft:ploughmanslunchitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

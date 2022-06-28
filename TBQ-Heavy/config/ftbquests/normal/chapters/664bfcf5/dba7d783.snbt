@@ -1,0 +1,17 @@
+{
+	x: -31.0d,
+	y: -20.0d,
+	tasks: [{
+		uid: "5e018280",
+		type: "item",
+		items: [{
+			id: "harvestcraft:musubiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1962000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

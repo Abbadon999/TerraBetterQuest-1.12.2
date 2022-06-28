@@ -1,0 +1,17 @@
+{
+	x: 8.399999999999997d,
+	y: -10.5d,
+	tasks: [{
+		uid: "741bf7b6",
+		type: "item",
+		items: [{
+			id: "harvestcraft:squidinkspaghettiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

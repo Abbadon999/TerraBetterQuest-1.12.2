@@ -1,0 +1,17 @@
+{
+	x: -39.2d,
+	y: -0.30000000000000715d,
+	tasks: [{
+		uid: "f9816d49",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bubblywateritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

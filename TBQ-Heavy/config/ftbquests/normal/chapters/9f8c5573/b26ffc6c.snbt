@@ -1,0 +1,12 @@
+{
+	x: -27.199999999999996d,
+	y: -6.899999999999999d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "f52b1b2e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:spiderweb_sapling"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 67.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "60285e4b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:manjuuitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

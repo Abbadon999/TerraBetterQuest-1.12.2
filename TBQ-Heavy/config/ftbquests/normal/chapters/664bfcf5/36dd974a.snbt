@@ -1,0 +1,17 @@
+{
+	x: 9.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "39d9be05",
+		type: "item",
+		items: [{
+			id: "harvestcraft:turnipsoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

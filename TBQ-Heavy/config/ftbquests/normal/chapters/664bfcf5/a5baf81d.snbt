@@ -1,0 +1,17 @@
+{
+	x: -70.3d,
+	y: -3.0d,
+	tasks: [{
+		uid: "dddda6bc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:keylimepieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

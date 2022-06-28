@@ -1,0 +1,17 @@
+{
+	x: -34.2d,
+	y: -2.3d,
+	tasks: [{
+		uid: "0ae84e10",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gingersodaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

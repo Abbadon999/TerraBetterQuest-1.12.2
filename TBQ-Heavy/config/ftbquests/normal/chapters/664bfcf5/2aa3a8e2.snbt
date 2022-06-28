@@ -1,0 +1,17 @@
+{
+	x: 73.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "75984d61",
+		type: "item",
+		items: [{
+			id: "harvestcraft:frenchtoastitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1776000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

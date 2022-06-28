@@ -1,0 +1,17 @@
+{
+	x: -68.8d,
+	y: -8.200000000000003d,
+	tasks: [{
+		uid: "82837cff",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chocovoxelsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

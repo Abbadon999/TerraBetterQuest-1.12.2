@@ -1,0 +1,21 @@
+{
+	x: 46.800000000000004d,
+	y: -0.29999999999999893d,
+	tasks: [{
+		uid: "47cb0da2",
+		type: "item",
+		items: [{
+			id: "tfcflorae:food/roasted/porcini",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

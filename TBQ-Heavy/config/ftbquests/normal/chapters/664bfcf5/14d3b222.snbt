@@ -1,0 +1,17 @@
+{
+	x: 9.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "cf89b161",
+		type: "item",
+		items: [{
+			id: "harvestcraft:summerradishsaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

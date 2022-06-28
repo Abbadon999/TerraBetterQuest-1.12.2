@@ -1,0 +1,17 @@
+{
+	x: 9.599999999999998d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "13f20f31",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cheesyshrimpquinoaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

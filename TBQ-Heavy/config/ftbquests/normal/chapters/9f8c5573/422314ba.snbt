@@ -1,0 +1,12 @@
+{
+	x: 21.0d,
+	y: -23.5d,
+	shape: "square",
+	tasks: [{
+		uid: "c201b1d6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tamarind_sapling"
+		}]
+	}]
+}

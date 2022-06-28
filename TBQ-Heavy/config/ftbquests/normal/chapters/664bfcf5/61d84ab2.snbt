@@ -1,0 +1,17 @@
+{
+	x: 74.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "a65c293e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:potatosaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

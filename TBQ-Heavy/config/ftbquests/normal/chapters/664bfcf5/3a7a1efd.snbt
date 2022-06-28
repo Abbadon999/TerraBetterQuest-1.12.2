@@ -1,0 +1,17 @@
+{
+	x: 19.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "214e38a0",
+		type: "item",
+		items: [{
+			id: "harvestcraft:broccolindipitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

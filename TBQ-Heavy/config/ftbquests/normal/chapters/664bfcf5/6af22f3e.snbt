@@ -1,0 +1,17 @@
+{
+	x: 69.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "9de54c6b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:deviledeggitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

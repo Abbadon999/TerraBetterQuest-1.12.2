@@ -1,0 +1,12 @@
+{
+	x: -44.5d,
+	y: -4.899999999999999d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "8a82b231",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gingerseeditem"
+		}]
+	}]
+}

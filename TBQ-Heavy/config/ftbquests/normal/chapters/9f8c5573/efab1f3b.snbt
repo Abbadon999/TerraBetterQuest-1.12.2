@@ -1,0 +1,18 @@
+{
+	x: -38.89999999999999d,
+	y: -5.0d,
+	shape: "square",
+	tasks: [{
+		uid: "04294d24",
+		type: "item",
+		items: [{
+			id: "tfc:plants/death_cap",
+			ForgeCaps: {
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

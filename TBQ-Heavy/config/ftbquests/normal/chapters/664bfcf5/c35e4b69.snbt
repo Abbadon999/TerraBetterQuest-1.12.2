@@ -1,0 +1,17 @@
+{
+	x: 17.200000000000017d,
+	y: -9.7d,
+	tasks: [{
+		uid: "c8e74291",
+		type: "item",
+		items: [{
+			id: "harvestcraft:calamaricookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

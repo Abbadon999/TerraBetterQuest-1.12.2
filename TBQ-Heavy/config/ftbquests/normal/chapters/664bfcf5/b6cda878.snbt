@@ -1,0 +1,17 @@
+{
+	x: -35.2d,
+	y: -2.3d,
+	tasks: [{
+		uid: "4869ffa7",
+		type: "item",
+		items: [{
+			id: "harvestcraft:applecideritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

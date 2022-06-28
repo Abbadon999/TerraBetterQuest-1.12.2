@@ -1,0 +1,17 @@
+{
+	x: 24.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "1be91ebd",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cornchipsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

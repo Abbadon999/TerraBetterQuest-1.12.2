@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "632f36bf",
+		type: "item",
+		items: [{
+			id: "harvestcraft:springsaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1740000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

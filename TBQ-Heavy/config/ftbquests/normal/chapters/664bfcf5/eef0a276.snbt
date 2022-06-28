@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "ec630d28",
+		type: "item",
+		items: [{
+			id: "harvestcraft:meatystewitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -54.0d,
+	y: -18.9d,
+	tasks: [{
+		uid: "787e3a60",
+		type: "item",
+		items: [{
+			id: "harvestcraft:wafflesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1776000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

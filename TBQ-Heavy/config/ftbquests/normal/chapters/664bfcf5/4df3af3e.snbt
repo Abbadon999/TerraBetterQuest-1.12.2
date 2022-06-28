@@ -1,0 +1,17 @@
+{
+	x: 8.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "7b023968",
+		type: "item",
+		items: [{
+			id: "harvestcraft:beetsaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

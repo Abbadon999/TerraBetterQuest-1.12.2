@@ -1,0 +1,17 @@
+{
+	x: 13.199999999999992d,
+	y: -9.7d,
+	tasks: [{
+		uid: "2c08a430",
+		type: "item",
+		items: [{
+			id: "harvestcraft:fishsticksitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

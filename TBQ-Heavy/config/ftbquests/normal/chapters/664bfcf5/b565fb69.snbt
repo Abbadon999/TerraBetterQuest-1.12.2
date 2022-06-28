@@ -1,0 +1,25 @@
+{
+	x: -54.0d,
+	y: -17.299999999999997d,
+	tasks: [{
+		uid: "31dac2d8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:fruitcrumbleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1764000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

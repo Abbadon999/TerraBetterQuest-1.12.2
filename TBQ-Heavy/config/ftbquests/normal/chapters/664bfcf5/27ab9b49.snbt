@@ -1,0 +1,17 @@
+{
+	x: -29.0d,
+	y: -20.0d,
+	tasks: [{
+		uid: "f949e6ff",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chilidogitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

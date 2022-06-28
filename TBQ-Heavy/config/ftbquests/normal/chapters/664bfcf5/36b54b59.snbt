@@ -1,0 +1,17 @@
+{
+	x: 69.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "40fad8ea",
+		type: "item",
+		items: [{
+			id: "harvestcraft:boiledeggitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: -9223372036854775808L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

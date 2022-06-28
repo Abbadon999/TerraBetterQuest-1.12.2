@@ -1,0 +1,17 @@
+{
+	x: -74.3d,
+	y: -10.899999999999999d,
+	tasks: [{
+		uid: "15360398",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gummybearsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

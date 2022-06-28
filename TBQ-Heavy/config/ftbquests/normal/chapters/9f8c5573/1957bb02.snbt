@@ -1,0 +1,18 @@
+{
+	x: -36.9d,
+	y: -4.100000000000001d,
+	shape: "square",
+	tasks: [{
+		uid: "0f586271",
+		type: "item",
+		items: [{
+			id: "tfc:plants/parasol_mushroom",
+			ForgeCaps: {
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

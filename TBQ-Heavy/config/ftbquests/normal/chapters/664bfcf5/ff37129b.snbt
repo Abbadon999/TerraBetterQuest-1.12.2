@@ -1,0 +1,17 @@
+{
+	x: -61.599999999999994d,
+	y: -8.200000000000003d,
+	tasks: [{
+		uid: "138cbd3c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:buttercookieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

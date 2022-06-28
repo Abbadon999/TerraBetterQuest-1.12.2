@@ -1,0 +1,17 @@
+{
+	x: 23.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "ca401264",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pickledonionsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1824000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

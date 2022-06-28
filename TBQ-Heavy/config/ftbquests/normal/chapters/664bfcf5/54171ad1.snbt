@@ -1,0 +1,17 @@
+{
+	x: -71.1d,
+	y: -7.299999999999997d,
+	tasks: [{
+		uid: "bed4769b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:blueberrypancakesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

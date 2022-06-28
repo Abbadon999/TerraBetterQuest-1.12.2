@@ -1,0 +1,17 @@
+{
+	x: 72.0d,
+	y: -13.5d,
+	tasks: [{
+		uid: "14ae72b2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:hushpuppiesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1836000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

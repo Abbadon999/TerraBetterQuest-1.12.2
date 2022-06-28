@@ -1,0 +1,18 @@
+{
+	x: 9.0d,
+	y: 6.5d,
+	shape: "hexagon",
+	description: "{tbq.quests.primitive.halter.subtitle}",
+	dependencies: [
+		"2816fe72",
+		"3bcc6936"
+	],
+	hide: true,
+	tasks: [{
+		uid: "eed19db6",
+		type: "item",
+		items: [{
+			item: "tfc:halter"
+		}]
+	}]
+}

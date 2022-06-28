@@ -1,0 +1,20 @@
+{
+	x: -17.5d,
+	y: -3.8999999999999986d,
+	shape: "diamond",
+	size: 1.1d,
+	tasks: [{
+		uid: "57cfb67b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:amaranthitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

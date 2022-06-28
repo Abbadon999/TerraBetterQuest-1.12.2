@@ -1,0 +1,17 @@
+{
+	x: 6.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "c8f1af1c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cassouletitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1962000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

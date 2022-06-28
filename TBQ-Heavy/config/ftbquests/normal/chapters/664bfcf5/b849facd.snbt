@@ -1,0 +1,17 @@
+{
+	x: 54.5d,
+	y: -13.399999999999999d,
+	tasks: [{
+		uid: "391cbb91",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cinnamonappleoatmealitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

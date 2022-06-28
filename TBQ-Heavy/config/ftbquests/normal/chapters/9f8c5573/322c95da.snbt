@@ -1,0 +1,27 @@
+{
+	x: -37.00000000000001d,
+	y: -7.0d,
+	shape: "square",
+	tasks: [{
+		uid: "2668b7b3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:whitemushroomitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1602000L,
+						traits: []
+					}
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

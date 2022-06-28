@@ -1,0 +1,17 @@
+{
+	x: -25.5d,
+	y: -19.5d,
+	tasks: [{
+		uid: "17e5a9fb",
+		type: "item",
+		items: [{
+			id: "harvestcraft:gourmetvenisonburgeritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1896000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

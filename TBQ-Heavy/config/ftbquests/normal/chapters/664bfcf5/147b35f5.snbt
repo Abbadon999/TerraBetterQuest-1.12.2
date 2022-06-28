@@ -1,0 +1,17 @@
+{
+	x: -23.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "a4c822fb",
+		type: "item",
+		items: [{
+			id: "harvestcraft:beefjerkyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

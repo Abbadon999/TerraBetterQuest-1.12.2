@@ -1,0 +1,25 @@
+{
+	x: -58.7d,
+	y: -3.0d,
+	tasks: [{
+		uid: "230ed0e8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mincepieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1824000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1824000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

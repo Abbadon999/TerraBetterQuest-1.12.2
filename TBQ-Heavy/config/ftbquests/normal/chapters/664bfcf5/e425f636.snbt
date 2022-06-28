@@ -1,0 +1,17 @@
+{
+	x: 70.0d,
+	y: 1.3000000000000003d,
+	tasks: [{
+		uid: "5d2f729b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:potatochipsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

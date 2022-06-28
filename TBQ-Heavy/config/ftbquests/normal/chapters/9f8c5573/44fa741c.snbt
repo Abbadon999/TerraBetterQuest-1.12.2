@@ -1,0 +1,12 @@
+{
+	x: 42.7d,
+	y: -5.299999999999999d,
+	shape: "octagon",
+	tasks: [{
+		uid: "41c6fcd9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:greengrapeseeditem"
+		}]
+	}]
+}

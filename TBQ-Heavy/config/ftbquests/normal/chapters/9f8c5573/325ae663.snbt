@@ -1,0 +1,12 @@
+{
+	x: 29.0d,
+	y: -8.5d,
+	shape: "square",
+	tasks: [{
+		uid: "d55cf919",
+		type: "item",
+		items: [{
+			item: "harvestcraft:lychee_sapling"
+		}]
+	}]
+}

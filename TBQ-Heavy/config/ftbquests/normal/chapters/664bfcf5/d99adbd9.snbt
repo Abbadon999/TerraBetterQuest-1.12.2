@@ -1,0 +1,17 @@
+{
+	x: -58.1d,
+	y: -15.899999999999999d,
+	tasks: [{
+		uid: "b8551aa5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chocolatecoconutbaritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1914000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

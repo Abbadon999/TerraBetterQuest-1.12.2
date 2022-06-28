@@ -1,0 +1,12 @@
+{
+	x: 51.7d,
+	y: -6.799999999999999d,
+	shape: "octagon",
+	tasks: [{
+		uid: "212e2200",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cranberryseeditem"
+		}]
+	}]
+}

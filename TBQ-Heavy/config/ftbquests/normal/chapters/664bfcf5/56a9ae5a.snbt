@@ -1,0 +1,17 @@
+{
+	x: -70.9d,
+	y: -11.800000000000004d,
+	tasks: [{
+		uid: "78c406c2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:raspberrytrifleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1824000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -33.699999999999974d,
+	y: -0.8000000000000054d,
+	tasks: [{
+		uid: "25b72f92",
+		type: "item",
+		items: [{
+			id: "harvestcraft:fruitpunchitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

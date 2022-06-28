@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "fec7daad",
+		type: "item",
+		items: [{
+			id: "harvestcraft:grapesaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1746000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

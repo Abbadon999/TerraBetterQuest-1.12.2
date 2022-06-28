@@ -1,0 +1,17 @@
+{
+	x: -22.0d,
+	y: -23.0d,
+	tasks: [{
+		uid: "3b8c370c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:blackpaellaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

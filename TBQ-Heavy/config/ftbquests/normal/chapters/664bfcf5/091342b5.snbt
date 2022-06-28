@@ -1,0 +1,17 @@
+{
+	x: -30.0d,
+	y: -23.0d,
+	tasks: [{
+		uid: "3b4fcb70",
+		type: "item",
+		items: [{
+			id: "harvestcraft:baconcheeseburgeritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

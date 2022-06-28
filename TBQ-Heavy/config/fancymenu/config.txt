@@ -24,22 +24,7 @@ B:showcustomizationbuttons = 'false';
 ##[mainmenu]
 
 S:copyrightposition = 'bottom-left';
-B:hidebranding = 'true';
 S:copyrightcolor = '#f5e5c0';
-B:hidelogo = 'true';
-B:hiderealmsnotifications = 'false';
-B:hideforgenotifications = 'true';
-
-
-##[mainmenu_splash]
-
-S:splashcolor = '#ffff00';
-I:splashrotation = '-20';
-I:splashy = '0';
-I:splashx = '0';
-B:hidesplashtext = 'true';
-S:splashtextfile = '';
-S:splashorientation = 'original';
 
 
 ##[loading]

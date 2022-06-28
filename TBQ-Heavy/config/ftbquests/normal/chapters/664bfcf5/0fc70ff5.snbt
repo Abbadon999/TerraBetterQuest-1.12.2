@@ -1,0 +1,17 @@
+{
+	x: -59.7d,
+	y: -15.399999999999999d,
+	tasks: [{
+		uid: "862612e8",
+		type: "item",
+		items: [{
+			id: "harvestcraft:patreonpieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

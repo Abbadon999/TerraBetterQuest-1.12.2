@@ -1,0 +1,11 @@
+{
+	x: -59.6d,
+	y: -10.0d,
+	tasks: [{
+		uid: "08826220",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pavlovacake"
+		}]
+	}]
+}

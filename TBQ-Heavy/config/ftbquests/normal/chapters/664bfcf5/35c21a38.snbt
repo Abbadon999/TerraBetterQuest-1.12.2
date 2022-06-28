@@ -1,0 +1,17 @@
+{
+	x: -16.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "04f4c253",
+		type: "item",
+		items: [{
+			id: "harvestcraft:friedchickenitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1776000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

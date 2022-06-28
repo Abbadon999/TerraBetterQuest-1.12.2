@@ -28,7 +28,11 @@ tbq.quests.primitive.start.tasks.clickMe=&aPoke here!
 
 tbq.quests.primitive.fruitsAndBerries.title=Fruits, berries
 tbq.quests.primitive.fruitsAndBerries.subtitle=&cWhere's my lemon vodka? Developers, get busy!
-tbq.quests.primitive.fruitsAndBerries.subtitle.attachment=ФFruits, berries
+tbq.quests.primitive.fruitsAndBerries.subtitle.attachment=Fruits, berries
+
+tbq.quests.primitive.feedgrain.title=Fourrage
+tbq.quests.primitive.feedgrain.subtitle=&cFourrage/feed is intended to be fed to a variety of livestock.
+tbq.quests.primitive.feedgrain.subtitle.attachment=Fourrage
 
 tbq.quests.primitive.pebbles.title=Stones on the ground
 tbq.quests.primitive.pebbles.subtitle=&cFind sticks and stones lying on the ground.
@@ -125,6 +129,29 @@ tbq.quests.primitive.jute.attachment=Not cannabis
 tbq.quests.primitive.povodok.title=Lead
 tbq.quests.primitive.povodok.subtitle=ツ
 
+tbq.quests.primitive.animalhusbandry.title=Cattle breeding
+tbq.quests.primitive.animalhusbandry.subtitle=&cWild animals don't trust you and won't let you do much... So you will need to establish a relationship if you want to get that precious wool/milk/transport.
+tbq.quests.primitive.animalhusbandry.attachment1=First Contact [Chicken]
+tbq.quests.primitive.animalhusbandry.attachment2=First Contact [Duck]
+tbq.quests.primitive.animalhusbandry.attachment3=First Contact [Pig]
+tbq.quests.primitive.animalhusbandry.attachment4=First Contact [Grouse]
+tbq.quests.primitive.animalhusbandry.attachment5=First Contact [Quail]
+tbq.quests.primitive.animalhusbandry.attachment6=First Contact [Yak]
+tbq.quests.primitive.animalhusbandry.attachment7=First Contact [Muskox]
+tbq.quests.primitive.animalhusbandry.attachment8=First Contact [Zebu]
+tbq.quests.primitive.animalhusbandry.attachment9=First Contact [Donkey]
+tbq.quests.primitive.animalhusbandry.attachment10=First Contact [Horse]
+tbq.quests.primitive.animalhusbandry.attachment11=First Contact [Llama]
+tbq.quests.primitive.animalhusbandry.attachment12=First Contact [Camel]
+tbq.quests.primitive.animalhusbandry.attachment13=First Contact [Goat]
+tbq.quests.primitive.animalhusbandry.attachment14=First Contact [Cow]
+tbq.quests.primitive.animalhusbandry.attachment15=First Contact [Sheep]
+tbq.quests.primitive.animalhusbandry.attachment16=First Contact [Alpaca]
+
+tbq.quests.primitive.sourdough.title=Mmm... Glazed cheese...
+tbq.quests.primitive.sourdough.subtitle=&cAfter obtaining milk and creating gauze from silk fabric - pour milk into a barrel (preferably more) and put in it rennet (falls out of animals), then wait 4 hours, take the gauze in your main hand and RMB on the open barrel. So you get soaked gauze in soured milk, then you just need to press RMB on any plane and get the coveted curd!
+tbq.quests.primitive.sourdough.attachment=Sourdough
+
 tbq.quests.primitive.cheese.title=Cheese
 tbq.quests.primitive.cheese.subtitle=&cNow you don't have to go to the moon either. Everybody knows there's cheese on the moon, right? No... ah.
 tbq.quests.primitive.cheese.attachment=Cheeses
@@ -150,6 +177,24 @@ tbq.quests.primitive.bear.subtitle=&cKill the bear.
 
 tbq.quests.primitive.muchNeededStraw.title=Straw
 tbq.quests.primitive.muchNeededStraw.subtitle=&cTake a knife in your hand and mow the grass in the area.
+
+tbq.quests.primitive.cellar.title=Cellar
+tbq.quests.primitive.cellar.subtitle1=&cTo use the cellar to extend the shelf life of food - fill the ice bunker with ice and snow to lower the temperature inside the cellar and slow food deterioration.
+tbq.quests.primitive.cellar.subtitle2=&cThe volume of the cellar and the ambient temperature affects the rate of cooling material consumption. The hotter it is outside, the faster the consumption of cooling material(Ice and Snow).
+tbq.quests.primitive.cellar.subtitle3= 
+tbq.quests.primitive.cellar.subtitle4=&c*** How to build:
+tbq.quests.primitive.cellar.subtitle5=&e* It's a 4 block high structure.
+tbq.quests.primitive.cellar.subtitle6=&c*** To build it you need:
+tbq.quests.primitive.cellar.subtitle7=&e* Cellar walls
+tbq.quests.primitive.cellar.subtitle8=&e* 1 Ice bunker
+tbq.quests.primitive.cellar.subtitle9=&e* 2 Cellar door
+tbq.quests.primitive.cellar.subtitle10=&e* Cellar shelf
+tbq.quests.primitive.cellar.subtitle11= 
+tbq.quests.primitive.cellar.subtitle12=§c[!]&6 Max. internal size: 7x2x7 blocks.
+tbq.quests.primitive.cellar.subtitle13=§c[!]&6 The cellar should have two doors and both should be closed for proper temperature. Make sure the doors are closed.
+tbq.quests.primitive.cellar.subtitle14=§c[!]&6 Try to build a cellar in a one chunk.
+tbq.quests.primitive.cellar.subtitle15=§c[!]&6 In order to saw blocks of ice you need to make an ice saw.
+tbq.quests.primitive.cellar.subtitle16=§c[!]&6 Only cellar shelves, sign and TFC Barrels can stand inside the cellar, anything else will disrupt the cellar structure.(In TFC Barrels, rotting and aging occurs at normal rate anyway, aging retardation only works for shelves)
 
 tbq.quests.primitive.greenpeace.title=Greenpeace is already on its way for you..
 tbq.quests.primitive.greenpeace.subtitle=&cChop logs, my children! We're going to need a lot of them.
@@ -185,6 +230,12 @@ tbq.quests.primitive.jug.subtitle=&cNow by clicking on a drinkable liquid, such 
 tbq.quests.primitive.vessel.title=A little more than just a cup
 tbq.quests.primitive.vessel.subtitle=&cThis is a vessel in which you will burn and melt metals, as well as store various food, so it is a very useful object, I suggest you fired it. The built-in force field prevents any liquids other than molten metals, as well as all sorts of goodies, in the form of food, from getting in.
 
+tbq.quests.primitive.oven.subtitle1=&cThink of it bread factory open.
+
+tbq.quests.primitive.oven.subtitle2=&cI wonder if you can make pizza in this?
+
+tbq.quests.primitive.oven.subtitle3=&cThose, the sweetest buns...
+
 tbq.quests.primitive.theHammer.title=Rock Hammer
 tbq.quests.primitive.theHammer.subtitle=&cIt looks aesthetically pleasing, look how gray it is, but seriously, you need it to create a stone anvil.
 
@@ -202,10 +253,6 @@ tbq.quests.primitive.fruittrees.attachment=Fruit trees
 tbq.quests.primitive.berrybushes.title=Berry bushes
 tbq.quests.primitive.berrybushes.subtitle=&cBerry bushes can be found all over the world. There is no tool or trick to pick them, but to grow the fruit of the bush, berry bushes must be planted on grass. Any berry bush will do the job.
 tbq.quests.primitive.berrybushes.attachment=Berry bushes
-
-tbq.quests.primitive.animalhusbandry.title=Cattle breeding
-tbq.quests.primitive.animalhusbandry.subtitle=&cWild animals don't trust you and won't let you do much... So you will need to establish a relationship if you want to get that precious wool/milk/transport.
-tbq.quests.primitive.animalhusbandry.attachment=Feed
 
 tbq.quests.primitive.rockanvil.title=Your first anvil, really a stone one
 tbq.quests.primitive.rockanvil.subtitle=&cTake a rock hammer(or any other) in your hands and hit it (Right-Click) on the stone specified in the quest.
@@ -232,6 +279,11 @@ tbq.quests.primitive.pineappleleather.subtitle=&cAnother interesting type of pla
 tbq.quests.primitive.burlap.title=I AM A RAG
 tbq.quests.primitive.burlap.subtitle=&cThe most useful item in the game. Don't let the crafting menu fool you and put all the jute into it.
 
+tbq.quests.primitive.saddle.title=Seat
+tbq.quests.primitive.saddle.subtitle=&cThis device is used to control tame mobs. Just don't put it on a pig!
+
+tbq.quests.primitive.halter.subtitle=&cAlso for controlling mobs, or more precisely for directing them, or in extreme cases - for role-playing ツ
+
 tbq.quests.primitive.leather.title=Leather
 tbq.quests.primitive.leather.subtitle=&cCraft the leather.
 
@@ -243,11 +295,11 @@ tbq.quests.primitive.littlebee.subtitle=&cCould potentially increase your hive.
 tbq.quests.primitive.littlebee.attachment=Average statistical Minecraft player
 
 tbq.quests.primitive.leatherarmor.title=Leather panties
-tbq.quests.primitive.leatherarmor.subtitle=&cEntry-level armor.
+tbq.quests.primitive.leatherarmor.subtitle=&cSecond-level armor.
 tbq.quests.primitive.leatherarmor.attachment=Gachimuchi
 
 tbq.quests.primitive.bee.title=Be a bee!!!
-tbq.quests.primitive.bee.subtitle=&cTo get delicious honey, we need the Queenツ of bees, you can get her by breaking a wild hive(Be careful, there are beehives with bees in the world that are likely to kill you if you don't dive under the water in time.). Stick her royal ass in the apiary and let her produce honey for you.
+tbq.quests.primitive.bee.subtitle=&cTo get delicious honey, we need the Queenツ of bees, you can get her by breaking a wild hive(Be careful, there are beehives with bees in the world that are likely to kill you if you don't dive under the water in time). Stick her royal ass in the apiary and let her produce honey for you.
 
 tbq.quests.primitive.meshokmochi.title=Ball. For Quidditch.
 tbq.quests.primitive.meshokmochi.subtitle=&cWho drops the bladders? Good question.
@@ -328,6 +380,16 @@ tbq.quests.primitive.greenhouseblocks.subtitle=&cYou will need these blocks + th
 tbq.quests.primitive.sugarcane.subtitle=&cGather reeds, you'll need them to build a paper mill!
 
 tbq.quests.primitive.paper.subtitle=&cMake a paper, you'll need it...
+
+##################################################################################################################################
+##################################################################################################################################
+
+tbq.quests.gardening.era.title=&2Gardening
+
+##################################################################################################################################
+##################################################################################################################################
+
+tbq.quests.thefeastoftheworld.era.title=&4The Feast of the World
 
 ##################################################################################################################################
 ##################################################################################################################################

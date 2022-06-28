@@ -1,0 +1,17 @@
+{
+	x: -26.0d,
+	y: -21.0d,
+	tasks: [{
+		uid: "1e0d72ae",
+		type: "item",
+		items: [{
+			id: "harvestcraft:leafychickensandwichitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1740000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

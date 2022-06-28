@@ -1,0 +1,18 @@
+{
+	x: -36.00000000000001d,
+	y: -5.0000000000000036d,
+	shape: "square",
+	tasks: [{
+		uid: "e02f597d",
+		type: "item",
+		items: [{
+			id: "tfc:plants/stinkhorn",
+			ForgeCaps: {
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f
+				}
+			}
+		}]
+	}]
+}

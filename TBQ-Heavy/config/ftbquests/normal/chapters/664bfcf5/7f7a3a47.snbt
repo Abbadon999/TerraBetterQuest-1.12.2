@@ -1,0 +1,17 @@
+{
+	x: -24.5d,
+	y: -20.5d,
+	tasks: [{
+		uid: "77b2ed8d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sausagebeanmeltitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1884000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

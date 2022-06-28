@@ -1,0 +1,19 @@
+{
+	x: 53.5d,
+	y: -4.5d,
+	shape: "diamond",
+	tasks: [{
+		uid: "837615d0",
+		type: "item",
+		items: [{
+			id: "harvestcraft:persimmonitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

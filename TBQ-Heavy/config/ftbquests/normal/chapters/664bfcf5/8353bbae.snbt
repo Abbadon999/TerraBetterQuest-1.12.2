@@ -1,0 +1,17 @@
+{
+	x: -31.0d,
+	y: -22.0d,
+	tasks: [{
+		uid: "3973e613",
+		type: "item",
+		items: [{
+			id: "harvestcraft:toadintheholeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1848000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

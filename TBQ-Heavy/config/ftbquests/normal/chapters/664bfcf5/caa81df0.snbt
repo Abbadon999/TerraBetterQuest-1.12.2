@@ -1,0 +1,17 @@
+{
+	x: 26.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "d7aca82e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sunflowerbroccolisaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1782000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

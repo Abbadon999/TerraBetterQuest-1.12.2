@@ -1,0 +1,12 @@
+{
+	x: -32.40000000000001d,
+	y: -5.9d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "14b8f141",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pecan_sapling"
+		}]
+	}]
+}

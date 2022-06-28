@@ -1,0 +1,17 @@
+{
+	x: -65.4d,
+	y: -13.700000000000003d,
+	tasks: [{
+		uid: "4339dd9b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:nutellaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

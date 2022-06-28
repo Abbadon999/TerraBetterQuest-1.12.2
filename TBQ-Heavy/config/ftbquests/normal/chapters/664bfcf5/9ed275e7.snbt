@@ -1,0 +1,17 @@
+{
+	x: -11.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "4075066b",
+		type: "item",
+		items: [{
+			id: "harvestcraft:teriyakichickenitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

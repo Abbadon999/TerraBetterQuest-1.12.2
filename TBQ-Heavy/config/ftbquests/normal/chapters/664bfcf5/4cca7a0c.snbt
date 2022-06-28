@@ -1,0 +1,17 @@
+{
+	x: -34.2d,
+	y: -0.30000000000000715d,
+	tasks: [{
+		uid: "97d2d38a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cherrysodaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,6 +1,6 @@
 {
-	x: 9.0d,
-	y: 5.399999999999999d,
+	x: 18.5d,
+	y: 2.5d,
 	shape: "diamond",
 	description: "{tbq.quests.primitive.sugarcane.subtitle}",
 	hide_dependency_lines: true,

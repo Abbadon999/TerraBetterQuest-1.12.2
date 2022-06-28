@@ -1,0 +1,17 @@
+{
+	x: -33.7d,
+	y: 4.099999999999995d,
+	tasks: [{
+		uid: "8bac3731",
+		type: "item",
+		items: [{
+			id: "harvestcraft:limesmoothieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

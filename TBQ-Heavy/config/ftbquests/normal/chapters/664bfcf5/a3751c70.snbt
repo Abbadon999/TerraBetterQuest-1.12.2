@@ -1,0 +1,17 @@
+{
+	x: -72.7d,
+	y: -7.299999999999997d,
+	tasks: [{
+		uid: "df191c97",
+		type: "item",
+		items: [{
+			id: "harvestcraft:maplesyruppancakesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

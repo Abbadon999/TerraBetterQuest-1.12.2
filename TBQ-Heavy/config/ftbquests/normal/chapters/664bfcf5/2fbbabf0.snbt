@@ -1,0 +1,25 @@
+{
+	x: 74.0d,
+	y: 2.7d,
+	tasks: [{
+		uid: "c88482a5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bakedsweetpotatoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1722000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

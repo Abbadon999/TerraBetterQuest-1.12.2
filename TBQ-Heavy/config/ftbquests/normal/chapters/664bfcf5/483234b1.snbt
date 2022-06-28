@@ -1,0 +1,17 @@
+{
+	x: -13.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "76417861",
+		type: "item",
+		items: [{
+			id: "harvestcraft:porklettucewrapitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1740000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

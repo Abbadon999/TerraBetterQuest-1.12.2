@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "8bda0fb2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:beetseeditem"
+		}]
+	}]
+}

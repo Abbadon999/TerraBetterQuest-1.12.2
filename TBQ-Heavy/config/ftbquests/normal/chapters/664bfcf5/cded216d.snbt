@@ -1,0 +1,17 @@
+{
+	x: 22.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "147d620d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:friedonionsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

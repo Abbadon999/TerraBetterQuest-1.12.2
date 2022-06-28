@@ -1,0 +1,17 @@
+{
+	x: 72.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "01da399d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:scallionbakedpotatoitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

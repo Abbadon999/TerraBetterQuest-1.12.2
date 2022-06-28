@@ -1,0 +1,17 @@
+{
+	x: 18.399999999999984d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "b65c3ade",
+		type: "item",
+		items: [{
+			id: "harvestcraft:turtlecookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

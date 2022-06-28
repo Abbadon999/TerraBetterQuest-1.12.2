@@ -1,0 +1,11 @@
+{
+	x: -70.80000000000001d,
+	y: -6.5d,
+	tasks: [{
+		uid: "b8cb5a8b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:lamingtonitem"
+		}]
+	}]
+}

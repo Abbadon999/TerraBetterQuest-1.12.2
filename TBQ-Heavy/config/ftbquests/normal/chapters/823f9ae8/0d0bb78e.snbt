@@ -1,11 +1,11 @@
 {
 	title: "{tbq.quests.primitive.cheese.title}",
-	x: 4.0d,
+	x: 3.0d,
 	y: 4.0d,
 	shape: "diamond",
 	description: "{tbq.quests.primitive.cheese.subtitle}",
 	dependencies: [
-		"ffb7544a"
+		"9bd19a40"
 	],
 	hide: true,
 	tasks: [{
@@ -29,15 +29,6 @@
 		},
 		{
 			item: "firmalife:shosha_wheel"
-		},
-		{
-			id: "tfc:food/cheese",
-			ForgeCaps: {
-				"tfc:food": {
-					creationDate: 1872000L,
-					traits: []
-				}
-			}
 		}]
 	}]
 }

@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "df78584a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:oldworldveggiesoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

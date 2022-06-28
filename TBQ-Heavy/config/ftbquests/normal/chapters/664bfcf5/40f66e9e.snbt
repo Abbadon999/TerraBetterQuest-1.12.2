@@ -1,0 +1,25 @@
+{
+	x: -57.9d,
+	y: -3.0d,
+	tasks: [{
+		uid: "b524bba7",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chickenpotpieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1734000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1734000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

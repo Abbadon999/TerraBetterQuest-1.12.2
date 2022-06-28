@@ -1,0 +1,12 @@
+{
+	x: -37.89999999999999d,
+	y: -7.0d,
+	shape: "square",
+	tasks: [{
+		uid: "1fa0b93a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:whitemushroomseeditem"
+		}]
+	}]
+}

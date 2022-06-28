@@ -1,0 +1,17 @@
+{
+	x: -10.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "b45da336",
+		type: "item",
+		items: [{
+			id: "harvestcraft:orangechickenitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

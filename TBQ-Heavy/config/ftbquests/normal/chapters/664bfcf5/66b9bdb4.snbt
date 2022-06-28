@@ -1,0 +1,17 @@
+{
+	x: 19.599999999999994d,
+	y: -10.5d,
+	tasks: [{
+		uid: "2b4dda0e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:oystercookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1890000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

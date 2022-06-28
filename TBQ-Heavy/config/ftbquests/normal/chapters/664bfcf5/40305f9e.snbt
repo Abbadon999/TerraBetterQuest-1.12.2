@@ -1,0 +1,17 @@
+{
+	x: 22.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "18fcb4bb",
+		type: "item",
+		items: [{
+			id: "harvestcraft:roastedrootveggiemedleyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

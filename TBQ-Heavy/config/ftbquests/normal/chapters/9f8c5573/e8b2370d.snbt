@@ -1,0 +1,19 @@
+{
+	x: -27.199999999999996d,
+	y: -7.899999999999999d,
+	shape: "diamond",
+	tasks: [{
+		uid: "24c47897",
+		type: "item",
+		items: [{
+			id: "harvestcraft:quinoaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

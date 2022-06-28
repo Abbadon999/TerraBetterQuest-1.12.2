@@ -1,0 +1,27 @@
+{
+	x: -44.00000000000003d,
+	y: -6.100000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "315b0fc9",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sesameseedsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1602000L,
+						traits: []
+					}
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -74.80000000000001d,
+	y: -6.5d,
+	tasks: [{
+		uid: "65b9c713",
+		type: "item",
+		items: [{
+			id: "harvestcraft:candiedwalnutsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 72.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "f3823dc1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:fairybreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -25.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "d1e871be",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bulgogiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 30.5d,
+	y: -23.5d,
+	shape: "square",
+	tasks: [{
+		uid: "a23a5771",
+		type: "item",
+		items: [{
+			item: "harvestcraft:peppercorn_sapling"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 30.5d,
+	y: -22.7d,
+	shape: "diamond",
+	tasks: [{
+		uid: "b04d144e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:peppercornitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

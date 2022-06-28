@@ -1,0 +1,17 @@
+{
+	x: 17.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "40e84f5f",
+		type: "item",
+		items: [{
+			id: "harvestcraft:crispyricepuffcerealitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

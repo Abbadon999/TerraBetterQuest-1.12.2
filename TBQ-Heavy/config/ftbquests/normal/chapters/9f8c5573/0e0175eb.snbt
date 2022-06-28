@@ -1,0 +1,12 @@
+{
+	x: 32.5d,
+	y: -10.0d,
+	shape: "square",
+	tasks: [{
+		uid: "8aca3cc9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:rambutan_sapling"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -36.7d,
+	y: -0.8000000000000054d,
+	tasks: [{
+		uid: "7a3c30dc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pinacoladaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

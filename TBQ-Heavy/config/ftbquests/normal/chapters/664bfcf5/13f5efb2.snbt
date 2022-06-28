@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "df213550",
+		type: "item",
+		items: [{
+			id: "harvestcraft:nopalessaladitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

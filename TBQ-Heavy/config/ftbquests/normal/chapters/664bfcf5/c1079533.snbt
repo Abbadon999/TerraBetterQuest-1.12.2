@@ -1,0 +1,17 @@
+{
+	x: -13.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "74783c79",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sundayroastitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1830000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

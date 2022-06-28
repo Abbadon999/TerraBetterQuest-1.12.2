@@ -1,0 +1,17 @@
+{
+	x: -35.7d,
+	y: -2.8d,
+	tasks: [{
+		uid: "b180862a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:energydrinkitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

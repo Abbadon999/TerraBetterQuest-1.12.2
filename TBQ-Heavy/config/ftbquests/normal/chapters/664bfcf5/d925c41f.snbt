@@ -1,0 +1,25 @@
+{
+	x: -22.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "524734c3",
+		type: "item",
+		items: [{
+			id: "harvestcraft:honeysoyribsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1854000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

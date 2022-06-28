@@ -1,0 +1,21 @@
+{
+	x: 46.5d,
+	y: -2.1999999999999993d,
+	tasks: [{
+		uid: "e3a2dcf0",
+		type: "item",
+		items: [{
+			id: "tfcflorae:food/roasted/black_powderpuff",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

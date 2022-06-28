@@ -1,0 +1,12 @@
+{
+	x: -32.40000000000001d,
+	y: -7.799999999999995d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "bf9f8ef2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:hazelnut_sapling"
+		}]
+	}]
+}

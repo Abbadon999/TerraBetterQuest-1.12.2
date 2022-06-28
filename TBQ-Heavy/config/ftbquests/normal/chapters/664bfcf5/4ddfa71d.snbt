@@ -1,0 +1,17 @@
+{
+	x: -28.5d,
+	y: -22.5d,
+	tasks: [{
+		uid: "95cca6d6",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mcpamitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

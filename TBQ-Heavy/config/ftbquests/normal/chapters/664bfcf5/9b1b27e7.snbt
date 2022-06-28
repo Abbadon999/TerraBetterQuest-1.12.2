@@ -1,0 +1,17 @@
+{
+	x: -68.6d,
+	y: -7.299999999999997d,
+	tasks: [{
+		uid: "022debf2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:honeycombchocolatebaritem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

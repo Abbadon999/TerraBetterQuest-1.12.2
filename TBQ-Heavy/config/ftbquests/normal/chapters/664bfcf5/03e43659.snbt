@@ -1,0 +1,17 @@
+{
+	x: -71.9d,
+	y: -11.399999999999999d,
+	tasks: [{
+		uid: "d440ee68",
+		type: "item",
+		items: [{
+			id: "harvestcraft:lavendershortbreaditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1812000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

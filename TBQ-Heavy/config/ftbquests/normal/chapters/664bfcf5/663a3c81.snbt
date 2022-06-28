@@ -1,0 +1,25 @@
+{
+	x: -17.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "2a5ec387",
+		type: "item",
+		items: [{
+			id: "harvestcraft:turkeycookeditem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1824000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1824000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

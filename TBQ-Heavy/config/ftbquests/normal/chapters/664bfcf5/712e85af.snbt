@@ -1,0 +1,17 @@
+{
+	x: -25.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "b0672b62",
+		type: "item",
+		items: [{
+			id: "harvestcraft:chocolatebaconitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

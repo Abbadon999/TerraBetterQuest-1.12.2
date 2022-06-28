@@ -1,0 +1,25 @@
+{
+	x: 73.0d,
+	y: 2.7d,
+	tasks: [{
+		uid: "82b1cf26",
+		type: "item",
+		items: [{
+			id: "minecraft:baked_potato",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1716000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1716000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

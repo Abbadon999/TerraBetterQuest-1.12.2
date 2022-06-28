@@ -1,0 +1,17 @@
+{
+	x: 68.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "27693e7a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:lasagnaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1860000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

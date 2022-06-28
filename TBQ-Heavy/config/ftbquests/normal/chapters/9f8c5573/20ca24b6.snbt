@@ -1,0 +1,12 @@
+{
+	x: 20.5d,
+	y: -10.0d,
+	shape: "square",
+	tasks: [{
+		uid: "d851b98d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pomegranate_sapling"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 76.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "b5b1a1f1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:potatoskinsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

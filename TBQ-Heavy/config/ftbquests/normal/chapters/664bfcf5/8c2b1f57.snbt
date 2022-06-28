@@ -1,0 +1,17 @@
+{
+	x: -47.7d,
+	y: -6.300000000000001d,
+	tasks: [{
+		uid: "dc159d86",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mochaicecreamitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

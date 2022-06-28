@@ -1,0 +1,17 @@
+{
+	x: -70.80000000000001d,
+	y: -5.600000000000001d,
+	tasks: [{
+		uid: "a8d97bfc",
+		type: "item",
+		items: [{
+			id: "harvestcraft:jamrollitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1842000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

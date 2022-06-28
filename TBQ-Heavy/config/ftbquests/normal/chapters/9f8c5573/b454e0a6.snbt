@@ -1,0 +1,20 @@
+{
+	x: -15.5d,
+	y: -3.8999999999999986d,
+	shape: "diamond",
+	size: 1.1d,
+	tasks: [{
+		uid: "3da4dc1a",
+		type: "item",
+		items: [{
+			id: "harvestcraft:zucchiniitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: -9223372036854775808L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

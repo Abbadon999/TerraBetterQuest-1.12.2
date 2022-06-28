@@ -1,0 +1,17 @@
+{
+	x: -31.700000000000003d,
+	y: 1.5999999999999952d,
+	tasks: [{
+		uid: "c926de1e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:persimmonjuiceitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1806000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 18.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "194fcf3c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:roastedpumpkinseedsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1728000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

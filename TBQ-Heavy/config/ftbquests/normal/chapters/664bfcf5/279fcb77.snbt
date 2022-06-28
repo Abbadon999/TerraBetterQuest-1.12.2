@@ -1,0 +1,17 @@
+{
+	x: 75.0d,
+	y: 2.7d,
+	tasks: [{
+		uid: "3bcb195e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:bangersandmashitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

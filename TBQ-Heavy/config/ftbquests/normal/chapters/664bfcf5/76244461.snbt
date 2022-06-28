@@ -1,0 +1,17 @@
+{
+	x: 64.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "f2e793ae",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mushroomketchupomeletitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

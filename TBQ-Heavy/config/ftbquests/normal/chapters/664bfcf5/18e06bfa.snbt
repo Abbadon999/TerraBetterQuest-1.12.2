@@ -1,0 +1,17 @@
+{
+	x: 12.800000000000004d,
+	y: -10.1d,
+	tasks: [{
+		uid: "8372a8d2",
+		type: "item",
+		items: [{
+			id: "harvestcraft:crawfishetoufeeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1878000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

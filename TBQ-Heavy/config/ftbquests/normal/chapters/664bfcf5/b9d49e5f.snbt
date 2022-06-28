@@ -1,0 +1,17 @@
+{
+	x: 8.799999999999997d,
+	y: -10.100000000000001d,
+	tasks: [{
+		uid: "f3facc50",
+		type: "item",
+		items: [{
+			id: "harvestcraft:clamchowderitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1866000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

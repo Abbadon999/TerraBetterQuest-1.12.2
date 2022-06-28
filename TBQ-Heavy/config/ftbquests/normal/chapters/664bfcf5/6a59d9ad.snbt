@@ -1,0 +1,17 @@
+{
+	x: 28.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "f072abc0",
+		type: "item",
+		items: [{
+			id: "harvestcraft:vegetarianlettucewrapitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1752000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

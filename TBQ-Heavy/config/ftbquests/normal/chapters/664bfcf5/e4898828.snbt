@@ -1,0 +1,25 @@
+{
+	x: 72.0d,
+	y: -10.5d,
+	tasks: [{
+		uid: "f740cd30",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pumpkinoatsconesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1800000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 69.5d,
+	y: 9.0d,
+	tasks: [{
+		uid: "32c32314",
+		type: "item",
+		items: [{
+			id: "harvestcraft:eggnogitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1788000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

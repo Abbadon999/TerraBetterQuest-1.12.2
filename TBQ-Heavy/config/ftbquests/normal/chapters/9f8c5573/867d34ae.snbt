@@ -1,0 +1,12 @@
+{
+	x: 15.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "387556ab",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gigapickleseeditem"
+		}]
+	}]
+}

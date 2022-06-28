@@ -1,0 +1,20 @@
+{
+	x: 52.300000000000004d,
+	y: -7.800000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "b8293487",
+		type: "item",
+		items: [{
+			id: "harvestcraft:juniperberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L,
+		consume_items: true
+	}]
+}

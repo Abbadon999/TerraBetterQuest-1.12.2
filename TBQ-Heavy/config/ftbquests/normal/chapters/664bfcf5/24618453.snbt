@@ -1,0 +1,17 @@
+{
+	x: -64.8d,
+	y: -8.200000000000003d,
+	tasks: [{
+		uid: "655b4530",
+		type: "item",
+		items: [{
+			id: "harvestcraft:meringuecookieitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1908000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

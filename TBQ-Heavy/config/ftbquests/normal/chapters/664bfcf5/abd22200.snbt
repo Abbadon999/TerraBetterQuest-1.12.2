@@ -1,0 +1,17 @@
+{
+	x: 9.199999999999994d,
+	y: -10.5d,
+	tasks: [{
+		uid: "4427f001",
+		type: "item",
+		items: [{
+			id: "harvestcraft:shrimptemperaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1914000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

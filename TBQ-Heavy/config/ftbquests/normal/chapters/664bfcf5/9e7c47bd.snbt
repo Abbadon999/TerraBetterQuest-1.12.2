@@ -1,0 +1,17 @@
+{
+	x: 68.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "e3dd8b68",
+		type: "item",
+		items: [{
+			id: "harvestcraft:sweetpotatosouffleitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

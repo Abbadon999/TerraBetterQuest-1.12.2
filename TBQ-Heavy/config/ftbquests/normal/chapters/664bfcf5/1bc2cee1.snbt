@@ -1,0 +1,17 @@
+{
+	x: 20.400000000000006d,
+	y: -9.7d,
+	tasks: [{
+		uid: "0f39f022",
+		type: "item",
+		items: [{
+			id: "harvestcraft:coconutshrimpitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1770000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

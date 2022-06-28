@@ -1,7 +1,7 @@
 {
 	title: "{tbq.quests.primitive.leafmat.title}",
-	x: 8.000000000000002d,
-	y: 5.399999999999999d,
+	x: 17.5d,
+	y: 2.5d,
 	shape: "diamond",
 	description: "{tbq.quests.primitive.leafmat.subtitle}",
 	hide: true,

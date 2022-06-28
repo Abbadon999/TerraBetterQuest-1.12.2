@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "f0c237da",
+		type: "item",
+		items: [{
+			id: "harvestcraft:misosoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

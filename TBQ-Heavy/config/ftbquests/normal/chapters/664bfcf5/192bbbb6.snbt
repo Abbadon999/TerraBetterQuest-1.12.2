@@ -1,0 +1,17 @@
+{
+	x: -36.2d,
+	y: -0.30000000000000715d,
+	tasks: [{
+		uid: "2bd836ae",
+		type: "item",
+		items: [{
+			id: "harvestcraft:strawberrysodaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

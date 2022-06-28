@@ -1,0 +1,17 @@
+{
+	x: -49.7d,
+	y: -6.300000000000001d,
+	tasks: [{
+		uid: "b267e605",
+		type: "item",
+		items: [{
+			id: "harvestcraft:hotcocoaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1968000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 67.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "b6b78c79",
+		type: "item",
+		items: [{
+			id: "tfc:food/cornbread",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1746000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

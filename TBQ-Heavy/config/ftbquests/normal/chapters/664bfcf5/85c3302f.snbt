@@ -1,0 +1,17 @@
+{
+	x: -23.0d,
+	y: -23.0d,
+	tasks: [{
+		uid: "83e8136e",
+		type: "item",
+		items: [{
+			id: "harvestcraft:stuffedchilipeppersitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

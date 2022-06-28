@@ -1,0 +1,21 @@
+{
+	x: 45.5d,
+	y: -2.6999999999999993d,
+	tasks: [{
+		uid: "5fe345f2",
+		type: "item",
+		items: [{
+			id: "tfcflorae:food/roasted/chanterelle",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

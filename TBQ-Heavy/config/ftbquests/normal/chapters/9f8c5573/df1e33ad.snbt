@@ -1,0 +1,19 @@
+{
+	x: -32.40000000000001d,
+	y: -6.999999999999993d,
+	shape: "diamond",
+	tasks: [{
+		uid: "06a9a710",
+		type: "item",
+		items: [{
+			id: "harvestcraft:hazelnutitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

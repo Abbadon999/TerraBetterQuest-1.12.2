@@ -1,0 +1,21 @@
+{
+	x: 44.4d,
+	y: 0.600000000000001d,
+	tasks: [{
+		uid: "d4aaf514",
+		type: "item",
+		items: [{
+			id: "tfcflorae:food/roasted/wood_blewit",
+			ForgeCaps: {
+				"tfc:food": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: -9223372036854775808L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

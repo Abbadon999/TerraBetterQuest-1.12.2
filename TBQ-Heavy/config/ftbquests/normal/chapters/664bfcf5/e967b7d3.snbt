@@ -1,0 +1,17 @@
+{
+	x: 73.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "91bdbcce",
+		type: "item",
+		items: [{
+			id: "harvestcraft:potatocakesitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1740000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

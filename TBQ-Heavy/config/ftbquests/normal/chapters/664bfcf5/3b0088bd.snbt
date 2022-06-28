@@ -1,0 +1,17 @@
+{
+	x: 52.900000000000006d,
+	y: -13.399999999999999d,
+	tasks: [{
+		uid: "c59a4bba",
+		type: "item",
+		items: [{
+			id: "harvestcraft:soymilkitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1800000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

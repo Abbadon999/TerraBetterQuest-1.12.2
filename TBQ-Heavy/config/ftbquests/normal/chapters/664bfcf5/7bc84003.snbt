@@ -1,0 +1,17 @@
+{
+	x: -24.0d,
+	y: -20.0d,
+	tasks: [{
+		uid: "eb4785af",
+		type: "item",
+		items: [{
+			id: "harvestcraft:padthaiitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1896000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

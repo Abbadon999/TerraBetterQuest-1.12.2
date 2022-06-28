@@ -1,0 +1,17 @@
+{
+	x: 77.30000000000001d,
+	y: -15.4d,
+	tasks: [{
+		uid: "6b3b4682",
+		type: "item",
+		items: [{
+			id: "harvestcraft:lemonjellyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1794000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

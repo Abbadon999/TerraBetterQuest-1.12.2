@@ -1,0 +1,19 @@
+{
+	x: 41.5d,
+	y: -9.5d,
+	shape: "diamond",
+	tasks: [{
+		uid: "276dac2d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:mulberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

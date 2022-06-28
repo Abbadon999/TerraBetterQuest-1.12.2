@@ -1,0 +1,25 @@
+{
+	x: 29.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "d80af6f5",
+		type: "item",
+		items: [{
+			id: "harvestcraft:toastedsesameseedsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1722000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1722000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

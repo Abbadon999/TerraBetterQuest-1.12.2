@@ -1,0 +1,17 @@
+{
+	x: -66.3d,
+	y: -13.200000000000003d,
+	tasks: [{
+		uid: "79c221a4",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cottoncandyitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1854000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

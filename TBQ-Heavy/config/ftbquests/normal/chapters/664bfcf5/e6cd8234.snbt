@@ -1,0 +1,17 @@
+{
+	x: -20.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "29e60f7d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:lambkebabitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1818000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

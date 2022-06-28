@@ -1,0 +1,19 @@
+{
+	x: -49.0d,
+	y: -4.100000000000001d,
+	shape: "diamond",
+	tasks: [{
+		uid: "031ecfe9",
+		type: "item",
+		items: [{
+			id: "harvestcraft:soybeanitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

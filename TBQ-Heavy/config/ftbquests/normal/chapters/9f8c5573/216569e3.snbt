@@ -1,0 +1,19 @@
+{
+	x: 35.0d,
+	y: -19.7d,
+	shape: "diamond",
+	tasks: [{
+		uid: "493db613",
+		type: "item",
+		items: [{
+			id: "harvestcraft:papayaitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L
+	}]
+}

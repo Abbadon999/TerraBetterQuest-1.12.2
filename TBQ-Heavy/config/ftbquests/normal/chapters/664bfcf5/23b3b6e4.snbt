@@ -1,0 +1,25 @@
+{
+	x: -64.80000000000001d,
+	y: -9.100000000000001d,
+	tasks: [{
+		uid: "cdfe503c",
+		type: "item",
+		items: [{
+			id: "harvestcraft:redvelvetcupcakeitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				},
+				"tfc:item_heat": {
+					ticks: -1L,
+					heat: 0.0f,
+					food: {
+						creationDate: 1902000L,
+						traits: []
+					}
+				}
+			}
+		}]
+	}]
+}

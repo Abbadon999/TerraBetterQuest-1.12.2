@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: -7.0d,
+	description: "{tbq.quests.primitive.oven.subtitle1}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"e4dda908"
+	],
+	tasks: [{
+		uid: "beaa3c24",
+		type: "item",
+		items: [{
+			item: "firmalife:oven_chimney"
+		}],
+		count: 3L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -22.5d,
+	y: -21.5d,
+	tasks: [{
+		uid: "f7ace25d",
+		type: "item",
+		items: [{
+			id: "harvestcraft:monsterfrieddumplingsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1872000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

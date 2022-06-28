@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "13e8a931",
+		type: "item",
+		items: [{
+			id: "harvestcraft:creamofavocadosoupitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1764000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

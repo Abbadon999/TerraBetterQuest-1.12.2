@@ -1,0 +1,17 @@
+{
+	x: 20.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "196ad157",
+		type: "item",
+		items: [{
+			id: "harvestcraft:pickledbeetsitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1758000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}

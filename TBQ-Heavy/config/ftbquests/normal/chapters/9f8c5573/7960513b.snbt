@@ -1,0 +1,20 @@
+{
+	x: 52.2d,
+	y: -6.299999999999999d,
+	shape: "diamond",
+	tasks: [{
+		uid: "925610a9",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cranberryitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1602000L,
+					traits: []
+				}
+			}
+		}],
+		count: 500L,
+		consume_items: true
+	}]
+}

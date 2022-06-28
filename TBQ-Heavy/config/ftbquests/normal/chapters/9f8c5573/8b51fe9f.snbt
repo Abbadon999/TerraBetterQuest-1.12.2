@@ -1,0 +1,12 @@
+{
+	x: 31.5d,
+	y: -22.1d,
+	shape: "square",
+	tasks: [{
+		uid: "6a135296",
+		type: "item",
+		items: [{
+			item: "harvestcraft:date_sapling"
+		}]
+	}]
+}

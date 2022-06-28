@@ -1,0 +1,17 @@
+{
+	x: -25.0d,
+	y: -20.0d,
+	tasks: [{
+		uid: "8fce63d1",
+		type: "item",
+		items: [{
+			id: "harvestcraft:cheesesteakitem",
+			ForgeCaps: {
+				"tfc:food": {
+					creationDate: 1902000L,
+					traits: []
+				}
+			}
+		}]
+	}]
+}
